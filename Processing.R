@@ -110,3 +110,40 @@ ggplot(SampledData, aes(x = Visit, y = SER, group = PtID, color = as.factor(PtID
   scale_linetype_manual(values = c("solid", "dashed")) +        
   theme_minimal() +
   theme(legend.position = "none")                               # Optionally hide the legend if there are too many patients
+
+
+
+# Calculate and add mean profiles
+MeanProfileData <- MergedData %>%
+  filter(Visit != "Run-in FU Randomization") %>%
+  group_by(Visit, TrtGroup) %>%
+  summarize(Mean_SER = mean(SER, na.rm = TRUE), .groups = 'drop')
+
+# Combined plot with individual trajectories and mean profiles
+ggplot() +
+  # Individual trajectories
+  geom_line(data = SampledData, 
+            aes(x = Visit, y = SER, group = PtID, color = as.factor(PtID), 
+                linetype = TrtGroup),
+            size = 0.5, alpha = 0.7) +
+  geom_point(data = SampledData,
+             aes(x = Visit, y = SER, color = as.factor(PtID)),
+             size = 2, shape = 1) +
+  # Mean profiles
+  geom_line(data = MeanProfileData,
+            aes(x = Visit, y = Mean_SER, group = TrtGroup, linetype = TrtGroup),
+            size = 1.2) +
+  geom_point(data = MeanProfileData,
+             aes(x = Visit, y = Mean_SER, color = TrtGroup),
+             size = 3, shape = 21, fill = "white") +
+  # Labels and theme
+  labs(title = "SER Progression Over Time by Treatment Group",
+       x = "Visit",
+       y = "SER",
+       color = "Patient ID",
+       linetype = "Treatment Group") +
+  scale_x_discrete(drop = FALSE) +
+  theme_minimal() +
+  theme(legend.position = "right")
+
+
