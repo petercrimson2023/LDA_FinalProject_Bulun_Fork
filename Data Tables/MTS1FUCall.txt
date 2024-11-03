@@ -1,0 +1,1079 @@
+RecID|PtID|ParentLoginVisitID|Visit|CallNotDone|CallDt|MTS1PersSpokenWith|TakingMed|SideEffects|CalendarCompliance
+1|110|42922|Week 2 Call|||Mother|No|No
+2|171|43649|Week 2 Call|||Mother|Yes|No
+3|110|43749|Month 3 Call|||Mother|Yes|No
+4|81|43812|Week 2 Call|||Mother|Yes|No
+5|216|43844|Week 2 Call|||Mother|Yes|No
+6|10|43886|Week 2 Call|||Mother|Yes|Yes
+7|178|43984|Week 2 Call|||Mother|Yes|Yes|Yes
+8|116|43985|Week 2 Call|||Mother|Yes|Yes|Yes
+9|184|43988|Week 2 Call|||Mother|Yes|No|Yes
+10|82|44050|Week 2 Call|||Mother|Yes|Yes|Yes
+11|221|44084|Week 2 Call|||Mother|Yes|No|Yes
+12|168|44085|Week 2 Call|||Father|Yes|No|Yes
+13|194|44086|Week 2 Call|||Mother|Yes|No|Yes
+14|22|44189|Week 2 Call|||Mother|Yes|Yes|Yes
+15|107|44202|Week 2 Call|||Mother|Yes|No|Yes
+16|219|44215|Week 2 Call|||Mother|Yes|Yes|Yes
+17|48|44223|Week 2 Call|||Father|Yes|No|Yes
+18|109|44261|Week 2 Call|||Mother|Yes|Yes|Yes
+19|9|44273|Week 2 Call|||Mother|Yes|Yes|Yes
+20|162|44296|Week 2 Call|||Mother|Yes|Yes|Yes
+21|3|44323|Week 2 Call|||Mother|Yes|No|Yes
+22|63|44331|Week 2 Call|||Mother|Yes|Yes|Yes
+23|38|44353|Week 2 Call|||Mother|Yes|Yes|Yes
+24|193|44354|Week 2 Call|||Father|Yes|Yes|Yes
+25|81|44382|Month 3 Call|||Mother|Yes|Yes|Yes
+26|117|44468|Week 2 Call|||Father|Yes|No|Yes
+27|137|44469|Week 2 Call|||Mother|Yes|No|Yes
+28|171|44474|Month 3 Call|||Mother|Yes|No|Yes
+29|54|44495|Week 2 Call|||Mother|Yes|Yes|Yes
+30|39|44496|Week 2 Call|||Mother|Yes|Yes|Yes
+31|44|44507|Week 2 Call|||Mother|Yes|Yes|Yes
+32|119|44544|Week 2 Call|||Mother|Yes|Yes|Yes
+33|32|44546|Week 2 Call|||Mother|Yes|Yes|Yes
+34|77|44562|Week 2 Call|||Mother|Yes|Yes|Yes
+35|121|44597|Week 2 Call|||Mother|Yes|No|Yes
+36|1|44601|Week 2 Call|||Mother|Yes|Yes|Yes
+37|22|44606|Month 3 Call|||Mother|Yes|No|Yes
+38|10|44632|Month 3 Call|||Mother|Yes|No|Yes
+39|216|44703|Month 3 Call|||Mother|Yes|Yes|Yes
+40|82|44706|Month 3 Call|||Mother|Yes|No|Yes
+41|178|44764|Month 3 Call|||Mother|Yes|Yes|Yes
+42|116|44765|Month 3 Call|||Mother|Yes|Yes|Yes
+43|163|44766|Week 2 Call|||Father|Yes|Yes|Yes
+44|109|44767|Month 3 Call|||Mother|Yes|No|Yes
+45|3|44793|Month 3 Call|||Mother|Yes|No|Yes
+46|112|44813|Week 2 Call|||Father|Yes|Yes|Yes
+47|184|44844|Month 3 Call|||Mother|Yes|Yes|Yes
+48|205|44936|Week 2 Call|||Mother|Yes|No|Yes
+49|96|44956|Week 2 Call|||Mother|Yes|Yes|Yes
+50|162|44963|Month 3 Call|||Mother|Yes|No|Yes
+51|44|44976|Month 3 Call|||Mother|Yes|No|Yes
+52|193|44978|Month 3 Call|||Mother|Yes|No|Yes
+53|132|44983|Week 2 Call|||Mother|Yes|No|Yes
+54|168|44985|Month 3 Call|||Mother|Yes|No|Yes
+55|107|44986|Month 3 Call|||Mother|Yes|No|Yes
+56|105|44987|Week 2 Call|||Mother|Yes|No|Yes
+57|117|44988|Month 3 Call|||Father|Yes|No|Yes
+58|167|44989|Week 2 Call|||Mother|Yes|No|Yes
+59|38|44995|Month 3 Call|||Mother|Yes|No|Yes
+60|93|45010|Week 2 Call|||Mother|Yes|No|Yes
+61|9|45012|Month 3 Call|||Mother|Yes|No|Yes
+62|63|45013|Month 3 Call|||Mother|Yes|Yes|Yes
+63|77|45016|Month 3 Call|||Mother|Yes|No|Yes
+64|32|45017|Month 3 Call|||Mother|Yes|No|Yes
+65|131|45018|Week 2 Call|||Mother|Yes|Yes|Yes
+66|121|45020|Month 3 Call|||Mother|Yes|No|Yes
+67|119|45021|Month 3 Call|||Mother|Yes|No|Yes
+68|48|45023|Month 3 Call|||Mother|Yes|No|Yes
+69|221|45039|Month 3 Call|||Mother|Yes|No|Yes
+70|194|45041|Month 3 Call|||Mother|Yes|No|Yes
+71|27|45045|Week 2 Call|||Mother|Yes|No|Yes
+72|137|45063|Month 3 Call|||Father|Yes|No|Yes
+73|1|45071|Month 3 Call|||Mother|Yes|No|Yes
+74|219|45072|Month 3 Call|||Mother|Yes|No|Yes
+75|39|45077|Month 3 Call|||Mother|Yes|No|Yes
+76|113|45089|Week 2 Call|||Father|Yes|No|Yes
+77|54|45098|Month 3 Call|||Mother|Yes|No|Yes
+78|21|45108|Week 2 Call|||Mother|Yes|No|Yes
+79|120|45145|Week 2 Call|||Mother|Yes|Yes|Yes
+80|72|45148|Week 2 Call|||Mother|Yes|No|Yes
+81|52|45149|Week 2 Call|||Mother|Yes|Yes|Yes
+82|6|45168|Week 2 Call|||Mother|Yes|Yes|Yes
+83|155|45169|Week 2 Call|||Mother|Yes|Yes|Yes
+84|225|45177|Week 2 Call|||Mother|Yes|No|Yes
+85|103|45180|Week 2 Call|||Mother|Yes|Yes|Yes
+86|51|45208|Week 2 Call|||Mother|Yes|Yes|Yes
+87|191|45295|Week 2 Call|||Mother|Yes|No|Yes
+88|93|45328|Month 3 Call|||Mother|Yes|No|Yes
+89|123|45333|Week 2 Call|||Mother|Yes|No|Yes
+90|142|45340|Week 2 Call|||Mother|Yes|No|Yes
+91|37|45352|Week 2 Call|||Mother|Yes|Yes|Yes
+92|105|45376|Month 3 Call|||Mother|Yes|No|Yes
+93|167|45377|Month 3 Call|||Mother|Yes|No|Yes
+94|132|45378|Month 3 Call|||Mother|Yes|Yes|Yes
+95|84|45383|Month 3 Call|||Mother|Yes|Yes|Yes
+96|102|45384|Week 2 Call|||Mother|Yes|Yes|Yes
+97|131|45390|Month 3 Call|||Mother|Yes|No|Yes
+98|161|45399|Week 2 Call|||Mother|Yes|Yes|Yes
+99|146|45432|Week 2 Call|||Mother|Yes|Yes|Yes
+100|112|45435|Month 3 Call|||Father|Yes|No|Yes
+101|96|45445|Month 3 Call|||Mother|Yes|No|Yes
+102|27|45447|Month 3 Call|||Mother|Yes|Yes|Yes
+103|19|45470|Week 2 Call|||Father|Yes|Yes|Yes
+104|153|45496|Week 2 Call|||Mother|Yes|Yes|Yes
+105|157|45502|Week 2 Call|||Mother|Yes|No|Yes
+106|87|45503|Week 2 Call|||Mother|Yes|No|Yes
+107|138|45504|Week 2 Call|||Mother|Yes|No|Yes
+108|21|45519|Month 3 Call|||Mother|Yes|No|Yes
+109|147|45529|Week 2 Call|||Mother|Yes|No|Yes
+110|43|45531|Week 2 Call|||Mother|Yes|No|Yes
+111|113|45539|Month 3 Call|||Father|Yes|No|Yes
+112|214|45601|Week 2 Call|||Mother|Yes|Yes|Yes
+113|35|45644|Week 2 Call|||Mother|Yes|Yes|Yes
+114|103|45645|Month 3 Call|||Mother|Yes|No|Yes
+115|164|45650|Week 2 Call|||Mother|Yes|No|Yes
+116|129|45651|Week 2 Call|||Mother|Yes|No|Yes
+117|100|45663|Week 2 Call|||Mother|Yes|No|Yes
+118|163|45664|Month 3 Call|||Father|Yes|No|Yes
+119|225|45691|Month 3 Call|||Mother|Yes|No|Yes
+120|79|45692|Week 2 Call|||Mother|Yes|Yes|Yes
+121|47|45709|Week 2 Call|||Mother|Yes|No|Yes
+122|120|45710|Month 3 Call|||Mother|Yes|No|Yes
+123|205|45713|Month 3 Call|||Mother|Yes|No|Yes
+124|51|45720|Month 3 Call|||Mother|Yes|Yes|Yes
+125|166|45744|Week 2 Call|||Mother|Yes|Yes|Yes
+126|34|45745|Week 2 Call|||Mother|Yes|No|Yes
+127|156|45746|Week 2 Call|||Mother|Yes|No|Yes
+128|224|45757|Week 2 Call|||Mother|Yes|Yes|Yes
+129|142|45779|Month 3 Call|||Mother|Yes|No|Yes
+130|11|45782|Week 2 Call|||Mother|Yes|Yes|Yes
+131|191|45786|Month 3 Call|||Mother|Yes|No|Yes
+132|181|45799|Week 2 Call|||Mother|Yes|Yes|Yes
+133|72|45800|Month 3 Call|||Mother|Yes|No|Yes
+134|37|45815|Month 3 Call|||Mother|Yes|No|Yes
+135|133|45816|Week 2 Call|||Mother|Yes|Yes|Yes
+136|123|45872|Month 3 Call|||Mother|Yes|No|Yes
+137|146|45873|Month 3 Call|||Mother|Yes|No|Yes
+138|211|45874|Week 2 Call|||Mother|Yes|Yes|Yes
+139|173|45875|Week 2 Call|||Father|Yes|No|Yes
+140|43|45882|Month 3 Call|||Mother|Yes|No|Yes
+141|52|45885|Month 3 Call|||Mother|Yes|Yes|Yes
+142|75|45907|Week 2 Call|||Mother|Yes|No|Yes
+143|62|45916|Week 2 Call|||Father|Yes|Yes|Yes
+144|179|45971|Week 2 Call|||Father|Yes|No|Yes
+145|198|45973|Week 2 Call|||Mother|Yes|Yes|Yes
+146|6|45974|Month 3 Call|||Mother|Yes|Yes|Yes
+147|161|45977|Month 3 Call|||Mother|Yes|Yes|Yes
+148|101|45980|Week 2 Call|||Mother|Yes|Yes|Yes
+149|81|45994|Month 9 Call|||Mother|Yes|No|Yes
+150|73|45995|Week 2 Call|||Mother|Yes|No|Yes
+151|143|46002|Week 2 Call|||Mother|Yes|No|Yes
+152|155|46027|Month 3 Call|||Mother|Yes|No|Yes
+153|102|46028|Month 3 Call|||Mother|Yes|No|Yes
+154|83|46047|Week 2 Call|||Mother|Yes|Yes|Yes
+155|115|46067|Week 2 Call|||Mother|Yes|No|Yes
+156|19|46079|Month 3 Call|||Father|Yes|No|Yes
+157|100|46081|Month 3 Call|||Mother|Yes|No|Yes
+158|106|46097|Week 2 Call|||Father|Yes|Yes|Yes
+159|41|46100|Week 2 Call|||Mother|Yes|No|Yes
+160|55|46109|Week 2 Call|||Mother|Yes|Yes|Yes
+161|180|46112|Week 2 Call|||Mother|Yes|Yes|Yes
+162|212|46129|Week 2 Call|||Father|Yes|No|Yes
+163|33|46167|Week 2 Call|||Mother|Yes|Yes|Yes
+164|224|46168|Month 3 Call|||Mother|Yes|No|Yes
+165|99|46214|Week 2 Call|||Mother|Yes|No|Yes
+166|24|46225|Week 2 Call|||Mother|Yes|No|Yes
+167|64|46230|Week 2 Call|||Mother|Yes|Yes|Yes
+168|169|46252|Week 2 Call|||Mother|Yes|No|Yes
+169|208|46254|Week 2 Call|||Mother|Yes|Yes|Yes
+170|175|46269|Week 2 Call|||Mother|Yes|Yes|Yes
+171|48|46270|Month 9 Call|||Mother|Yes|No|Yes
+172|178|46319|Month 9 Call|||Mother|Yes|Yes|Yes
+173|116|46320|Month 9 Call|||Mother|Yes|Yes|Yes
+174|25|46333|Week 2 Call|||Father|Yes|Yes|Yes
+175|111|46353|Week 2 Call|||Mother|Yes|Yes|Yes
+176|57|46354|Week 2 Call|||Mother|Yes|Yes|Yes
+177|213|46355|Week 2 Call|||Mother|Yes|Yes|Yes
+178|62|46358|Month 3 Call|||Father|Yes|Yes|Yes
+179|58|46360|Week 2 Call|||Father|Yes|Yes|Yes
+180|211|46406|Month 3 Call|||Mother|Yes|No|Yes
+181|5|46407|Week 2 Call|||Mother|Yes|No|Yes
+182|83|46411|Month 3 Call|||Mother|Yes|No|Yes
+183|181|46452|Month 3 Call|||Mother|Yes|Yes|Yes
+184|115|46453|Month 3 Call|||Mother|Yes|No|Yes
+185|148|46464|Week 2 Call|||Mother|Yes|No|Yes
+186|219|46466|Month 9 Call|||Mother|Yes|No|Yes
+187|179|46481|Month 3 Call|||Father|Yes|Yes|Yes
+188|135|46512|Week 2 Call|||Mother|Yes|Yes|Yes
+189|118|46513|Week 2 Call|||Mother|Yes|Yes|Yes
+190|71|46540|Week 2 Call|||Mother|Yes|Yes|Yes
+191|39|46547|Month 9 Call|||Mother|Yes|No|Yes
+192|89|46548|Week 2 Call|||Mother|Yes|No|Yes
+193|119|46572|Month 9 Call|||Mother|Yes|No|Yes
+194|59|46573|Week 2 Call|||Mother|Yes|Yes|Yes
+195|88|46579|Week 2 Call|||Mother|Yes|No|Yes
+196|166|46582|Month 3 Call|||Mother|Yes|No|Yes
+197|214|46583|Month 3 Call|||Mother|Yes|No|Yes
+198|153|46591|Month 3 Call|||Mother|Yes|Yes|Yes
+199|147|46592|Month 3 Call|||Mother|Yes|No|Yes
+200|10|46593|Month 9 Call|||Mother|Yes|Yes|Yes
+201|184|46595|Month 9 Call|||Mother|Yes|Yes|Yes
+202|121|46596|Month 9 Call|||Mother|Yes|No|Yes
+203|1|46597|Month 9 Call|||Mother|Yes|Yes|Yes
+204|156|46598|Month 3 Call|||Mother|Yes|No|Yes
+205|109|46599|Month 9 Call|||Mother|Yes|No|Yes
+206|22|46600|Month 9 Call|||Mother|Yes|No|Yes
+207|122|46601|Week 2 Call|||Mother|Yes|No|Yes
+208|198|46602|Month 3 Call|||Mother|Yes|Yes|Yes
+209|44|46604|Month 9 Call|||Mother|Yes|Yes|Yes
+210|34|46611|Month 3 Call|||Mother|Yes|No|Yes
+211|82|46615|Month 9 Call|||Mother|Yes|No|Yes
+212|221|46619|Month 9 Call|||Father|Yes|No|Yes
+213|168|46620|Month 9 Call|||Mother|Yes|No|Yes
+214|194|46621|Month 9 Call|||Mother|Yes|No|Yes
+215|107|46622|Month 9 Call|||Mother|Yes|No|Yes
+216|164|46623|Month 3 Call|||Mother|Yes|No|Yes
+217|79|46624|Month 3 Call|||Mother|Yes|No|Yes
+218|117|46626|Month 9 Call|||Mother|Yes|No|Yes
+219|137|46627|Month 9 Call|||Mother|Yes|No|Yes
+220|3|46629|Month 9 Call|||Mother|Yes|No|Yes
+221|36|46630|Week 2 Call|||Mother|Yes|Yes|Yes
+222|171|46631|Month 9 Call|||Mother|Yes|No|Yes
+223|46|46632|Week 2 Call|||Mother|Yes|No|Yes
+224|11|46633|Month 3 Call|||Mother|Yes|Yes|Yes
+225|38|46637|Month 9 Call|||Mother|Yes|No|Yes
+226|77|46638|Month 9 Call|||Mother|Yes|Yes|Yes
+227|94|46643|Week 2 Call|||Mother|Yes|Yes|Yes
+228|14|46644|Week 2 Call|||Father|Yes|Yes|Yes
+229|68|46650|Week 2 Call|||Mother|Yes|No|Yes
+230|32|46655|Month 9 Call|||Mother|Yes|Yes|Yes
+231|193|46656|Month 9 Call|||Mother|Yes|Yes|Yes
+232|101|46658|Month 3 Call|||Mother|Yes|No|Yes
+233|133|46679|Month 3 Call|||Mother|Yes|No|Yes
+234|212|46680|Month 3 Call|||Other|Yes|No|Yes
+235|63|46681|Month 9 Call|||Mother|Yes|No|Yes
+236|25|46693|Month 3 Call|||Father|Yes|Yes|Yes
+237|75|46705|Month 3 Call|||Mother|Yes|No|Yes
+238|173|46706|Month 3 Call|||Father|Yes|No|Yes
+239|47|46710|Month 3 Call|||Mother|Yes|No|Yes
+240|58|46715|Month 3 Call|||Father|Yes|Yes|Yes
+241|12|46718|Week 2 Call|||Mother|Yes|No|Yes
+242|129|46720|Month 3 Call|||Mother|Yes|No|Yes
+243|162|46732|Month 9 Call|||Mother|Yes|No|Yes
+244|9|46736|Month 9 Call|||Mother|Yes|Yes|Yes
+245|106|46744|Month 3 Call|||Father|Yes|No|Yes
+246|136|46760|Week 2 Call|||Mother|Yes|No|Yes
+247|175|46762|Month 3 Call|||Mother|Yes|No|Yes
+248|152|46763|Week 2 Call|||Mother|Yes|No|Yes
+249|169|46774|Month 3 Call|||Mother|Yes|No|Yes
+250|165|46779|Week 2 Call|||Father|Yes|Yes|Yes
+251|12|46780|Month 3 Call|||Mother|Yes|No|Yes
+252|143|46785|Month 3 Call|||Mother|Yes|Yes|Yes
+253|114|46786|Week 2 Call|||Mother|Yes|No|Yes
+254|64|46800|Month 3 Call|||Mother|Yes|Yes|Yes
+255|216|46807|Month 9 Call|||Mother|Yes|No|Yes
+256|149|46813|Week 2 Call|||Mother|Yes|Yes|Yes
+257|99|46815|Month 3 Call|||Mother|Yes|No|Yes
+258|41|46818|Month 3 Call|||Mother|Yes|No|Yes
+259|8|46821|Week 2 Call|||Mother|Yes|No|Yes
+260|204|46823|Week 2 Call|||Mother|Yes|Yes|Yes
+261|180|46825|Month 3 Call|||Mother|Yes|Yes|Yes
+262|118|46843|Month 3 Call|||Mother|Yes|Yes|Yes
+263|111|46844|Month 3 Call|||Mother|Yes|Yes|Yes
+264|24|46845|Month 3 Call|||Mother|Yes|Yes|Yes
+265|96|46846|Month 9 Call|||Mother|Yes|Yes|Yes
+266|73|46864|Month 3 Call|||Mother|Yes|No|Yes
+267|57|46866|Month 3 Call|||Mother|Yes|Yes|Yes
+268|105|46892|Month 9 Call|||Mother|Yes|No|Yes
+269|163|46893|Month 9 Call|||Father|Yes|No|Yes
+270|55|46905|Month 3 Call|||Mother|Yes|No|Yes
+271|71|46908|Month 3 Call|||Mother|Yes|Yes|Yes
+272|158|46917|Week 2 Call|||Mother|Yes|Yes|Yes
+273|128|46919|Week 2 Call|||Mother|Yes|Yes|Yes
+274|33|46924|Month 3 Call|||Mother|Yes|Yes|Yes
+275|59|46935|Month 3 Call|||Mother|Yes|No|Yes
+276|5|46946|Month 3 Call|||Mother|Yes|No|Yes
+277|213|46948|Month 3 Call|||Mother|Yes|Yes|Yes
+278|89|46953|Month 3 Call|||Mother|Yes|No|Yes
+279|205|46956|Month 9 Call|||Mother|Yes|No|Yes
+280|23|46960|Week 2 Call|||Mother|Yes|No|Yes
+281|84|46965|Month 9 Call|||Mother|Yes|Yes|Yes
+282|54|46966|Month 9 Call|||Mother|Yes|No|Yes
+283|27|46987|Month 9 Call|||Mother|Yes|Yes|Yes
+284|103|47003|Month 9 Call|||Mother|Yes|Yes|Yes
+285|210|47007|Week 2 Call|||Mother|Yes|Yes|Yes
+286|130|47034|Week 2 Call|||Mother|Yes|Yes|Yes
+287|90|47038|Week 2 Call|||Mother|Yes|Yes|Yes
+288|208|47055|Month 3 Call|||Mother|Yes|No|Yes
+289|215|47057|Week 2 Call|||Mother|Yes|Yes|Yes
+290|151|47059|Week 2 Call|||Father|Yes|No|Yes
+291|225|47065|Month 9 Call|||Mother|Yes|No|Yes
+292|112|47075|Month 9 Call|||Father|Yes|No|Yes
+293|94|47077|Month 3 Call|||Mother|Yes|Yes|Yes
+294|21|47078|Month 9 Call|||Mother|Yes|No|Yes
+295|93|47081|Month 9 Call|||Mother|Yes|No|Yes
+296|131|47082|Month 9 Call|||Mother|Yes|No|Yes
+297|148|47084|Month 3 Call|||Mother|Yes|Yes|Yes
+298|40|47085|Week 2 Call|||Mother|Yes|Yes|Yes
+299|191|47093|Month 9 Call|||Mother|Yes|No|Yes
+300|37|47124|Month 9 Call|||Mother|Yes|No|Yes
+301|149|47129|Month 3 Call|||Mother|Yes|Yes|Yes
+302|204|47133|Month 3 Call|||Mother|Yes|Yes|Yes
+303|142|47134|Month 9 Call|||Mother|Yes|No|Yes
+304|8|47135|Month 3 Call|||Mother|Yes|No|Yes
+305|76|47137|Week 2 Call|||Mother|Yes|Yes|Yes
+306|18|47141|Week 2 Call|||Mother|Yes|Yes|Yes
+307|135|47187|Month 3 Call|||Mother|Yes|No|Yes
+308|88|47198|Month 3 Call|||Mother|Yes|No|Yes
+309|36|47199|Month 3 Call|||Mother|Yes|No|Yes
+310|190|47202|Week 2 Call|||Mother|Yes|No|Yes
+311|30|47205|Week 2 Call|||Father|Yes|No|Yes
+312|102|47209|Month 9 Call|||Mother|Yes|No|Yes
+313|155|47210|Month 9 Call|||Mother|Yes|No|Yes
+314|51|47228|Month 9 Call|||Mother|Yes|No|Yes
+315|120|47229|Month 9 Call|||Mother|Yes|No|Yes
+316|68|47230|Month 3 Call|||Mother|Yes|No|Yes
+317|123|47231|Month 9 Call|||Mother|Yes|No|Yes
+318|136|47242|Month 3 Call|||Mother|Yes|No|Yes
+319|122|47259|Month 3 Call|||Mother|Yes|No|Yes
+320|14|47262|Month 3 Call|||Father|Yes|No|Yes
+321|150|47265|Week 2 Call|||Mother|Yes|Yes|Yes
+322|186|47268|Week 2 Call|||Mother|Yes|No|Yes
+323|46|47273|Month 3 Call|||Mother|Yes|No|Yes
+324|218|47274|Week 2 Call|||Mother|Yes|Yes|Yes
+325|192|47275|Week 2 Call|||Mother|Yes|No|Yes
+326|161|47288|Month 9 Call|||Mother|Yes|Yes|Yes
+327|147|47289|Month 9 Call|||Mother|Yes|Yes|Yes
+328|16|47290|Week 2 Call|||Mother|Yes|Yes|Yes
+329|189|47317|Week 2 Call|||Father|Yes|No|Yes
+330|6|47326|Month 9 Call|||Mother|Yes|Yes|Yes
+331|31|47350|Week 2 Call|||Mother|Yes|Yes|Yes
+332|113|47356|Month 9 Call|||Father|Yes|No|Yes
+333|157|47357|Month 9 Call|||Mother|Yes|No|Yes
+334|87|47358|Month 9 Call|||Mother|Yes|No|Yes
+335|72|47363|Month 9 Call|||Mother|Yes|No|Yes
+336|52|47371|Month 9 Call|||Mother|Yes|Yes|Yes
+337|152|47391|Month 3 Call|||Mother|Yes|No|Yes
+338|145|47397|Week 2 Call|||Father|Yes|Yes|Yes
+339|172|47398|Week 2 Call|||Mother|Yes|Yes|No
+340|10|47401|Month 15 Call|||Mother|Yes|Yes|Yes
+341|81|47411|Month 15 Call|||Mother|Yes|No|Yes
+342|134|47440|Week 2 Call|||Mother|Yes|Yes|Yes
+343|165|47453|Month 3 Call|||Father|Yes|No|Yes
+344|128|47454|Month 3 Call|||Father|Yes|No|Yes
+345|176|47456|Week 2 Call|||Mother|Yes|No|Yes
+346|126|47470|Week 2 Call|||Mother|Yes|Yes|Yes
+347|20|47518|Week 2 Call|||Father|Yes|No|Yes
+348|171|47528|Month 15 Call|||Mother|Yes|No|Yes
+349|184|47530|Month 15 Call|||Mother|Yes|Yes|Yes
+350|43|47553|Month 9 Call|||Mother|Yes|Yes|Yes
+351|181|47555|Month 9 Call|||Mother|Yes|Yes|Yes
+352|215|47556|Month 3 Call|||Mother|Yes|Yes|Yes
+353|18|47558|Month 3 Call|||Mother|Yes|Yes|Yes
+354|114|47561|Month 3 Call|||Mother|Yes|No|Yes
+355|210|47581|Month 3 Call|||Mother|Yes|No|Yes
+356|35|47607|Month 9 Call|||Mother|Yes|Yes|Yes
+357|193|47616|Month 15 Call|||Mother|Yes|Yes|Yes
+358|146|47639|Month 9 Call|||Mother|Yes|No|Yes
+359|47|47640|Month 9 Call|||Mother|Yes|No|Yes
+360|211|47641|Month 9 Call|||Mother|Yes|No|Yes
+361|173|47642|Month 9 Call|||Father|Yes|No|Yes
+362|158|47645|Month 3 Call|||Mother|Yes|No|Yes
+363|153|47647|Month 9 Call|||Mother|Yes|Yes|Yes
+364|19|47648|Month 9 Call|||Father|Yes|No|Yes
+365|100|47649|Month 9 Call|||Mother|Yes|No|Yes
+366|224|47651|Month 9 Call|||Mother|Yes|No|Yes
+367|207|47699|Week 2 Call|||Mother|Yes|Yes|Yes
+368|216|47701|Month 15 Call|||Mother|Yes|No|Yes
+369|101|47704|Month 9 Call|||Mother|Yes|Yes|Yes
+370|91|47709|Week 2 Call|||Mother|Yes|Yes|Yes
+371|178|47713|Month 15 Call|||Mother|Yes|Yes|Yes
+372|116|47714|Month 15 Call|||Mother|Yes|No|Yes
+373|221|47747|Month 15 Call|||Father|Yes|No|Yes
+374|168|47748|Month 15 Call|||Father|Yes|No|Yes
+375|23|47749|Month 3 Call|||Mother|Yes|No|Yes
+376|90|47776|Month 3 Call|||Mother|Yes|No|Yes
+377|151|47784|Month 3 Call|||Father|Yes|No|Yes
+378|85|47789|Week 2 Call|||Other|Yes|Yes|Yes
+379|154|47790|Week 2 Call|||Mother|Yes|Yes|Yes
+380|214|47792|Month 9 Call|||Mother|Yes|No|Yes
+381|82|47793|Month 15 Call|||Mother|Yes|Yes|Yes
+382|130|47795|Month 3 Call|||Mother|No|No|No
+383|174|47807|Week 2 Call|||Mother|Yes|No|Yes
+384|76|47808|Month 3 Call|||Mother|Yes|No|Yes
+385|106|47809|Month 9 Call|||Father|Yes|No|Yes
+386|80|47813|Week 2 Call|||Mother|Yes|Yes|Yes
+387|32|47814|Month 15 Call|||Mother|Yes|Yes|Yes
+388|138|47817|Month 9 Call|||Mother|Yes|No|Yes
+389|194|47818|Month 15 Call|||Mother|Yes|No|Yes
+390|107|47819|Month 15 Call|||Mother|Yes|No|Yes
+391|117|47820|Month 15 Call|||Father|Yes|No|Yes
+392|137|47821|Month 15 Call|||Mother|Yes|No|Yes
+393|129|47822|Month 9 Call|||Mother|Yes|No|Yes
+394|164|47826|Month 9 Call|||Mother|Yes|No|Yes
+395|189|47832|Month 3 Call|||Father|Yes|No|Yes
+396|44|47834|Month 15 Call|||Mother|Yes|No|Yes
+397|11|47852|Month 9 Call|||Mother|Yes|No|Yes
+398|74|47858|Week 2 Call|||Mother|Yes|Yes|Yes
+399|48|47859|Month 15 Call|||Mother|Yes|No|Yes
+400|156|47860|Month 9 Call|||Mother|Yes|No|Yes
+401|219|47861|Month 15 Call|||Mother|Yes|No|Yes
+402|109|47863|Month 15 Call|||Mother|Yes|No|Yes
+403|77|47864|Month 15 Call|||Mother|Yes|Yes|Yes
+404|197|47865|Week 2 Call|||Mother|Yes|Yes|Yes
+405|15|47873|Week 2 Call|||Mother|Yes|Yes|Yes
+406|98|47882|Week 2 Call|||Mother|Yes|Yes|Yes
+407|185|47887|Week 2 Call|||Mother|Yes|No|Yes
+408|162|47892|Month 15 Call|||Mother|Yes|No|Yes
+409|218|47897|Month 3 Call|||Mother|Yes|Yes|Yes
+410|159|47899|Week 2 Call|||Father|Yes|Yes|Yes
+411|202|47901|Week 2 Call|||Mother|Yes|No|Yes
+412|29|47902|Week 2 Call|||Mother|Yes|Yes|Yes
+413|192|47905|Month 3 Call|||Mother|Yes|Yes|Yes
+414|97|47909|Week 2 Call|||Father|Yes|Yes|Yes
+415|40|47915|Month 3 Call|||Mother|Yes|Yes|Yes
+416|31|47917|Month 3 Call|||Mother|Yes|No|Yes
+417|39|47918|Month 15 Call|||Mother|Yes|No|Yes
+418|83|47919|Month 9 Call|||Mother|Yes|No|Yes
+419|84|47920|Month 15 Call|||Mother|Yes|No|Yes
+420|54|47922|Month 15 Call|||Mother|Yes|No|Yes
+421|41|47927|Month 9 Call|||Mother|Yes|No|Yes
+422|166|47933|Month 9 Call|||Mother|Yes|No|Yes
+423|198|47938|Month 9 Call|||Mother|Yes|Yes|Yes
+424|34|47941|Month 9 Call|||Mother|Yes|No|Yes
+425|169|47946|Month 9 Call|||Mother|Yes|No|Yes
+426|30|47952|Month 3 Call|||Mother|Yes|No|Yes
+427|186|47959|Month 3 Call|||Mother|Yes|No|Yes
+428|55|47966|Month 9 Call|||Mother|Yes|No|Yes
+429|150|47969|Month 3 Call|||Mother|Yes|Yes|Yes
+430|172|47974|Month 3 Call|||Mother|Yes|No|No
+431|86|47986|Week 2 Call|||Mother|Yes|Yes|Yes
+432|127|48000|Week 2 Call|||Mother|Yes|Yes|Yes
+433|22|48007|Month 15 Call|||Mother|Yes|No|Yes
+434|20|48021|Month 3 Call|||Father|Yes|Yes|Yes
+435|79|48022|Month 9 Call|||Mother|Yes|No|Yes
+436|4|48023|Week 2 Call|||Mother|Yes|No|Yes
+437|196|48037|Week 2 Call|||Father|Yes|No|Yes
+438|16|48042|Month 3 Call|||Mother|Yes|Yes|Yes
+439|53|48044|Week 2 Call|||Mother|Yes|Yes|Yes
+440|38|48045|Month 15 Call|||Other|Yes|Yes|Yes
+441|3|48054|Month 15 Call|||Mother|Yes|No|Yes
+442|133|48055|Month 9 Call|||Mother|Yes|No|Yes
+443|212|48056|Month 9 Call|||Father|Yes|No|Yes
+444|190|48057|Month 3 Call|||Father|Yes|No|Yes
+445|183|48058|Week 2 Call|||Mother|Yes|No|Yes
+446|62|48059|Month 9 Call|||Father|Yes|Yes|Yes
+447|115|48060|Month 9 Call|||Mother|Yes|No|Yes
+448|24|48061|Month 9 Call|||Mother|Yes|Yes|Yes
+449|119|48076|Month 15 Call|||Mother|Yes|No|Yes
+450|74|48082|Month 3 Call|||Mother|Yes|Yes|Yes
+451|200|48087|Week 2 Call|||Mother|Yes|No|Yes
+452|26|48092|Week 2 Call|||Mother|Yes|No|Yes
+453|145|48096|Month 3 Call|||Father|Yes|Yes|Yes
+454|63|48118|Month 15 Call|||Mother|Yes|No|Yes
+455|25|48124|Month 9 Call|||Father|Yes|Yes|Yes
+456|134|48125|Month 3 Call|||Mother|Yes|No|Yes
+457|176|48127|Month 3 Call|||Mother|Yes|No|Yes
+458|223|48132|Week 2 Call|||Mother|Yes|Yes|Yes
+459|75|48134|Month 9 Call|||Mother|Yes|No|Yes
+460|141|48138|Week 2 Call|||Mother|Yes|No|Yes
+461|125|48146|Week 2 Call|||Mother|Yes|No|Yes
+462|124|48149|Week 2 Call|||Father|Yes|Yes|Yes
+463|177|48158|Week 2 Call|||Mother|Yes|No|Yes
+464|73|48163|Month 9 Call|||Mother|Yes|No|Yes
+465|64|48173|Month 9 Call|||Mother|Yes|Yes|No
+466|57|48175|Month 9 Call|||Other|Yes|No|Yes
+467|143|48177|Month 9 Call|||Mother|Yes|Yes|Yes
+468|28|48188|Week 2 Call|||Mother|Yes|No|Yes
+469|112|48202|Month 15 Call|||Father|Yes|No|Yes
+470|208|48205|Month 9 Call|||Mother|Yes|No|Yes
+471|105|48209|Month 15 Call|||Mother|Yes|No|Yes
+472|167|48210|Month 15 Call|||Mother|Yes|No|Yes
+473|185|48211|Month 3 Call|||Mother|Yes|No|Yes
+474|180|48219|Month 9 Call|||Mother|Yes|Yes|Yes
+475|71|48226|Month 9 Call|||Mother|Yes|Yes|Yes
+476|1|48227|Month 15 Call|||Mother|Yes|Yes|Yes
+477|175|48228|Month 9 Call|||Mother|Yes|Yes|Yes
+478|98|48229|Month 3 Call|||Mother|Yes|Yes|Yes
+479|197|48234|Month 3 Call|||Mother|Yes|No|Yes
+480|121|48239|Month 15 Call|||Father|Yes|No|Yes
+481|91|48242|Month 3 Call|||Mother|Yes|No|Yes
+482|85|48244|Month 3 Call|||Mother|Yes|Yes|Yes
+483|33|48248|Month 9 Call|||Mother|Yes|Yes|Yes
+484|99|48254|Month 9 Call|||Mother|Yes|No|Yes
+485|163|48269|Month 15 Call|||Father|Yes|No|Yes
+486|12|48280|Month 9 Call|||Mother|Yes|No|Yes
+487|4|48281|Month 3 Call|||Mother|Yes|No|Yes
+488|26|48282|Month 3 Call|||Mother|Yes|No|Yes
+489|68|48295|Month 9 Call|||Mother|Yes|No|Yes
+490|120|48296|Month 15 Call|||Mother|Yes|No|Yes
+491|5|48297|Month 9 Call|||Mother|Yes|No|Yes
+492|213|48298|Month 9 Call|||Mother|Yes|No|Yes
+493|89|48299|Month 9 Call|||Mother|Yes|No|Yes
+494|51|48300|Month 15 Call|||Mother|Yes|No|Yes
+495|205|48301|Month 15 Call|||Mother|Yes|No|Yes
+496|207|48309|Month 3 Call|||Mother|Yes|Yes|Yes
+497|155|48314|Month 15 Call|||Mother|Yes|No|Yes
+498|93|48316|Month 15 Call|||Mother|Yes|No|Yes
+499|103|48321|Month 15 Call|||Mother|Yes|Yes|Yes
+500|53|48322|Month 3 Call|||Mother|Yes|Yes|Yes
+501|141|48324|Month 3 Call|||Mother|Yes|No|Yes
+502|96|48337|Month 15 Call|||Mother|Yes|No|Yes
+503|111|48338|Month 9 Call|||Mother|Yes|No|Yes
+504|27|48339|Month 15 Call|||Mother|Yes|No|Yes
+505|159|48352|Month 3 Call|||Mother|Yes|No|Yes
+506|174|48353|Month 3 Call|||Father|Yes|No|No
+507|86|48354|Month 3 Call|||Mother|Yes|No|Yes
+508|131|48356|Month 15 Call|||Mother|Yes|No|Yes
+509|154|48357|Month 3 Call|||Mother|Yes|No|Yes
+510|102|48358|Month 15 Call|||Mother|Yes|No|Yes
+511|97|48363|Month 3 Call|||Father|Yes|No|Yes
+512|148|48372|Month 9 Call|||Mother|Yes|No|Yes
+513|149|48373|Month 9 Call|||Mother|Yes|Yes|Yes
+514|72|48375|Month 15 Call|||Mother|Yes|Yes|Yes
+515|177|48378|Month 3 Call|||Mother|Yes|No|Yes
+516|80|48383|Month 3 Call|||Mother|Yes|Yes|Yes
+517|36|48387|Month 9 Call|||Mother|Yes|No|Yes
+518|122|48389|Month 9 Call|||Mother|Yes|No|Yes
+519|202|48390|Month 3 Call|||Mother|Yes|No|Yes
+520|125|48415|Month 3 Call|||Mother|Yes|No|Yes
+521|15|48421|Month 3 Call|||Mother|Yes|Yes|Yes
+522|14|48422|Month 9 Call|||Father|Yes|No|Yes
+523|29|48428|Month 3 Call|||Mother|Yes|Yes|No
+524|135|48430|Month 9 Call|||Mother|Yes|No|Yes
+525|59|48431|Month 9 Call|||Mother|Yes|No|Yes
+526|113|48432|Month 15 Call|||Father|Yes|No|Yes
+527|128|48437|Month 9 Call|||Mother|Yes|No|Yes
+528|21|48438|Month 15 Call|||Mother|Yes|No|Yes
+529|46|48440|Month 9 Call|||Mother|Yes|No|Yes
+530|196|48444|Month 3 Call|||Father|Yes|Yes|Yes
+531|127|48445|Month 3 Call|||Mother|Yes|Yes|Yes
+532|152|48452|Month 9 Call|||Mother|Yes|No|Yes
+533|52|48453|Month 15 Call|||Mother|Yes|Yes|Yes
+534|94|48458|Month 9 Call|||Father|Yes|No|Yes
+535|88|48461|Month 9 Call|||Mother|Yes|No|Yes
+536|204|48463|Month 9 Call|||Mother|Yes|No|Yes
+537|183|48466|Month 3 Call|||Mother|Yes|No|Yes
+538|225|48469|Month 15 Call|||Mother|Yes|No|Yes
+539|10|48471|Month 21 Call|||Mother|Yes|Yes|Yes
+540|191|48473|Month 15 Call|||Mother|Yes|No|No
+541|157|48474|Month 15 Call|||Mother|Yes|No|Yes
+542|87|48475|Month 15 Call|||Mother|Yes|No|Yes
+543|124|48476|Month 3 Call|||Father|Yes|No|Yes
+544|6|48487|Month 15 Call|||Mother|Yes|Yes|Yes
+545|165|48489|Month 9 Call|||Mother|Yes|Yes|Yes
+546|171|48499|Month 21 Call|||Father|Yes|No|Yes
+547|8|48500|Month 9 Call|||Mother|Yes|No|Yes
+548|142|48501|Month 15 Call|||Mother|Yes|No|Yes
+549|47|48510|Month 15 Call|||Mother|Yes|No|Yes
+550|146|48511|Month 15 Call|||Mother|Yes|No|Yes
+551|123|48512|Month 15 Call|||Mother|Yes|No|Yes
+552|19|48518|Month 15 Call|||Father|Yes|No|Yes
+553|200|48522|Month 3 Call|||Mother|Yes|No|Yes
+554|81|48523|Month 21 Call|||Mother|Yes|No|Yes
+555|114|48525|Month 9 Call|||Mother|Yes|No|Yes
+556|28|48539|Month 3 Call|||Mother|Yes|Yes|Yes
+557|223|48540|Month 3 Call|||Mother|Yes|No|Yes
+558|184|48543|Month 21 Call|||Mother|Yes|No|Yes
+559|37|48545|Month 15 Call|||Mother|Yes|No|Yes
+560|9|48551|Month 21 Call|||Father|Yes|No|Yes
+561|147|48558|Month 15 Call|||Mother|Yes|Yes|Yes
+562|43|48559|Month 15 Call|||Mother|Yes|Yes|Yes
+563|221|48560|Month 21 Call|||Father|Yes|No|Yes
+564|168|48561|Month 21 Call|||Mother|Yes|No|Yes
+565|194|48562|Month 21 Call|||Mother|Yes|No|Yes
+566|107|48563|Month 21 Call|||Mother|Yes|No|Yes
+567|164|48564|Month 15 Call|||Mother|Yes|No|Yes
+568|138|48565|Month 15 Call|||Mother|Yes|No|Yes
+569|79|48566|Month 15 Call|||Mother|Yes|No|Yes
+570|23|48568|Month 9 Call|||Mother|No|No|No
+571|136|48570|Month 9 Call|||Mother|Yes|No|Yes
+572|210|48578|Month 9 Call|||Mother|Yes|No|Yes
+573|48|48590|Month 21 Call|||Mother|Yes|No|Yes
+574|161|48591|Month 15 Call|||Mother|Yes|Yes|Yes
+575|18|48593|Month 9 Call|||Mother|Yes|Yes|Yes
+576|109|48596|Month 21 Call|||Mother|Yes|No|Yes
+577|219|48597|Month 21 Call|||Mother|Yes|No|Yes
+578|129|48600|Month 15 Call|||Mother|Yes|No|Yes
+579|133|48601|Month 15 Call|||Mother|Yes|No|Yes
+580|158|48624|Month 9 Call|||Mother|Yes|No|Yes
+581|90|48647|Month 9 Call|||Mother|Yes|No|Yes
+582|130|48650|Month 9 Call|||Mother|No|No|No
+583|153|48673|Month 15 Call|||Mother|Yes|No|Yes
+584|216|48678|Month 21 Call|||Mother|Yes|No|Yes
+585|172|48693|Month 9 Call|||Mother|Yes|No|Yes
+586|16|48715|Month 9 Call|||Mother|Yes|Yes|Yes
+587|82|48716|Month 21 Call|||Mother|Yes|No|Yes
+588|115|48723|Month 15 Call|||Mother|Yes|No|Yes
+589|214|48738|Month 15 Call|||Mother|Yes|No|Yes
+590|100|48739|Month 15 Call|||Mother|Yes|No|Yes
+591|150|48740|Month 9 Call|||Mother|Yes|No|Yes
+592|179|48741|Month 15 Call|||Father|Yes|No|Yes
+593|178|48746|Month 21 Call|||Mother|Yes|Yes|Yes
+594|116|48747|Month 21 Call|||Mother|Yes|No|Yes
+595|101|48767|Month 15 Call|||Mother|Yes|Yes|Yes
+596|35|48768|Month 15 Call|||Mother|No|Yes|Yes
+597|151|48770|Month 9 Call|||Father|Yes|No|Yes
+598|224|48771|Month 15 Call|||Mother|Yes|No|Yes
+599|62|48774|Month 15 Call|||Father|Yes|No|Yes
+600|40|48778|Month 9 Call|||Mother|Yes|Yes|Yes
+601|156|48780|Month 15 Call|||Mother|Yes|No|Yes
+602|34|48785|Month 15 Call|||Mother|Yes|No|Yes
+603|215|48786|Month 9 Call|||Mother|Yes|No|Yes
+604|181|48787|Month 15 Call|||Mother|Yes|No|Yes
+605|192|48798|Month 9 Call|||Mother|Yes|No|Yes
+606|30|48802|Month 9 Call|||Mother|Yes|No|Yes
+607|145|48815|Month 9 Call|||Father|Yes|No|Yes
+608|218|48816|Month 9 Call|||Mother|Yes|Yes|Yes
+609|189|48822|Month 9 Call|||Father|Yes|No|Yes
+610|166|48824|Month 15 Call|||Mother|Yes|No|Yes
+611|162|48825|Month 21 Call|||Mother|Yes|No|Yes
+612|76|48830|Month 9 Call|||Mother|Yes|No|Yes
+613|11|48833|Month 15 Call|||Mother|Yes|Yes|Yes
+614|31|48834|Month 9 Call|||Mother|Yes|Yes|Yes
+615|211|48835|Month 15 Call|||Mother|Yes|No|Yes
+616|54|48836|Month 21 Call|||Mother|No|No|Yes
+617|39|48837|Month 21 Call|||Mother|Yes|No|Yes
+618|83|48838|Month 15 Call|||Mother|Yes|No|Yes
+619|84|48839|Month 21 Call|||Mother|Yes|No|Yes
+620|173|48840|Month 15 Call|||Father|Yes|No|Yes
+621|99|48843|Month 15 Call|||Mother|Yes|Yes|Yes
+622|22|48846|Month 21 Call|||Mother|Yes|No|Yes
+623|41|48849|Month 15 Call|||Mother|Yes|No|Yes
+624|190|48851|Month 9 Call|||Mother|Yes|No|Yes
+625|198|48852|Month 15 Call|||Mother|Yes|Yes|Yes
+626|32|48855|Month 21 Call|||Mother|Yes|No|Yes
+627|119|48860|Month 21 Call|||Mother|Yes|Yes|Yes
+628|106|48883|Month 15 Call|||Father|Yes|No|Yes
+629|193|48884|Month 21 Call|||Mother|Yes|No|Yes
+630|38|48885|Month 21 Call|||Mother|Yes|No|Yes
+631|186|48898|Month 9 Call|||Mother|Yes|No|Yes
+632|64|48901|Month 15 Call|||Mother|Yes|Yes|Yes
+633|134|48902|Month 9 Call|||Mother|Yes|No|Yes
+634|24|48908|Month 15 Call|||Mother|Yes|No|Yes
+635|20|48911|Month 9 Call|||Father|Yes|No|Yes
+636|77|48914|Month 21 Call|||Mother|Yes|Yes|Yes
+637|63|48916|Month 21 Call|||Mother|Yes|No|Yes
+638|25|48922|Month 15 Call|||Father|Yes|Yes|Yes
+639|176|48924|Month 9 Call|||Mother|Yes|Yes|Yes
+640|73|48937|Month 15 Call|||Mother|Yes|No|Yes
+641|75|48943|Month 15 Call|||Mother|Yes|No|No
+642|143|48957|Month 15 Call|||Mother|Yes|No|No
+643|55|48958|Month 15 Call|||Mother|Yes|No|Yes
+644|148|48962|Month 15 Call|||Other|Yes|No|Yes
+645|58|48967|Month 15 Call|||Mother|Yes|Yes|Yes
+646|1|48968|Month 21 Call|||Mother|Yes|No|Yes
+647|93|48969|Month 21 Call|||Mother|Yes|No|Yes
+648|121|48991|Month 21 Call|||Father|Yes|No|Yes
+649|197|48992|Month 9 Call|||Mother|Yes|No|Yes
+650|74|48993|Month 9 Call|||Mother|Yes|No|Yes
+651|131|48994|Month 21 Call|||Mother|Yes|No|Yes
+652|180|49007|Month 15 Call|||Mother|Yes|Yes|Yes
+653|159|49008|Month 9 Call|||Father|Yes|Yes|Yes
+654|126|49010|Month 9 Call|||Mother|No|Yes|No
+655|59|49011|Month 15 Call|||Mother|Yes|No|Yes
+656|91|49012|Month 9 Call|||Father|Yes|No|Yes
+657|71|49013|Month 15 Call|||Mother|Yes|Yes|Yes
+658|98|49014|Month 9 Call|||Mother|Yes|Yes|Yes
+659|33|49020|Month 15 Call|||Mother|Yes|Yes|Yes
+660|117|49021|Month 21 Call|||Father|Yes|No|Yes
+661|212|49022|Month 15 Call|||Mother|Yes|No|Yes
+662|4|49023|Month 9 Call|||Mother|Yes|No|Yes
+663|12|49024|Month 15 Call|||Mother|Yes|No|Yes
+664|3|49025|Month 21 Call|||Mother|Yes|No|Yes
+665|85|49037|Month 9 Call|||Mother|Yes|Yes|Yes
+666|207|49038|Month 9 Call|||Mother|Yes|No|Yes
+667|163|49052|Month 21 Call|||Father|Yes|No|Yes
+668|68|49053|Month 15 Call|||Mother|Yes|No|Yes
+669|89|49055|Month 15 Call|||Mother|Yes|No|Yes
+670|120|49056|Month 21 Call|||Mother|Yes|No|Yes
+671|5|49058|Month 15 Call|||Mother|Yes|No|Yes
+672|213|49059|Month 15 Call|||Mother|Yes|No|Yes
+673|205|49060|Month 21 Call|||Mother|No|No|Yes
+674|169|49061|Month 15 Call|||Mother|Yes|No|Yes
+675|208|49062|Month 15 Call|||Mother|Yes|No|Yes
+676|200|49070|Month 9 Call|||Mother|Yes|Yes|Yes
+677|103|49071|Month 21 Call|||Mother|Yes|Yes|Yes
+678|53|49072|Month 9 Call|||Mother|Yes|Yes|Yes
+679|155|49081|Month 21 Call|||Mother|Yes|No|Yes
+680|102|49082|Month 21 Call|||Mother|Yes|No|Yes
+681|27|49112|Month 21 Call|||Mother|Yes|No|Yes
+682|86|49122|Month 9 Call|||Mother|Yes|No|Yes
+683|112|49124|Month 21 Call|||Father|Yes|No|Yes
+684|14|49128|Month 15 Call|||Father|Yes|No|Yes
+685|174|49130|Month 9 Call|||Father|Yes|No|Yes
+686|97|49131|Month 9 Call|||Father|Yes|No|Yes
+687|88|49133|Month 15 Call|||Mother|Yes|No|Yes
+688|46|49134|Month 15 Call|||Mother|Yes|No|Yes
+689|154|49136|Month 9 Call|||Father|Yes|No|Yes
+690|122|49139|Month 15 Call|||Mother|Yes|No|Yes
+691|204|49140|Month 15 Call|||Mother|Yes|No|Yes
+692|118|49143|Month 15 Call|||Other|No|No|No
+693|111|49146|Month 15 Call|||Mother|Yes|No|Yes
+694|80|49149|Month 9 Call|||Mother|Yes|Yes|Yes
+695|191|49152|Month 21 Call|||Mother|Yes|No|Yes
+696|36|49155|Month 15 Call|||Mother|Yes|No|Yes
+697|202|49162|Month 9 Call|||Mother|Yes|No|Yes
+698|146|49168|Month 21 Call|||Mother|Yes|No|Yes
+699|51|49169|Month 21 Call|||Mother|Yes|No|Yes
+700|123|49170|Month 21 Call|||Mother|Yes|No|Yes
+701|28|49171|Month 9 Call|||Mother|Yes|No|Yes
+702|135|49175|Month 15 Call|||Mother|Yes|Yes|No
+703|29|49176|Month 9 Call|||Mother|Yes|Yes|Yes
+704|223|49180|Month 9 Call|||Mother|Yes|No|Yes
+705|113|49182|Month 21 Call|||Father|Yes|No|Yes
+706|177|49184|Month 9 Call|||Mother|Yes|No|Yes
+707|124|49187|Month 9 Call|||Father|Yes|No|Yes
+708|94|49192|Month 15 Call|||Father|No|Yes|No
+709|127|49196|Month 9 Call|||Mother|Yes|No|Yes
+710|105|49198|Month 21 Call|||Mother|Yes|No|Yes
+711|225|49205|Month 21 Call|||Mother|Yes|No|Yes
+712|37|49206|Month 21 Call|||Mother|Yes|No|Yes
+713|157|49207|Month 21 Call|||Mother|Yes|No|Yes
+714|87|49208|Month 21 Call|||Mother|Yes|No|Yes
+715|138|49209|Month 21 Call|||Mother|Yes|No|Yes
+716|129|49210|Month 21 Call|||Mother|Yes|No|Yes
+717|183|49211|Month 9 Call|||Mother|Yes|No|Yes
+718|96|49212|Month 21 Call|||Mother|Yes|No|No
+719|21|49213|Month 21 Call|||Mother|Yes|No|Yes
+720|52|49215|Month 21 Call|||Mother|Yes|Yes|Yes
+721|26|49217|Month 9 Call|||Mother|Yes|No|Yes
+722|149|49222|Month 15 Call|||Mother|Yes|Yes|Yes
+723|147|49223|Month 21 Call|||Mother|Yes|Yes|Yes
+724|72|49224|Month 21 Call|||Mother|Yes|No|Yes
+725|136|49227|Month 15 Call|||Mother|Yes|No|Yes
+726|152|49228|Month 15 Call|||Mother|Yes|No|Yes
+727|142|49231|Month 21 Call|||Mother|Yes|No|Yes
+728|8|49232|Month 15 Call|||Mother|Yes|No|Yes
+729|215|49233|Month 15 Call|||Mother|Yes|No|Yes
+730|6|49236|Month 21 Call|||Mother|Yes|Yes|Yes
+731|10|49237|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+732|141|49239|Month 9 Call|||Mother|Yes|No|Yes
+733|128|49241|Month 15 Call|||Mother|Yes|No|Yes
+734|196|49253|Month 9 Call|||Father|Yes|No|Yes
+735|165|49254|Month 15 Call|||Father|Yes|No|Yes
+736|125|49255|Month 9 Call|||Mother|Yes|No|Yes
+737|114|49260|Month 15 Call|||Mother|No|No|No
+738|35|49269|Month 21 Call|||Mother|No|Yes|Yes
+739|156|49270|Month 21 Call|||Mother|Yes|No|Yes
+740|219|49272|Month 27 Call|||Mother|No|No|No
+741|161|49273|Month 21 Call|||Mother|Yes|No|Yes
+742|210|49277|Month 15 Call|||Mother|Yes|No|Yes
+743|43|49280|Month 21 Call|||Mother|Yes|No|Yes
+744|184|49283|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+745|171|49295|Month 27 Call|||Mother|No|No|No
+746|109|49296|Month 27 Call|||Mother|No|No|No
+747|178|49301|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+748|116|49302|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+749|193|49304|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+750|38|49307|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+751|9|49311|Month 27 Call|||Mother|Not Prescribed|No|Yes
+752|11|49314|Month 21 Call|||Mother|Yes|No|Yes
+753|81|49315|Month 27 Call|||Mother|Yes|No|Yes
+754|216|49338|Month 27 Call|||Mother|Yes|No|Yes
+755|19|49342|Month 21 Call|||Father|Yes|No|Yes
+756|158|49346|Month 15 Call|||Mother|Yes|No|Yes
+757|47|49348|Month 21 Call|||Mother|Yes|No|Yes
+758|211|49349|Month 21 Call|||Mother|Yes|No|Yes
+759|173|49350|Month 21 Call|||Mother|Yes|No|Yes
+760|198|49355|Month 21 Call|||Mother|Yes|Yes|Yes
+761|153|49356|Month 21 Call|||Mother|Yes|No|Yes
+762|101|49359|Month 21 Call|||Mother|Yes|Yes|Yes
+763|31|49375|Month 15 Call|||Mother|Yes|No|No
+764|54|49377|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+765|76|49382|Month 15 Call|||Mother|Yes|No|Yes
+766|151|49384|Month 15 Call|||Father|Yes|No|Yes
+767|48|49386|Month 27 Call|||Mother|No|Yes|No
+768|130|49388|Month 15 Call|||Mother|Yes|No|Yes
+769|40|49390|Month 15 Call|||Mother|Yes|No|Yes
+770|190|49393|Month 15 Call|||Mother|Yes|No|Yes
+771|221|49394|Month 27 Call|||Mother|Yes|No|Yes
+772|79|49395|Month 21 Call|||Mother|Yes|No|Yes
+773|107|49396|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+774|194|49397|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+775|90|49402|Month 15 Call|||Mother|Yes|No|Yes
+776|214|49410|Month 21 Call|||Mother|Yes|No|Yes
+777|100|49411|Month 21 Call|||Mother|Yes|No|Yes
+778|39|49413|Month 27 Call|||Mother|Yes|No|Yes
+779|83|49414|Month 21 Call|||Mother|Yes|No|Yes
+780|32|49415|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+781|168|49416|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+782|3|49417|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+783|117|49418|Month 27 Call|||Father|Not Prescribed|No|Not Prescribed
+784|212|49419|Month 21 Call|||Father|Yes|No|Yes
+785|133|49420|Month 21 Call|||Mother|Yes|No|Yes
+786|164|49421|Month 21 Call|||Mother|Yes|No|Yes
+787|119|49428|Month 27 Call|||Mother|No|No|No
+788|150|49429|Month 15 Call|||Mother|Yes|No|Yes
+789|189|49430|Month 15 Call|||Father|Yes|No|Yes
+790|218|49435|Month 15 Call|||Mother|Yes|No|Yes
+791|106|49457|Month 21 Call|||Father|Yes|No|Yes
+792|34|49460|Month 21 Call|||Mother|Yes|No|Yes
+793|22|49462|Month 27 Call|||Mother|No|No|No
+794|1|49464|Month 27 Call|||Mother|No|No|No
+795|30|49465|Month 15 Call|||Father|Yes|No|Yes
+796|121|49469|Month 27 Call|||Mother|No|No|No
+797|192|49480|Month 15 Call|||Mother|Yes|No|Yes
+798|166|49482|Month 21 Call|||Mother|Yes|No|Yes
+799|224|49483|Month 21 Call|||Mother|Yes|No|Yes
+800|162|49484|Month 27 Call|||Mother|Yes|No|Yes
+801|77|49489|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+802|18|49497|Month 15 Call|||Mother|Yes|No|Yes
+803|24|49498|Month 21 Call|||Mother|Yes|No|Yes
+804|62|49500|Month 21 Call|||Father|Yes|No|Yes
+805|82|49501|Month 27 Call|||Mother|Not Prescribed|No|Yes
+806|179|49502|Month 21 Call|||Father|Yes|No|Yes
+807|145|49503|Month 15 Call|||Father|Yes|No|Yes
+808|115|49511|Month 21 Call|||Mother|Yes|No|Yes
+809|181|49512|Month 21 Call|||Mother|Yes|No|Yes
+810|176|49533|Month 15 Call|||Mother|Yes|No|Yes
+811|16|49534|Month 15 Call|||Mother|Yes|Yes|Yes
+812|186|49536|Month 15 Call|||Mother|Yes|No|Yes
+813|134|49540|Month 15 Call|||Mother|Yes|No|Yes
+814|55|49542|Month 21 Call|||Mother|Yes|No|Yes
+815|64|49557|Month 21 Call|||Mother|Yes|No|Yes
+816|172|49558|Month 15 Call|||Mother|Yes|No|Yes
+817|63|49571|Month 27 Call|||Mother|Not Prescribed|No|Yes
+818|20|49577|Month 15 Call|||Father|Yes|No|Yes
+819|75|49586|Month 21 Call|||Mother|Yes|Yes|Yes
+820|175|49588|Month 21 Call|||Mother|Yes|Yes|Yes
+821|5|49596|Month 21 Call|||Mother|Yes|No|Yes
+822|84|49597|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+823|73|49599|Month 21 Call|||Mother|Yes|No|Yes
+824|41|49619|Month 21 Call|||Mother|Yes|No|Yes
+825|25|49627|Month 21 Call|||Father|Yes|Yes|Yes
+826|143|49639|Month 21 Call|||Mother|Yes|No|Yes
+827|74|49656|Month 15 Call|||Mother|Yes|No|Yes
+828|197|49657|Month 15 Call|||Mother|Yes|No|Yes
+829|44|49658|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+830|98|49659|Month 15 Call|||Mother|Yes|Yes|Yes
+831|12|49670|Month 21 Call|||Mother|Not Prescribed|No|Not Prescribed
+832|99|49681|Month 21 Call|||Mother|Yes|No|Yes
+833|180|49691|Month 21 Call|||Mother|Yes|Yes|Yes
+834|132|49701|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+835|105|49702|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+836|167|49703|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+837|208|49709|Month 21 Call|||Mother|Yes|No|Yes
+838|169|49715|Month 21 Call|||Mother|Yes|No|Yes
+839|33|49716|Month 21 Call|||Mother|Yes|Yes|Yes
+840|126|49719|Month 15 Call|||Mother|No|No|Yes
+841|71|49726|Month 21 Call|||Mother|Yes|Yes|Yes
+842|213|49729|Month 21 Call|||Mother|Yes|No|Yes
+843|89|49730|Month 21 Call|||Mother|Yes|No|Yes
+844|96|49731|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+845|27|49732|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+846|103|49736|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+847|120|49755|Month 27 Call|||Mother|Yes|No|Yes
+848|207|49760|Month 15 Call|||Mother|Yes|Yes|Yes
+849|159|49761|Month 15 Call|||Mother|Yes|Yes|Yes
+850|163|49766|Month 27 Call|||Father|No|No|No
+851|91|49771|Month 15 Call|||Mother|Yes|No|Yes
+852|15|49784|Month 15 Call|||Mother|No|Yes|Yes
+853|68|49793|Month 21 Call|||Mother|Yes|No|Yes
+854|85|49795|Month 15 Call|||Mother|Yes|No|Yes
+855|59|49801|Month 21 Call|||Mother|Yes|No|Yes
+856|80|49802|Month 15 Call|||Mother|Yes|Yes|Yes
+857|29|49805|Month 15 Call|||Mother|Yes|Yes|Yes
+858|135|49810|Month 21 Call|||Mother|Yes|Yes|Yes
+859|155|49811|Month 27 Call|||Mother|No|No|Yes
+860|131|49813|Month 27 Call|||Mother|Not Prescribed|No|Yes
+861|102|49814|Month 27 Call|||Mother|Not Prescribed|No|Yes
+862|154|49815|Month 15 Call|||Mother|Yes|No|Yes
+863|174|49816|Month 15 Call|||Father|Yes|No|Yes
+864|86|49817|Month 15 Call|||Mother|Yes|No|Yes
+865|112|49821|Month 27 Call|||Father|Yes|No|Yes
+866|97|49823|Month 15 Call|||Father|Yes|No|Yes
+867|58|49827|Month 21 Call|||Mother|Yes|Yes|Yes
+868|88|49829|Month 21 Call|||Mother|Yes|No|Yes
+869|93|49834|Month 27 Call|||Mother|Not Prescribed|No|Yes
+870|141|49835|Month 15 Call|||Mother|Yes|Yes|Yes
+871|148|49839|Month 21 Call|||Mother|Yes|No|Yes
+872|165|49856|Month 21 Call|||Father|Yes|No|Yes
+873|72|49857|Month 27 Call|||Mother|No|No|Not Prescribed
+874|127|49858|Month 15 Call|||Mother|Yes|No|Yes
+875|114|49866|Month 21 Call|||Mother|Yes|No|Yes
+876|4|49870|Month 15 Call|||Mother|Yes|No|Yes
+877|26|49871|Month 15 Call|||Mother|Yes|No|Yes
+878|225|49872|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+879|37|49873|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+880|183|49875|Month 15 Call|||Mother|Yes|No|Yes
+881|196|49883|Month 15 Call|||Father|Yes|No|Yes
+882|8|49885|Month 21 Call|||Mother|Yes|No|Yes
+883|142|49887|Month 27 Call|||Mother|No|No|Not Prescribed
+884|122|49891|Month 21 Call|||Mother|Yes|No|Yes
+885|36|49893|Month 21 Call|||Mother|Yes|No|Yes
+886|6|49896|Month 27 Call|||Mother|No|No|Yes
+887|94|49898|Month 21 Call|||Father|No|No|No
+888|202|49906|Month 15 Call|||Mother|Yes|No|Yes
+889|124|49907|Month 15 Call|||Father|Yes|No|Yes
+890|53|49910|Month 15 Call|||Mother|Yes|Yes|Yes
+891|200|49911|Month 15 Call|||Mother|Yes|Yes|Yes
+892|46|49912|Month 21 Call|||Mother|Yes|No|Yes
+893|149|49913|Month 21 Call|||Mother|Yes|Yes|Yes
+894|113|49915|Month 27 Call|||Father|Yes|No|Yes
+895|177|49920|Month 15 Call|||Mother|Yes|No|Yes
+896|52|49931|Month 27 Call|||Mother|No|No|Yes
+897|43|49961|Month 27 Call|||Mother|Not Prescribed|No|Yes
+898|191|49963|Month 27 Call|||Mother|Not Prescribed|No|Yes
+899|204|49964|Month 21 Call|||Mother|Yes|No|Yes
+900|21|49981|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+901|152|50005|Month 21 Call|||Mother|Yes|No|Yes
+902|136|50006|Month 21 Call|||Mother|Yes|No|Yes
+903|128|50012|Month 21 Call|||Mother|Yes|No|Yes
+904|14|50016|Month 21 Call|||Father|Yes|No|Yes
+905|153|50020|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+906|28|50023|Month 15 Call|||Mother|Yes|No|Yes
+907|51|50024|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+908|123|50025|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+909|19|50026|Month 27 Call|||Father|Yes|No|Yes
+910|214|50027|Month 27 Call|||Mother|Yes|No|Yes
+911|100|50028|Month 27 Call|||Mother|Yes|No|Yes
+912|151|50029|Month 21 Call|||Father|Yes|No|Yes
+913|223|50048|Month 15 Call|||Father|No|No|Yes
+914|146|50050|Month 27 Call|||Mother|Yes|No|Yes
+915|40|50058|Month 21 Call|||Mother|Yes|No|Yes
+916|210|50065|Month 21 Call|||Mother|Yes|No|Yes
+917|79|50066|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+918|133|50067|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+919|190|50068|Month 21 Call|||Mother|Yes|No|Yes
+920|129|50074|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+921|164|50075|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+922|87|50076|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+923|157|50077|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+924|158|50078|Month 21 Call|||Mother|Yes|No|Yes
+925|130|50079|Month 21 Call|||Mother|Yes|No|Yes
+926|18|50084|Month 21 Call|||Mother|Yes|No|Yes
+927|215|50087|Month 21 Call|||Mother|Yes|No|Yes
+928|125|50118|Month 15 Call|||Mother|Yes|No|Yes
+929|161|50119|Month 27 Call|||Mother|Not Prescribed|No|Yes
+930|62|50125|Month 27 Call|||Father|No|No|Yes
+931|198|50143|Month 27 Call|||Mother|Not Prescribed|No|Yes
+932|101|50144|Month 27 Call|||Mother|Not Prescribed|No|Yes
+933|16|50149|Month 21 Call|||Mother|Yes|No|Yes
+934|224|50171|Month 27 Call|||Mother|Yes|No|Yes
+935|34|50172|Month 27 Call|||Mother|Yes|No|Yes
+936|166|50173|Month 27 Call|||Mother|Yes|No|Yes
+937|181|50174|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+938|90|50180|Month 21 Call|||Mother|Yes|No|Yes
+939|76|50191|Month 21 Call|||Mother|Yes|No|Yes
+940|212|50196|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+941|83|50218|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+942|211|50219|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+943|173|50220|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+944|205|50227|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+945|35|50237|Month 27 Call|||Mother|Not Prescribed|No|Yes
+946|147|50238|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+947|47|50249|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+948|31|50251|Month 21 Call|||Mother|No|No|Yes
+949|11|50255|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+950|218|50262|Month 21 Call|||Mother|Yes|Yes|Yes
+951|156|50263|Month 27 Call|||Mother|Not Prescribed|No|Yes
+952|106|50264|Month 27 Call|||Father|Not Prescribed|No|Yes
+953|192|50269|Month 21 Call|||Mother|Yes|No|Yes
+954|189|50270|Month 21 Call|||Father|Yes|No|Yes
+955|179|50293|Month 27 Call|||Father|Not Prescribed|No|Not Prescribed
+956|150|50297|Month 21 Call|||Mother|Yes|No|Yes
+957|172|50338|Month 21 Call|||Mother|Yes|No|Yes
+958|186|50344|Month 21 Call|||Mother|Yes|No|Yes
+959|30|50346|Month 21 Call|||Father|Yes|No|Yes
+960|75|50350|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+961|143|50351|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+962|180|50352|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+963|33|50353|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+964|134|50357|Month 21 Call|||Mother|Yes|No|Yes
+965|145|50360|Month 21 Call|||Father|Yes|No|Yes
+966|64|50378|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+967|24|50379|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+968|73|50387|Month 27 Call|||Mother|Yes|No|Yes
+969|99|50388|Month 27 Call|||Mother|Not Prescribed|No|Yes
+970|74|50392|Month 21 Call|||Mother|Yes|No|Yes
+971|20|50407|Month 21 Call|||Mother|Yes|No|Yes
+972|41|50408|Month 27 Call|||Mother|Yes|No|Yes
+973|175|50419|Month 27 Call|||Mother|Not Prescribed|Yes|Not Prescribed
+974|25|50422|Month 27 Call|||Father|Not Prescribed|No|Not Prescribed
+975|115|50437|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+976|55|50459|Month 27 Call|||Mother|Yes|No|Yes
+977|71|50466|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+978|98|50469|Month 21 Call|||Mother|Yes|Yes|Yes
+979|197|50474|Month 21 Call|||Mother|Yes|No|Yes
+980|176|50487|Month 21 Call|||Mother|Yes|No|Yes
+981|207|50490|Month 21 Call|||Mother|Yes|No|Yes
+982|91|50495|Month 21 Call|||Mother|Yes|No|Yes
+983|85|50496|Month 21 Call|||Mother|Yes|Yes|Yes
+984|169|50512|Month 27 Call|||Mother|Yes|No|Yes
+985|208|50513|Month 27 Call|||Mother|Yes|No|Yes
+986|12|50525|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+987|183|50527|Month 21 Call|||Mother|Yes|No|Yes
+988|174|50544|Month 21 Call|||Father|Yes|No|Yes
+989|135|50557|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+990|154|50576|Month 21 Call|||Mother|Yes|No|Yes
+991|213|50588|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+992|89|50589|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+993|5|50590|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+994|68|50591|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+995|223|50592|Month 21 Call|||Mother|Yes|No|Yes
+996|80|50596|Month 21 Call|||Mother|Yes|No|Yes
+997|15|50597|Month 21 Call|||Mother|No|Yes|Yes
+998|29|50598|Month 21 Call|||Mother|No|No|Yes
+999|159|50600|Month 21 Call|||Father|Yes|No|Yes
+1000|36|50601|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1001|94|50602|Month 27 Call|||Father|Not Prescribed|No|Not Prescribed
+1002|111|50605|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1003|58|50606|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1004|4|50609|Month 21 Call|||Mother|Yes|No|Yes
+1005|26|50610|Month 21 Call|||Mother|Yes|No|Yes
+1006|86|50618|Month 21 Call|||Mother|Yes|No|Yes
+1007|148|50625|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1008|97|50628|Month 21 Call|||Mother|Yes|No|Yes
+1009|202|50638|Month 21 Call|||Mother|Yes|No|Yes
+1010|122|50641|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1011|46|50645|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1012|196|50670|Month 21 Call|||Father|Yes|No|Yes
+1013|124|50671|Month 21 Call|||Father|Yes|No|Yes
+1014|127|50679|Month 21 Call|||Mother|Yes|No|Yes
+1015|8|50691|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1016|204|50694|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1017|149|50713|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1018|141|50721|Month 21 Call|||Mother|Yes|Yes|Yes
+1019|88|50723|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1020|53|50736|Month 21 Call|||Mother|Yes|Yes|Yes
+1021|14|50742|Month 27 Call|||Father|Not Prescribed|No|Not Prescribed
+1022|152|50755|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1023|136|50756|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1024|165|50759|Month 27 Call|||Father|Not Prescribed|No|Yes
+1025|151|50761|Month 27 Call|||Father|Not Prescribed|No|Not Prescribed
+1026|177|50762|Month 21 Call|||Mother|Yes|No|Yes
+1027|125|50763|Month 21 Call|||Mother|Yes|No|Yes
+1028|59|50769|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1029|114|50794|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1030|28|50812|Month 21 Call|||Mother|Yes|No|Yes
+1031|158|50813|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1032|210|50814|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1033|128|50839|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1034|130|50845|Month 27 Call|||Mother|Not Prescribed|No|No
+1035|90|50860|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1036|215|50896|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1037|18|50913|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1038|40|50931|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1039|30|50939|Month 27 Call|||Father|No|No|No
+1040|190|50953|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1041|192|50966|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1042|150|50970|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1043|186|50977|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1044|218|50993|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1045|189|51007|Month 27 Call|||Father|Not Prescribed|No|Not Prescribed
+1046|76|51014|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1047|197|51064|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1048|126|51066|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1049|134|51095|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1050|172|51138|Month 27 Call|||Mother|Not Prescribed|Yes|Yes
+1051|74|51147|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1052|31|51148|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1053|20|51154|Month 27 Call|||Father|Not Prescribed|No|Not Prescribed
+1054|176|51171|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1055|16|51189|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1056|98|51204|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1057|80|51242|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1058|15|51243|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1059|127|51244|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1060|207|51265|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1061|85|51268|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1062|91|51269|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1063|174|51294|Month 27 Call|||Father|Not Prescribed|No|Yes
+1064|159|51321|Month 27 Call|||Father|Not Prescribed|No|Not Prescribed
+1065|177|51329|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1066|125|51330|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1067|154|51333|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1068|29|51349|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1069|86|51361|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1070|141|51380|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1071|97|51405|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1072|202|51406|Month 27 Call|||Mother|Not Prescribed|No|Yes
+1073|4|51438|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1074|183|51439|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1075|26|51536|Month 27 Call|||Mother|Not Prescribed|No|Not Prescribed
+1076|124|51542|Month 27 Call|||Father|Not Prescribed|No|Yes
+1077|53|51604|Month 27 Call|||Mother|Yes|No|Not Prescribed
+1078|28|51617|Month 27 Call|||Mother|Not Prescribed|No|Yes

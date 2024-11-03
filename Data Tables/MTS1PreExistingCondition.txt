@@ -1,0 +1,173 @@
+RecID|PtID|ParentLoginVisitID|ParentLogInID|MedicalCondition|PreExistDuration|PreExistMedCurr|MedCondStatus|MedCondResDt|MedCondResDtApprox|MedCondDs|PreExistCondEye
+1|216||171475|Celiac disease|1yr-<5yr|No|Ongoing, medically stable
+2|216||171477|Autoimmune thyroiditis|1yr-<5yr|Yes|Ongoing, medically stable
+3|82||175979|Hearing loss|5yr-<10yr|No|Ongoing, medically stable
+4|22||176378|Seasonal allergy|>1m-<3m|No|Ongoing, medically stable
+5|48||176744|Seasonal allergy|3m-<6m|No|Ongoing, medically stable
+6|48||176745|Allergic conjunctivitis|3m-<6m|No|Ongoing, medically stable||||OD
+7|48||176746|Allergic conjunctivitis|3m-<6m|No|Ongoing, medically stable||||OS
+8|48||176747|Eczema|5yr-<10yr|Yes|Ongoing (further improvement / worsening possible)
+9|22||176772|Meibomian gland obstruction|5yr-<10yr|No|Ongoing, medically stable||||OD
+10|22||176773|Meibomian gland obstruction|5yr-<10yr|No|Ongoing, medically stable||||OS
+11|219||176774|Allergic conjunctivitis|1yr-<5yr|No|Ongoing, medically stable||||OD
+12|219||176775|Allergic conjunctivitis|1yr-<5yr|No|Ongoing, medically stable||||OS
+13|219||176776|Dry eye|1yr-<5yr|No|Ongoing, medically stable||||OD
+14|219||176777|Dry eye|1yr-<5yr|No|Ongoing, medically stable||||OS
+15|39||177564|Seasonal allergy|1yr-<5yr|Yes|Ongoing, medically stable
+16|119||178129|Migraine headache|>1m-<3m|Yes|Ongoing (further improvement / worsening possible)
+17|119||178130|Acne|1yr-<5yr|Yes|Ongoing (further improvement / worsening possible)
+18|119||178131|Anemia|3m-<6m|Yes|Ongoing (further improvement / worsening possible)
+19|119||178138|Seasonal allergy|5yr-<10yr|Yes|Ongoing (further improvement / worsening possible)
+20|84||179015|Joint pain|6m-<12m|No|Ongoing (further improvement / worsening possible)
+21|84||179016|Anxiety|3m-<6m|No|Ongoing (further improvement / worsening possible)
+22|1||179049|Seasonal allergy|6m-<12m|No|Ongoing (further improvement / worsening possible)
+23|112||179405|Attention deficit/hyperactivity disorder|1yr-<5yr|Yes|Ongoing, medically stable
+24|112||179406|Allergic conjunctivitis|1yr-<5yr|Yes|Ongoing, medically stable||||OD
+25|112||179407|Allergic conjunctivitis|1yr-<5yr|Yes|Ongoing, medically stable||||OS
+26|167||180442|Asthma|5yr-<10yr|Yes|Ongoing (further improvement / worsening possible)
+27|113||180591|Chiari malformation|10yr-<20yr|No|Ongoing, medically stable
+28|155||180613|Autism|1yr-<5yr|No|Ongoing, medically stable
+29|155||180614|Anxiety|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+30|155||180615|Attention deficit/hyperactivity disorder|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+31|72||180907|Allergy to nuts|1yr-<5yr|Yes|Ongoing, medically stable
+32|120||180935|Anxiety|1yr-<5yr|No|Ongoing, medically stable
+33|120||180936|Autism|1yr-<5yr|No|Ongoing, medically stable
+34|120||180937|Attention deficit/hyperactivity disorder|1yr-<5yr|No|Ongoing, medically stable
+35|120||180938|Seasonal allergy|5yr-<10yr|No|Ongoing, medically stable
+36|120||180939|Motion sickness|5yr-<10yr|Yes|Complete Recovery|5/26/2020|1
+37|120||180941|Constipation|5yr-<10yr|Yes|Complete Recovery|5/26/2020
+38|21||180986|Hypercholesteremia|1yr-<5yr|No|Ongoing, medically stable
+40|51||181248|Autism|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+41|51||181608|Hypoxia|5yr-<10yr|No|Complete Recovery|7/14/2009|1
+42|51||181609|Attention deficit/hyperactivity disorder|5yr-<10yr|No|Ongoing (further improvement / worsening possible)
+43|51||181610|Eczema|10yr-<20yr|Yes|Ongoing (further improvement / worsening possible)
+44|51||181611|Acid reflux (oesophageal)|10yr-<20yr|No|Complete Recovery|7/14/2008|1
+45|123||181997|Wrist fracture|1yr-<5yr|No|Complete Recovery|12/27/2015|1
+46|129||183270|Seasonal allergy|1yr-<5yr|Yes|Ongoing (further improvement / worsening possible)
+47|156||183465|Attention deficit disorder|1yr-<5yr|Yes|Ongoing, medically stable
+48|156||183466|Depression|1yr-<5yr|Yes|Ongoing, medically stable
+49|156||183467|Autism|1yr-<5yr|No|Ongoing, medically stable
+50|224||183716|Autism|1yr-<5yr|No|Ongoing, medically stable
+51|224||183717|Reflux esophagitis|1yr-<5yr|Yes|Ongoing, medically stable
+52|224||183718|Seasonal allergy|1yr-<5yr|Yes|Ongoing, medically stable
+53|47||184317|Epilepsy|6m-<12m|No|Ongoing, medically stable
+54|22||184362|Allergic conjunctivitis|1yr-<5yr|No|Ongoing (further improvement / worsening possible)||||OD
+55|22||184363|Allergic conjunctivitis|1yr-<5yr|No|Ongoing (further improvement / worsening possible)||||OS
+56|156||184383|Anxiety|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+57|156||184384|Sensory disturbance|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+58|156||185058|Developmental delay|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+59|156||185064|Dizziness|5yr-<10yr|No|Ongoing (further improvement / worsening possible)
+60|198||185399|Seasonal allergy|5yr-<10yr|Yes|Ongoing, medically stable
+61|198||185400|Asthma|5yr-<10yr|Yes|Ongoing, medically stable
+62|33||185609|Asthma|5yr-<10yr|Yes|Ongoing, medically stable
+63|213||185663|Blepharitis (eyelid irritation)|5yr-<10yr|No|Ongoing (further improvement / worsening possible)||||OD
+64|213||185668|Blepharitis (eyelid irritation)|5yr-<10yr|No|Ongoing (further improvement / worsening possible)||||OS
+65|121||186223|Long QT syndrome|10yr-<20yr|Yes|Ongoing, medically stable
+66|121||186224|Seasonal allergy|1yr-<5yr|Yes|Ongoing (further improvement / worsening possible)
+67|121||186225|Allergic conjunctivitis|1yr-<5yr|No|Ongoing (further improvement / worsening possible)||||OD
+68|121||186226|Allergic conjunctivitis|1yr-<5yr|No|Ongoing (further improvement / worsening possible)||||OS
+69|175||186250|Asthma|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+70|175||186251|Eczema|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+71|175||186252|Seasonal allergy|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+72|175||186253|Allergic conjunctivitis|1yr-<5yr|No|Ongoing (further improvement / worsening possible)||||OD
+73|175||186254|Allergic conjunctivitis|1yr-<5yr|No|Ongoing (further improvement / worsening possible)||||OS
+74|175||186255|Eye pain|1yr-<5yr|No|Ongoing (further improvement / worsening possible)||||OD
+75|175||186256|Eye pain|1yr-<5yr|No|Ongoing (further improvement / worsening possible)||||OS
+76|175||186257|Eye irritation|<=30d|No|Ongoing (further improvement / worsening possible)||||OD
+77|175||186258|Eye irritation|<=30d|No|Ongoing (further improvement / worsening possible)||||OS
+78|219||186460|Allergic rhinitis|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+79|5||186738|Attention deficit/hyperactivity disorder|6m-<12m|Yes|Ongoing, medically stable
+80|5||186739|Encopresis|1yr-<5yr|Yes|Ongoing (further improvement / worsening possible)
+81|84||186750|Child neglect|1yr-<5yr|No|Recovered with Sequelae|12/22/2018
+82|84||186768|Insomnia|3m-<6m|No|Ongoing (further improvement / worsening possible)
+84|89||187262|Stomach pain|10yr-<20yr|No|Ongoing (further improvement / worsening possible)
+85|118||187426|Attention deficit/hyperactivity disorder|5yr-<10yr|No|Ongoing (further improvement / worsening possible)
+86|59||187456|Eczema|5yr-<10yr|Yes|Ongoing (further improvement / worsening possible)
+87|59||187457|Bee sting|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+88|163||187558|Photophobia|1yr-<5yr|No|Ongoing, medically stable||||OD
+89|163||187559|Photophobia|1yr-<5yr|No|Ongoing, medically stable||||OS
+90|135||187657|Seafood allergy|5yr-<10yr|Yes|Ongoing, medically stable
+91|135||187658|Seasonal allergy|5yr-<10yr|Yes|Ongoing, medically stable
+92|52||188442|Migraine headache|>1m-<3m|Yes|Ongoing, medically stable
+93|165||188475|Mole of skin|5yr-<10yr|No|Ongoing (further improvement / worsening possible)
+94|165||188476|Asthma|1yr-<5yr|Yes|Ongoing (further improvement / worsening possible)
+95|51||188741|Sensitivity to light (photophobia)|5yr-<10yr|No|Ongoing, medically stable||||OD
+96|51||188742|Photophobia|5yr-<10yr|No|Ongoing, medically stable||||OS
+97|8||188913|Seasonal allergy|5yr-<10yr|Yes|Ongoing, medically stable
+99|157||189037|Conjunctivitis|1yr-<5yr|No|Ongoing, medically stable||||OD
+100|157||189038|Conjunctivitis|1yr-<5yr|No|Ongoing, medically stable||||OS
+101|114||189053|Asthma|10yr-<20yr|Yes|Ongoing (further improvement / worsening possible)
+102|114||189054|Allergic reaction|10yr-<20yr|Yes|Ongoing (further improvement / worsening possible)
+103|114||189055|Allergic conjunctivitis|10yr-<20yr|No|Ongoing (further improvement / worsening possible)||||OD
+104|114||189056|Allergic conjunctivitis|10yr-<20yr|No|Ongoing (further improvement / worsening possible)||||OS
+105|164||189194|Seasonal allergy|1yr-<5yr|Yes|Ongoing, medically stable
+106|133||189196|Seasonal allergy|1yr-<5yr|Yes|Ongoing, medically stable
+107|128||189319|Attention deficit/hyperactivity disorder|5yr-<10yr|Yes|Ongoing (further improvement / worsening possible)
+108|130||189444|Eczema|1yr-<5yr|Yes|Ongoing, medically stable
+109|130||189447|Allergy NOS|1yr-<5yr|Yes|Ongoing, medically stable|||food and environmental allergies
+110|23||189502|Asthma|1yr-<5yr|Yes|Ongoing, medically stable
+111|23||189503|Allergy NOS|1yr-<5yr|Yes|Ongoing, medically stable|||Environmental/Seasonal Allergies
+112|23||189504|Autism|5yr-<10yr|No|Ongoing, medically stable
+113|23||189506|Seafood allergy|5yr-<10yr|No|Ongoing, medically stable
+114|76||189621|Asthma|1yr-<5yr|Yes|Ongoing, medically stable
+115|18||190277|Drug allergy|1yr-<5yr|No|Ongoing, medically stable|||Patient is allergic medication amoxicillin
+116|184||190883|Photophobia|5yr-<10yr|No|Ongoing, medically stable||||OD
+117|184||190884|Photophobia|5yr-<10yr|No|Ongoing, medically stable||||OS
+118|10||190898|Photophobia|5yr-<10yr|No|Ongoing, medically stable||||OD
+119|10||190899|Photophobia|5yr-<10yr|No|Ongoing, medically stable||||OS
+120|31||191148|Anxiety|>1m-<3m|Yes|Ongoing (further improvement / worsening possible)
+121|48||191343|Athletes Foot|1yr-<5yr|Yes|Ongoing (further improvement / worsening possible)
+122|126||191601|Asthma|1yr-<5yr|Yes|Ongoing, medically stable
+123|193||191627|Photophobia|1yr-<5yr|No|Ongoing, medically stable||||OD
+124|193||191628|Photophobia|1yr-<5yr|No|Ongoing, medically stable||||OS
+125|145||191636|Attention deficit/hyperactivity disorder|1yr-<5yr|Yes|Ongoing (further improvement / worsening possible)
+126|101||191761|Photophobia|5yr-<10yr|No|Ongoing, medically stable||||OD
+127|101||191762|Photophobia|5yr-<10yr|No|Ongoing, medically stable||||OS
+128|176||191877|Attention deficit/hyperactivity disorder|5yr-<10yr|Yes|Ongoing, medically stable
+129|176||191878|Autism|5yr-<10yr|Yes|Ongoing, medically stable
+130|134||192026|Seasonal allergy|5yr-<10yr|Yes|Ongoing (further improvement / worsening possible)
+131|77||192440|Photophobia|5yr-<10yr|No|Complete Recovery|7/7/2020|||OD
+132|77||192441|Photophobia|5yr-<10yr|No|Complete Recovery|7/7/2020|||OS
+133|16||192502|Asthma|5yr-<10yr|Yes|Ongoing, medically stable
+134|85||193277|Attention deficit/hyperactivity disorder|1yr-<5yr|Yes|Ongoing (further improvement / worsening possible)
+135|25||193634|Photophobia|5yr-<10yr|No|Ongoing, medically stable||||OD
+136|25||193635|Photophobia|5yr-<10yr|No|Ongoing, medically stable||||OS
+137|80||193700|Eczema|1yr-<5yr|Yes|Ongoing, medically stable
+138|127||193892|Constipation|5yr-<10yr|Yes|Ongoing, medically stable
+139|154||194105|Eye redness|5yr-<10yr|No|Ongoing (further improvement / worsening possible)||||OS
+140|196||194108|Allergy to nuts|5yr-<10yr|Yes|Ongoing (further improvement / worsening possible)
+141|196||194109|Allergy NOS|5yr-<10yr|Yes|Ongoing (further improvement / worsening possible)|||Raw Cow's Milk
+142|196||194111|Peanut allergy|5yr-<10yr|Yes|Ongoing (further improvement / worsening possible)
+143|223||194466|Seasonal allergy|1yr-<5yr|Yes|Ongoing (further improvement / worsening possible)
+144|223||194467|Insomnia|1yr-<5yr|Yes|Ongoing (further improvement / worsening possible)
+145|183||194516|Anxiety|1yr-<5yr|No|Ongoing, medically stable
+146|183||194517|Depression|1yr-<5yr|No|Ongoing, medically stable
+147|183||194518|Attention deficit/hyperactivity disorder|1yr-<5yr|No|Ongoing, medically stable
+148|98||194527|Photophobia|1yr-<5yr|No|Ongoing, medically stable||||OD
+149|98||194528|Photophobia|1yr-<5yr|No|Ongoing, medically stable||||OS
+150|163||195353|Sensitivity to light (photophobia)|1yr-<5yr|No|Ongoing (further improvement / worsening possible)||||OD
+151|163||195354|Sensitivity to light (photophobia)|1yr-<5yr|No|Ongoing (further improvement / worsening possible)||||OS
+152|200||195355|Sensitivity to light (photophobia)|6m-<12m|No|Ongoing, medically stable||||OD
+153|200||195356|Sensitivity to light (photophobia)|6m-<12m|No|Ongoing, medically stable||||OS
+154|180||195390|Legg-Calve-Perthes disease|6m-<12m|No|Ongoing, medically stable
+155|204||196507|Allergy NOS|1yr-<5yr|Yes|Ongoing, medically stable|||seasonal
+156|98||199539|Sensitivity to light (photophobia)|5yr-<10yr|No|Ongoing, medically stable||||OD
+157|98||199540|Sensitivity to light (photophobia)|5yr-<10yr|No|Ongoing, medically stable||||OS
+158|134||202287|Seasonal allergy|1yr-<5yr|Yes|Ongoing (further improvement / worsening possible)||||OD
+159|134||202288|Seasonal allergy|1yr-<5yr|Yes|Ongoing (further improvement / worsening possible)||||OS
+160|98||202759|Eye itching|3m-<6m|Yes|Ongoing, medically stable||||OD
+161|98||202760|Eye itching|3m-<6m|Yes|Ongoing, medically stable||||OS
+162|35||202762|Seasonal allergy|3m-<6m|Yes|Ongoing, medically stable
+163|84||203269|Depression|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+164|84||203270|Obsessive-compulsive disorder|1yr-<5yr|No|Ongoing (further improvement / worsening possible)
+165|84||203272|Constipation|10yr-<20yr|No|Ongoing (further improvement / worsening possible)
+166|47||211516|Anxiety|5yr-<10yr|Yes|Ongoing (further improvement / worsening possible)
+167|26||215968|Attention deficit/hyperactivity disorder|10yr-<20yr|No|Ongoing (further improvement / worsening possible)
+168|26||215970|Seasonal allergy|5yr-<10yr|Yes|Ongoing (further improvement / worsening possible)
+169|183||215971|Depression|5yr-<10yr|No|Ongoing (further improvement / worsening possible)
+170|183||215972|Anxiety|5yr-<10yr|No|Ongoing (further improvement / worsening possible)
+171|183||215973|Attention deficit/hyperactivity disorder|5yr-<10yr|Yes|Ongoing, medically stable
+172|183||215974|Allergy NOS|5yr-<10yr|No|Ongoing (further improvement / worsening possible)|||Cat Dander
+173|183||215975|Drug allergy|5yr-<10yr|No|Ongoing (further improvement / worsening possible)|||Cefdinir
+174|52||222910|Attention deficit/hyperactivity disorder|1yr-<5yr|Yes|Ongoing, medically stable
+175|52||223115|Congenital hypertrophy of the retinal pigment epithelium|6m-<12m|No|Ongoing, medically stable||||OS

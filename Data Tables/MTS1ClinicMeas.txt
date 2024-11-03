@@ -1,0 +1,1078 @@
+RecID|PtID|ParentLoginVisitID|DistVANotDoneReas|ETDRSVisAcuOD|ETDRSVisAcuOS|BinNrVANotDone|BinNrVAOU|BinAccAmpNotDone|NrPtAcc|Visit
+1|110|42714||90|88||20/20||5.5|Run-in FU Randomization
+9|171|43543||85|80||20/20||10.0|Run-in FU Randomization
+10|81|43689||82|79||20/20||8.0|Run-in FU Randomization
+11|216|43690||91|92||20/20||8.0|Run-in FU Randomization
+12|10|43746||89|88||20/20||4.5|Run-in FU Randomization
+13|184|43813||83|86||20/20||2.0|Run-in FU Randomization
+14|221|43872||85|86||20/20||8.0|Run-in FU Randomization
+15|178|43874||83|81||20/20||6.0|Run-in FU Randomization
+16|116|43875||87|83||20/20||6.0|Run-in FU Randomization
+17|82|43885||77|82||20/20||3.5|Run-in FU Randomization
+18|194|43921||88|83||20/20||8.5|Run-in FU Randomization
+19|168|43939||81|85||20/20||5.5|Run-in FU Randomization
+20|22|43956||91|92||20/20||10.0|Run-in FU Randomization
+21|107|44002||87|84||20/20||6.5|Run-in FU Randomization
+22|9|44022||82|82||20/20||3.0|Run-in FU Randomization
+23|219|44026||91|89||20/20||3.0|Run-in FU Randomization
+24|48|44097||89|88||20/20||6.5|Run-in FU Randomization
+25|109|44100||86|86||20/20||6.0|Run-in FU Randomization
+26|193|44127||92|93||20/20||3.0|Run-in FU Randomization
+27|3|44145||85|87||20/20||10.0|Run-in FU Randomization
+28|162|44151||86|85||20/20||8.0|Run-in FU Randomization
+29|63|44175||87|87||20/20||18.0|Run-in FU Randomization
+30|38|44195||87|91||20/20||4.0|Run-in FU Randomization
+31|117|44260||88|84||20/20||9.0|Run-in FU Randomization
+32|137|44269||83|88||20/20||6.0|Run-in FU Randomization
+33|54|44324||88|86||20/20||5.0|Run-in FU Randomization
+34|39|44329||89|87||20/20||5.0|Run-in FU Randomization
+35|44|44379||88|86||20/20||5.0|Run-in FU Randomization
+36|119|44403||83|85||20/32||9.0|Run-in FU Randomization
+37|32|44427||90|90||20/20||3.5|Run-in FU Randomization
+38|77|44478||90|87||20/20||4.0|Run-in FU Randomization
+39|121|44483||88|90||20/20||6.5|Run-in FU Randomization
+40|1|44536||91|86||20/20||4.5|Run-in FU Randomization
+41|84|44543||90|90||20/20||5.0|Run-in FU Randomization
+42|163|44596||88|89||20/20||2.0|Run-in FU Randomization
+43|112|44652||88|90||20/20||6.0|Run-in FU Randomization
+44|93|44776||85|85||20/20||6.0|Run-in FU Randomization
+45|205|44837||91|91||20/20||6.0|Run-in FU Randomization
+46|132|44843||86|91||20/20||4.5|Run-in FU Randomization
+47|131|44846||78|78||20/20||5.0|Run-in FU Randomization
+48|105|44861||83|79||20/20||10.0|Run-in FU Randomization
+49|167|44863||79|81||20/20||9.0|Run-in FU Randomization
+50|96|44870||89|85||20/20||6.0|Run-in FU Randomization
+51|113|44903||80|83||20/20||15.0|Run-in FU Randomization
+52|27|44932||90|88||20/20||13.5|Run-in FU Randomization
+53|21|44959||87|89||20/20||8.5|Run-in FU Randomization
+54|52|44992||86|90||20/20||8.0|Run-in FU Randomization
+55|72|45005||85|83||20/20||6.5|Run-in FU Randomization
+56|120|45024||95|96||20/20||5.0|Run-in FU Randomization
+57|155|45033||93|95||20/20||5.0|Run-in FU Randomization
+58|225|45036||84|82||20/20||6.0|Run-in FU Randomization
+59|103|45082||86|88||20/20||3.0|Run-in FU Randomization
+60|6|45083||90|86||20/20||16.0|Run-in FU Randomization
+61|51|45091||87|86||20/20||12.0|Run-in FU Randomization
+62|102|45111||84|84||20/25||4.0|Run-in FU Randomization
+63|191|45185||91|92||20/20||6.0|Run-in FU Randomization
+64|171|45190|Not Done (Not Required)||||20/20||6.0|Month 6 Visit
+65|123|45203||87|88||20/20||5.0|Run-in FU Randomization
+66|142|45244||94|92||20/20||7.0|Run-in FU Randomization
+67|37|45247||85|85||20/25||6.0|Run-in FU Randomization
+68|161|45306||84|80||20/20||3.0|Run-in FU Randomization
+69|146|45321||89|90||20/20||5.0|Run-in FU Randomization
+70|43|45338||86|89||20/20||5.0|Run-in FU Randomization
+71|157|45371||90|87||20/20||2.5|Run-in FU Randomization
+72|19|45373||84|80||20/20||7.0|Run-in FU Randomization
+73|153|45387||92|89||20/20||3.0|Run-in FU Randomization
+74|87|45397||86|83||20/20||18.0|Run-in FU Randomization
+75|81|45416|Not Done (Not Required)||||20/20||9.0|Month 6 Visit
+76|138|45426||83|86||20/20||5.0|Run-in FU Randomization
+77|147|45441||90|88||20/20||4.5|Run-in FU Randomization
+78|10|45464|Not Done (Not Required)||||20/20||4.0|Month 6 Visit
+79|214|45468||77|78||20/20||7.0|Run-in FU Randomization
+80|100|45474||88|84||20/20||15.0|Run-in FU Randomization
+81|129|45507||83|80||20/20||8.0|Run-in FU Randomization
+82|216|45527|Not Done (Not Required)||||20/20||10.0|Month 6 Visit
+83|164|45548||89|88||20/20||6.0|Run-in FU Randomization
+84|35|45552||87|87||20/20||4.0|Run-in FU Randomization
+85|116|45565|Not Done (Not Required)||||20/20||6.0|Month 6 Visit
+86|178|45566|Not Done (Not Required)||||20/20||7.0|Month 6 Visit
+87|184|45588|Not Done (Not Required)||||20/20||2.0|Month 6 Visit
+88|168|45589|Not Done (Not Required)||||20/20||8.0|Month 6 Visit
+89|79|45590||95|95||20/20||6.5|Run-in FU Randomization
+90|194|45603|Not Done (Not Required)||||20/20||7.0|Month 6 Visit
+91|107|45604|Not Done (Not Required)||||20/20||6.0|Month 6 Visit
+92|34|45605||79|86||20/20||8.0|Run-in FU Randomization
+93|221|45609|Not Done (Not Required)||||20/20||8.5|Month 6 Visit
+94|166|45616||81|80||20/20||5.0|Run-in FU Randomization
+95|47|45626||90|90||20/20||5.0|Run-in FU Randomization
+96|156|45629||89|87||20/20||4.0|Run-in FU Randomization
+97|219|45631|Not Done (Not Required)||||20/20||4.0|Month 6 Visit
+98|82|45632||77|85||20/20||5.0|Month 6 Visit
+99|22|45638||89|86||20/20||5.5|Month 6 Visit
+100|11|45641||89|84||20/20||5.0|Run-in FU Randomization
+101|224|45667||80|79||20/20||9.0|Run-in FU Randomization
+102|109|45677||87|89||20/20||5.5|Month 6 Visit
+103|181|45682||88|90||20/20||3.0|Run-in FU Randomization
+104|3|45722|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+105|133|45735||88|84||20/20||7.0|Run-in FU Randomization
+106|173|45740||86|85||20/20||6.0|Run-in FU Randomization
+107|211|45741||86|88||20/20||4.0|Run-in FU Randomization
+108|48|45764||86|88||20/20||6.0|Month 6 Visit
+109|62|45811||89|86||20/20||6.0|Run-in FU Randomization
+110|75|45814||87|82||20/20||9.0|Run-in FU Randomization
+111|9|45826|Not Done (Not Required)||||20/20||3.0|Month 6 Visit
+112|101|45828||87|87||20/20||4.0|Run-in FU Randomization
+113|193|45830|Not Done (Not Required)||||20/20||3.5|Month 6 Visit
+114|38|45832|Not Done (Not Required)||||20/20||4.0|Month 6 Visit
+115|73|45856||88|86||20/20||6.0|Run-in FU Randomization
+116|179|45858||83|78||20/32||5.0|Run-in FU Randomization
+117|63|45865|Not Done (Not Required)||||20/20||6.0|Month 6 Visit
+118|198|45869||91|90||20/20||3.5|Run-in FU Randomization
+119|41|45883||83|87||20/20||7.0|Run-in FU Randomization
+120|143|45917||86|81||20/20||5.0|Run-in FU Randomization
+121|162|45925|Not Done (Not Required)||||20/20||6.0|Month 6 Visit
+122|83|45927||88|89||20/20||7.0|Run-in FU Randomization
+123|54|45931|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+124|39|45936|Not Done (Not Required)||||20/20||7.0|Month 6 Visit
+125|115|45954||87|88||20/20||7.0|Run-in FU Randomization
+126|212|45975||83|86||20/20||5.0|Run-in FU Randomization
+127|117|45989|Not Done (Not Required)||||20/20||4.5|Month 6 Visit
+128|106|45991||88|88||20/20||3.0|Run-in FU Randomization
+129|137|45999|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+130|119|46004||85|86||20/25||5.0|Month 6 Visit
+131|55|46006||85|84||20/20||7.0|Run-in FU Randomization
+132|32|46033||79|92||20/20||4.0|Month 6 Visit
+133|180|46042||89|85||20/25||9.0|Run-in FU Randomization
+134|121|46057||86|93||20/20||6.5|Month 6 Visit
+135|24|46069||87|82||20/20||5.0|Run-in FU Randomization
+136|44|46073|Not Done (Not Required)||||20/20||3.0|Month 6 Visit
+137|33|46086||90|90||20/20||3.0|Run-in FU Randomization
+138|77|46117|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+139|64|46123||82|79||20/20||5.5|Run-in FU Randomization
+140|208|46133||84|83||20/20||7.0|Run-in FU Randomization
+141|169|46136||85|83||20/20||6.0|Run-in FU Randomization
+142|163|46139|Not Done (Not Required)||||20/20||3.0|Month 6 Visit
+143|99|46140||82|78||20/25||6.0|Run-in FU Randomization
+144|84|46155||79|86||20/20||5.0|Month 6 Visit
+145|1|46164||90|87||20/20||5.0|Month 6 Visit
+146|175|46165||89|82||20/20||2.0|Run-in FU Randomization
+147|25|46213||91|91||20/20||2.0|Run-in FU Randomization
+148|111|46245||88|84||20/20||10.0|Run-in FU Randomization
+149|213|46248||88|89||20/20||6.0|Run-in FU Randomization
+150|57|46251||86|89||20/20||4.0|Run-in FU Randomization
+151|58|46255||90|92||20/20||4.5|Run-in FU Randomization
+152|5|46277||88|90||20/20||5.0|Run-in FU Randomization
+153|96|46306||85|84||20/20||7.0|Month 6 Visit
+154|112|46318|Not Done (Not Required)||||20/20||8.0|Month 6 Visit
+155|105|46323||81|79||20/20||7.0|Month 6 Visit
+156|12|46339||86|91||20/20||4.0|Run-in FU Randomization
+157|93|46374|Not Done (Not Required)||||20/20||4.0|Month 6 Visit
+158|205|46375|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+159|131|46380|Not Done (Not Required)||||20/25||6.0|Month 6 Visit
+160|148|46381||88|80||20/20||6.0|Run-in FU Randomization
+161|113|46385|Not Done (Not Required)||||20/25||16.0|Month 6 Visit
+162|118|46389||86|87||20/20||4.0|Run-in FU Randomization
+163|27|46404|Not Done (Not Required)||||20/20||11.5|Month 6 Visit
+164|21|46408|Not Done (Not Required)||||20/20||7.0|Month 6 Visit
+165|71|46415||79|83||20/20||5.0|Run-in FU Randomization
+166|89|46423||85|86||20/20||5.0|Run-in FU Randomization
+167|135|46432||93|91||20/20||6.0|Run-in FU Randomization
+168|155|46435|Not Done (Not Required)||||20/25||6.5|Month 6 Visit
+169|72|46436||87|86||20/20||6.0|Month 6 Visit
+170|59|46446||90|86||20/20||6.0|Run-in FU Randomization
+171|120|46456|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+172|102|46477|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+173|52|46479|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+174|122|46484||91|86||20/20||14.0|Run-in FU Randomization
+175|88|46495||92|90||20/20||6.5|Run-in FU Randomization
+176|14|46510||86|85||20/20||9.0|Run-in FU Randomization
+177|103|46526|Not Done (Not Required)||||20/20||3.5|Month 6 Visit
+178|46|46534||85|79||20/20||5.5|Run-in FU Randomization
+179|36|46537||86|88||20/20||4.0|Run-in FU Randomization
+180|6|46543|Not Done (Not Required)||||20/20||6.0|Month 6 Visit
+181|68|46549||86|85||20/20||6.0|Run-in FU Randomization
+182|51|46552|Not Done (Not Required)||||20/20||23.0|Month 6 Visit
+183|191|46554|Not Done (Not Required)||||20/20||7.0|Month 6 Visit
+184|94|46560||88|85||20/20||6.0|Run-in FU Randomization
+185|142|46608||88|92||20/20||8.0|Month 6 Visit
+186|152|46639||84|77||20/25||12.0|Run-in FU Randomization
+187|136|46646||84|80||20/20||9.0|Run-in FU Randomization
+188|165|46649||90|91||20/20||6.0|Run-in FU Randomization
+189|225|46660|Not Done (Not Required)||||20/20||3.0|Month 6 Visit
+190|114|46675||88|87||20/20||4.0|Run-in FU Randomization
+191|149|46689||90|91||20/20||3.5|Run-in FU Randomization
+192|204|46691||89|84||20/20||6.0|Run-in FU Randomization
+193|8|46696||86|91||20/20||7.0|Run-in FU Randomization
+194|123|46708||91|93||20/20||5.0|Month 6 Visit
+195|37|46721|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+196|171|46734|Not Done (Not Required)||||||5.0|Month 12 Visit
+197|181|46739||85|88||20/20||5.0|Month 6 Visit
+198|11|46747|Not Done (Not Required)||||20/20||6.0|Month 6 Visit
+199|81|46749|Not Done (Not Required)||||||8.0|Month 12 Visit
+200|147|46777|Not Done (Not Required)||||20/20||3.5|Month 6 Visit
+201|161|46778|Not Done (Not Required)||||20/20||4.0|Month 6 Visit
+202|128|46799||88|85||20/20||5.5|Run-in FU Randomization
+203|153|46802|Not Done (Not Required)||||20/20||4.0|Month 6 Visit
+204|216|46808|Not Done (Not Required)||||||10.0|Month 12 Visit
+205|10|46810|Not Done (Not Required)||||||3.5|Month 12 Visit
+206|146|46817|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+207|214|46822|Not Done (Not Required)||||20/25||8.0|Month 6 Visit
+208|158|46831||89|90||20/20||8.0|Run-in FU Randomization
+209|138|46847|Not Done (Not Required)||||20/20||3.5|Month 6 Visit
+210|23|46851||76|78||20/20||5.0|Run-in FU Randomization
+211|221|46853||76|71||||4.0|Month 12 Visit
+212|19|46873|Not Done (Not Required)||||20/20||8.0|Month 6 Visit
+213|151|46883||78|77||20/20||13.0|Run-in FU Randomization
+214|43|46885|Not Done (Not Required)||||20/32||6.0|Month 6 Visit
+215|100|46887|Not Done (Not Required)||||20/20||13.0|Month 6 Visit
+216|210|46897||82|88||20/25||4.0|Run-in FU Randomization
+217|157|46914||87|78||20/20||3.0|Month 6 Visit
+218|130|46915||76|80||20/25||8.0|Run-in FU Randomization
+219|90|46921||86|84||20/20||5.0|Run-in FU Randomization
+220|82|46929||87|83||||10.0|Month 12 Visit
+221|215|46937||88|89||20/20||4.0|Run-in FU Randomization
+222|87|46955||85|79||20/20||13.0|Month 6 Visit
+223|129|46961|Not Done (Not Required)||||20/20||3.0|Month 6 Visit
+226|156|46971||90|91||20/20||4.0|Month 6 Visit
+227|166|46973|Not Done (Not Required)||||20/20||10.0|Month 6 Visit
+228|164|46975|Not Done (Not Required)||||20/20||3.0|Month 6 Visit
+229|107|46976||82|75||||3.0|Month 12 Visit
+230|116|46988|Not Done (Not Required)||||||7.0|Month 12 Visit
+231|178|46989|Not Done (Not Required)||||||6.0|Month 12 Visit
+232|184|46991|Not Done (Not Required)||||||4.0|Month 12 Visit
+233|40|47013||89|88||20/20||9.0|Run-in FU Randomization
+234|47|47026|Not Done (Not Required)||||20/20||4.0|Month 6 Visit
+235|34|47027|Not Done (Not Required)||||20/20||8.0|Month 6 Visit
+236|18|47031||87|79||20/20||5.5|Run-in FU Randomization
+237|76|47037||88|86||20/20||4.0|Run-in FU Randomization
+238|35|47054|Not Done (Not Required)||||20/20||6.0|Month 6 Visit
+239|162|47060|Not Done (Not Required)||||||7.0|Month 12 Visit
+240|173|47063|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+241|22|47064||81|77||||12.5|Month 12 Visit
+242|211|47066|Not Done (Not Required)||||20/20||4.0|Month 6 Visit
+243|219|47068||88|89||||5.0|Month 12 Visit
+244|224|47086|Not Done (Not Required)||||20/20||10.0|Month 6 Visit
+245|190|47099||91|93||20/20||3.0|Run-in FU Randomization
+246|168|47101||79|87||||3.5|Month 12 Visit
+247|79|47102||89|96||20/20||4.0|Month 6 Visit
+248|194|47108|Not Done (Not Required)||||||4.5|Month 12 Visit
+249|30|47109||84|88||20/20||15.0|Run-in FU Randomization
+250|48|47115||90|95||||5.0|Month 12 Visit
+251|62|47118||76|68||20/20||4.0|Month 6 Visit
+252|109|47122||92|89||||5.0|Month 12 Visit
+253|150|47136||89|86||20/20||6.0|Run-in FU Randomization
+254|179|47146|Not Done (Not Required)||||20/25||3.5|Month 6 Visit
+255|186|47148||77|78||20/25||8.0|Run-in FU Randomization
+256|133|47166||83|86||20/20||4.0|Month 6 Visit
+257|63|47169|Not Done (Not Required)||||||6.0|Month 12 Visit
+258|189|47175||91|92||20/20||4.5|Run-in FU Randomization
+259|193|47177|Not Done (Not Required)||||||2.5|Month 12 Visit
+260|38|47179|Not Done (Not Required)||||||5.0|Month 12 Visit
+261|192|47185||87|85||20/25||4.0|Run-in FU Randomization
+262|16|47195||90|88||20/20||5.0|Run-in FU Randomization
+263|101|47196|Not Done (Not Required)||||20/20||4.0|Month 6 Visit
+264|218|47197||85|86||20/20||3.0|Run-in FU Randomization
+265|143|47206|Not Done (Not Required)||||20/20||7.0|Month 6 Visit
+266|73|47207|Not Done (Not Required)||||20/20||6.0|Month 6 Visit
+267|198|47216||87|83||20/20||4.0|Month 6 Visit
+268|75|47220|Not Done (Not Required)||||20/20||10.0|Month 6 Visit
+269|31|47226||85|85||20/20||6.0|Run-in FU Randomization
+270|115|47233||84|92||20/20||4.0|Month 6 Visit
+271|3|47235||85|84||||2.5|Month 12 Visit
+272|9|47255|Not Done (Not Required)||||||6.0|Month 12 Visit
+273|145|47277||87|88||20/20||4.0|Run-in FU Randomization
+274|172|47294||87|83||20/20||5.0|Run-in FU Randomization
+275|32|47300|Not Done (Not Required)||||||4.5|Month 12 Visit
+276|54|47303|Not Done (Not Required)||||||5.0|Month 12 Visit
+277|119|47304||82|85||||4.0|Month 12 Visit
+278|24|47306||81|79||20/20||7.0|Month 6 Visit
+279|39|47308|Not Done (Not Required)||||||6.0|Month 12 Visit
+280|83|47311|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+281|176|47322||86|83||20/20||5.5|Run-in FU Randomization
+282|44|47324||90|88||||4.0|Month 12 Visit
+283|137|47328|Not Done (Not Required)||||||4.0|Month 12 Visit
+284|134|47331||87|82||20/20||7.5|Run-in FU Randomization
+285|117|47335|Not Done (Not Required)||||||4.0|Month 12 Visit
+286|77|47337||91|93||||3.0|Month 12 Visit
+287|180|47355|Not Done (Not Required)||||20/20||16.0|Month 6 Visit
+288|212|47359|Not Done (Not Required)||||20/20||3.0|Month 6 Visit
+289|106|47360||84|87||20/20||4.5|Month 6 Visit
+290|84|47366|Not Done (Not Required)||||||5.0|Month 12 Visit
+291|126|47372||89|89||20/20||6.0|Run-in FU Randomization
+294|169|47415|Not Done (Not Required)||||20/20||6.0|Month 6 Visit
+295|1|47426||87|86||||6.0|Month 12 Visit
+296|55|47432|Not Done (Not Required)||||20/20||9.0|Month 6 Visit
+297|41|47437||85|84||20/20||10.0|Month 6 Visit
+298|208|47439|Not Done (Not Required)||||20/20||8.0|Month 6 Visit
+299|20|47448||88|90||20/20||5.0|Run-in FU Randomization
+300|175|47451||88|85||20/20||2.0|Month 6 Visit
+301|121|47452||83|93||||7.5|Month 12 Visit
+302|197|47466||77|81||20/20||4.0|Run-in FU Randomization
+303|74|47468||92|93||20/20||3.0|Run-in FU Randomization
+304|33|47489|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+305|111|47502||85|83||20/20||5.0|Month 6 Visit
+309|12|47538||89|93||20/20||5.0|Month 6 Visit
+310|163|47545|Not Done (Not Required)||||||3.0|Month 12 Visit
+311|64|47546|Not Done (Not Required)||||20/20||5.5|Month 6 Visit
+312|5|47550|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+313|213|47552|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+314|99|47565|Not Done (Not Required)||||20/25||7.0|Month 6 Visit
+315|58|47567|Not Done (Not Required)||||20/20||4.0|Month 6 Visit
+316|207|47575||87|89||20/20||3.5|Run-in FU Randomization
+317|57|47582||90|88||20/20||7.0|Month 6 Visit
+318|25|47587||89|87||20/20||5.0|Month 6 Visit
+319|91|47588||90|94||20/20||5.5|Run-in FU Randomization
+320|93|47637|Not Done (Not Required)||||||5.0|Month 12 Visit
+321|112|47654|Not Done (Not Required)||||||8.0|Month 12 Visit
+322|96|47656||86|85||||6.0|Month 12 Visit
+323|85|47661||89|82||20/20||4.0|Run-in FU Randomization
+324|135|47666|Not Done (Not Required)||||20/20||6.0|Month 6 Visit
+325|27|47676||88|88||||14.0|Month 12 Visit
+326|154|47677||82|85||20/20||3.0|Run-in FU Randomization
+327|89|47681|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+328|174|47690||89|86||20/20||6.0|Run-in FU Randomization
+329|59|47691||91|92||20/20||4.0|Month 6 Visit
+330|105|47708|Not Done (Not Required)||||||4.0|Month 12 Visit
+331|185|47711||78|76||20/25||3.0|Run-in FU Randomization
+332|80|47715||89|89||20/20||6.0|Run-in FU Randomization
+333|21|47725||91|86||||13.0|Month 12 Visit
+334|15|47733||79|78||20/20||6.0|Run-in FU Randomization
+335|97|47761||89|88||20/20||2.0|Run-in FU Randomization
+336|202|47764||87|84||20/20||4.0|Run-in FU Randomization
+337|205|47766|Not Done (Not Required)||||||6.0|Month 12 Visit
+338|98|47777||92|93||20/20||6.0|Run-in FU Randomization
+339|29|47786||91|89||20/20||6.0|Run-in FU Randomization
+340|159|47788||85|86||20/20||5.5|Run-in FU Randomization
+341|155|47798|Not Done (Not Required)||||||7.0|Month 12 Visit
+342|113|47811||91|93||||13.0|Month 12 Visit
+343|6|47843||94|92||||10.0|Month 12 Visit
+344|86|47844||95|94||20/20||5.5|Run-in FU Randomization
+345|72|47845||85|85||||10.0|Month 12 Visit
+346|127|47847||90|92||20/20||6.0|Run-in FU Randomization
+347|4|47849||85|85||20/20||3.5|Run-in FU Randomization
+348|14|47872|Not Done (Not Required)||||20/25||8.0|Month 6 Visit
+349|68|47883|Not Done (Not Required)||||20/20||4.0|Month 6 Visit
+350|120|47884|Not Done (Not Required)||||||5.0|Month 12 Visit
+351|183|47890||78|80||20/20||7.0|Run-in FU Randomization
+352|196|47891||85|81||20/20||6.0|Run-in FU Randomization
+353|131|47903|Not Done (Not Required)||||||7.0|Month 12 Visit
+354|53|47904||87|79||20/20||4.5|Run-in FU Randomization
+355|103|47907|Not Done (Not Required)||||||4.0|Month 12 Visit
+356|36|47908|Not Done (Not Required)||||20/20||4.5|Month 6 Visit
+357|26|47916||89|88||20/20||3.5|Run-in FU Randomization
+358|71|47939|Not Done (Not Required)||||20/20||4.5|Month 6 Visit
+359|122|47940|Not Done (Not Required)||||20/20||10.5|Month 6 Visit
+360|102|47954|Not Done (Not Required)||||||5.0|Month 12 Visit
+361|200|47955||87|89||20/20||4.5|Run-in FU Randomization
+362|167|47971|Not Done (Required)|||||1||Month 12 Visit
+363|88|47975|Not Done (Not Required)||||20/20||4.0|Month 6 Visit
+364|52|47978|Not Done (Not Required)||||||5.0|Month 12 Visit
+365|152|47980|Not Done (Not Required)||||20/20||10.0|Month 6 Visit
+366|11|47989|Not Done (Not Required)||||||6.0|Month 12 Visit
+367|46|47994|Not Done (Not Required)||||20/20||7.0|Month 6 Visit
+368|191|47999||87|93||||6.5|Month 12 Visit
+369|51|48003|Not Done (Not Required)||||||13.0|Month 12 Visit
+370|223|48006||89|88||20/20||5.0|Run-in FU Randomization
+371|124|48015||86|84||20/20||7.5|Run-in FU Randomization
+372|142|48019||86|93||||6.0|Month 12 Visit
+373|141|48025||83|78||20/20||5.5|Run-in FU Randomization
+374|8|48028||79|88||20/20||5.0|Month 6 Visit
+375|125|48029||82|80||20/20||7.0|Run-in FU Randomization
+376|94|48034||79|78||20/20||4.0|Month 6 Visit
+377|177|48063||85|81||20/20||5.0|Run-in FU Randomization
+378|204|48064||85|79||20/20||7.0|Month 6 Visit
+379|28|48071||86|86||20/20||5.0|Run-in FU Randomization
+380|138|48089|Not Done (Not Required)||||||3.5|Month 12 Visit
+381|136|48104|Not Done (Not Required)||||20/20||9.0|Month 6 Visit
+382|149|48130||92|89||20/20||3.0|Month 6 Visit
+383|161|48143||88|85||||4.0|Month 12 Visit
+384|123|48147|Not Done (Not Required)||||||4.0|Month 12 Visit
+385|146|48153|Not Done (Not Required)||||||5.0|Month 12 Visit
+386|158|48159|Not Done (Not Required)||||20/20||8.5|Month 6 Visit
+387|128|48160|Not Done (Not Required)||||20/25||5.0|Month 6 Visit
+388|215|48240|Not Done (Not Required)|||1||1||Month 6 Visit
+389|18|48243|Not Done (Required)|||1||1||Month 6 Visit
+390|165|48245|Not Done (Not Required)|||1||1||Month 6 Visit
+391|81|48249|Not Done (Not Required)|||||1||Month 18 Visit
+392|216|48250|Not Done (Not Required)|||||1||Month 18 Visit
+393|224|48252|Not Done (Not Required)|||||1||Month 12 Visit
+394|171|48259|Not Done (Not Required)|||||1||Month 18 Visit
+395|181|48260|Not Done (Not Required)|||||1||Month 12 Visit
+396|37|48262|Not Done (Required)|||||1||Month 12 Visit
+397|34|48264|Not Done (Not Required)|||||1||Month 12 Visit
+398|90|48265|Not Done (Not Required)|||1||1||Month 6 Visit
+399|166|48266|Not Done (Not Required)|||||1||Month 12 Visit
+400|157|48267|Not Done (Required)|||||1||Month 12 Visit
+401|114|48270|Not Done (Not Required)|||1||1||Month 6 Visit
+402|82|48271|Not Done (Required)|||||1||Month 18 Visit
+403|178|48272|Not Done (Not Required)|||||1||Month 18 Visit
+404|116|48273|Not Done (Not Required)|||||1||Month 18 Visit
+405|10|48274|Not Done (Not Required)|||||1||Month 18 Visit
+406|147|48275|Not Done (Not Required)|||||1||Month 12 Visit
+407|40|48276|Not Done (Not Required)|||1||1||Month 6 Visit
+408|87|48277|Not Done (Required)|||||1||Month 12 Visit
+409|164|48278|Not Done (Not Required)|||||1||Month 12 Visit
+410|129|48279|Not Done (Required)|||||1||Month 12 Visit
+411|210|48284|Not Done (Not Required)||||20/25||3.0|Month 6 Visit
+412|19|48285|Not Done (Not Required)|||||1||Month 12 Visit
+413|35|48290|Not Done (Not Required)|||||1||Month 12 Visit
+414|109|48291|Not Done (Required)|||||1||Month 18 Visit
+415|22|48293|Not Done (Required)|||||1||Month 18 Visit
+416|130|48294|Not Done (Not Required)|||1||1||Month 6 Visit
+417|47|48302|Not Done (Not Required)|||||1||Month 12 Visit
+418|214|48308|Not Done (Not Required)|||||1||Month 12 Visit
+419|221|48311|Not Done (Required)|||||1||Month 18 Visit
+420|168|48312|Not Done (Required)|||||1||Month 18 Visit
+421|79|48313|Not Done (Required)|||||1||Month 12 Visit
+422|194|48315|Not Done (Required)|||||1||Month 18 Visit
+423|184|48317|Not Done (Not Required)|||||1||Month 18 Visit
+424|16|48323|Not Done (Required)|||1||1||Month 6 Visit
+425|48|48325|Not Done (Required)|||||1||Month 18 Visit
+426|156|48327|Not Done (Required)|||||1||Month 12 Visit
+427|101|48328|Not Done (Required)|||||1||Month 12 Visit
+428|153|48329|Not Done (Not Required)|||||1||Month 12 Visit
+429|62|48331|Not Done (Required)|||||1||Month 12 Visit
+430|30|48332|Not Done (Not Required)|||1||1||Month 6 Visit
+431|107|48341|Not Done (Required)|||||1||Month 18 Visit
+432|190|48342|Not Done (Not Required)|||1||1||Month 6 Visit
+433|63|48344|Not Done (Not Required)|||||1||Month 18 Visit
+434|9|48345|Not Done (Not Required)||||||2.0|Month 18 Visit
+435|179|48348|Not Done (Not Required)||||||3.5|Month 12 Visit
+436|173|48359|Not Done (Not Required)||||||5.0|Month 12 Visit
+437|211|48360|Not Done (Not Required)||||||4.0|Month 12 Visit
+438|75|48361|Not Done (Not Required)|||||1||Month 12 Visit
+439|31|48362|Not Done (Not Required)||||20/20||6.0|Month 6 Visit
+440|150|48365||90|85||20/20||5.0|Month 6 Visit
+441|186|48369|Not Done (Not Required)||||20/25||13.0|Month 6 Visit
+442|43|48374|Not Done (Not Required)||||||6.0|Month 12 Visit
+443|133|48376|Not Done (Not Required)|||||1||Month 12 Visit
+444|83|48385|Not Done (Not Required)||||||5.0|Month 12 Visit
+445|39|48386|Not Done (Not Required)||||||5.0|Month 18 Visit
+446|55|48395|Not Done (Not Required)||||||7.0|Month 12 Visit
+447|145|48400|Not Done (Not Required)||||20/20||7.0|Month 6 Visit
+448|3|48401|Not Done (Required)|||||1||Month 18 Visit
+449|193|48403|Not Done (Required)|||||1||Month 18 Visit
+450|44|48404|Not Done (Not Required)|||||1||Month 18 Visit
+451|38|48405|Not Done (Required)|||||1||Month 18 Visit
+452|192|48406|Not Done (Not Required)||||20/20||3.5|Month 6 Visit
+453|143|48408|Not Done (Not Required)|||||1||Month 12 Visit
+454|189|48410|Not Done (Not Required)||||20/25||9.0|Month 6 Visit
+455|218|48412|Not Done (Not Required)||||20/25||8.0|Month 6 Visit
+456|162|48414|Not Done (Not Required)|||||1||Month 18 Visit
+457|106|48416|Not Done (Not Required)|||||1||Month 12 Visit
+458|172|48417|Not Done (Required)|||1||1||Month 6 Visit
+459|151|48420|Not Done (Not Required)||||20/20||13.0|Month 6 Visit
+460|100|48433|Not Done (Not Required)|||||1||Month 12 Visit
+461|198|48434|Not Done (Required)|||||1||Month 12 Visit
+462|24|48442|Not Done (Required)|||||1||Month 12 Visit
+463|33|48447|Not Done (Not Required)|||||1||Month 12 Visit
+464|119|48448|Not Done (Required)|||||1||Month 18 Visit
+465|54|48450|Not Done (Not Required)||||||6.0|Month 18 Visit
+466|84|48451|Not Done (Not Required)||||||5.0|Month 18 Visit
+467|169|48456|Not Done (Not Required)||||||5.0|Month 12 Visit
+468|64|48459|Not Done (Not Required)||||||5.0|Month 12 Visit
+469|115|48460|Not Done (Required)|||||1||Month 12 Visit
+470|134|48464|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+471|73|48467|Not Done (Not Required)|||||1||Month 12 Visit
+472|212|48468|Not Done (Required)|||||1||Month 12 Visit
+473|99|48478|Not Done (Not Required)||||||1.0|Month 12 Visit
+474|32|48480|Not Done (Not Required)|||||1||Month 18 Visit
+475|176|48481|Not Done (Not Required)|||1||1||Month 6 Visit
+476|20|48483|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+477|76|48484|Not Done (Required)|||1||1||Month 6 Visit
+478|41|48485|Not Done (Not Required)||||||10.0|Month 12 Visit
+479|175|48513||75|76||||2.5|Month 12 Visit
+480|208|48516|Not Done (Not Required)||||||7.0|Month 12 Visit
+481|121|48519||92|95||||6.0|Month 18 Visit
+482|180|48521|Not Done (Not Required)|||||1||Month 12 Visit
+483|126|48524|Not Done (Not Required)|||1||1||Month 6 Visit
+484|77|48527|Not Done (Required)|||||1||Month 18 Visit
+485|219|48528||81|86||||4.0|Month 18 Visit
+486|1|48548||88|83||||4.0|Month 18 Visit
+487|74|48550||75|79||20/20||4.0|Month 6 Visit
+488|117|48552|Not Done (Not Required)|||||1||Month 18 Visit
+489|111|48553|Not Done (Required)|||||1||Month 12 Visit
+490|197|48576|Not Done (Not Required)|||1||1||Month 6 Visit
+491|91|48584||91|94||20/20||5.0|Month 6 Visit
+492|159|48594||82|85||20/20||3.5|Month 6 Visit
+493|85|48602||90|87||20/25||4.0|Month 6 Visit
+494|163|48604||89|89||||3.0|Month 18 Visit
+495|112|48606|Not Done (Not Required)||||||8.0|Month 18 Visit
+496|12|48609|Not Done (Not Required)||||||2.5|Month 12 Visit
+497|174|48613||87|87||20/20||8.0|Month 6 Visit
+498|25|48615|Not Done (Required)|||||1||Month 12 Visit
+499|93|48623|Not Done (Not Required)||||||1.0|Month 18 Visit
+500|148|48631|Not Done (Not Required)||||||6.0|Month 12 Visit
+501|80|48640|Not Done (Not Required)||||20/20||9.0|Month 6 Visit
+502|105|48641|Not Done (Not Required)||||||2.5|Month 18 Visit
+503|5|48645|Not Done (Not Required)||||||3.0|Month 12 Visit
+504|213|48646||88|80||||6.0|Month 12 Visit
+505|205|48648|Not Done (Not Required)||||||5.0|Month 18 Visit
+506|89|48649|Not Done (Not Required)||||||5.0|Month 12 Visit
+507|154|48655||78|82||20/20||5.5|Month 6 Visit
+508|96|48671|Not Done (Not Required)|||||1||Month 18 Visit
+509|113|48679|Not Done (Not Required)||||||17.0|Month 18 Visit
+510|58|48681|Not Done (Not Required)||||||5.5|Month 12 Visit
+511|97|48686||86|87||20/25||5.0|Month 6 Visit
+512|131|48691|Not Done (Not Required)||||||3.0|Month 18 Visit
+513|202|48692||81|76||20/25||5.0|Month 6 Visit
+514|88|48694|Not Done (Not Required)||||||5.0|Month 12 Visit
+520|207|48706||90|90|1|||4.0|Month 6 Visit
+522|122|48717||86|85||||8.0|Month 12 Visit
+523|86|48718||95|93||20/20||5.0|Month 6 Visit
+524|98|48721|Not Done (Required)|||1||1||Month 6 Visit
+525|27|48724|Not Done (Not Required)|||||1||Month 18 Visit
+526|71|48727|Not Done (Not Required)||||||5.0|Month 12 Visit
+527|4|48733|Not Done (Not Required)|||1||1||Month 6 Visit
+528|46|48742|Not Done (Not Required)||||||6.5|Month 12 Visit
+529|36|48749||79|85||||4.0|Month 12 Visit
+530|103|48754|Not Done (Not Required)||||||3.5|Month 18 Visit
+531|155|48755|Not Done (Not Required)||||||2.0|Month 18 Visit
+532|183|48756||74|82||20/20||6.5|Month 6 Visit
+533|68|48764|Not Done (Not Required)||||||5.0|Month 12 Visit
+534|120|48766|Not Done (Not Required)||||||6.0|Month 18 Visit
+535|15|48769|Not Done (Not Required)|||1||1||Month 6 Visit
+536|200|48775||87|90||20/20||3.0|Month 6 Visit
+537|59|48777||90|94||||5.0|Month 12 Visit
+538|102|48781|Not Done (Not Required)||||||3.0|Month 18 Visit
+539|72|48783||86|78||||9.0|Month 18 Visit
+540|135|48788|Not Done (Not Required)||||||7.0|Month 12 Visit
+541|29|48789|Not Done (Not Required)||||20/25||7.0|Month 6 Visit
+542|14|48790||85|87||||9.0|Month 12 Visit
+543|52|48792|Not Done (Not Required)||||||7.0|Month 18 Visit
+544|6|48794|Not Done (Not Required)||||||8.0|Month 18 Visit
+545|21|48796|Not Done (Not Required)|||||1||Month 18 Visit
+546|191|48801|Not Done (Not Required)|||||1||Month 18 Visit
+547|53|48803|Not Done (Not Required)||||20/25||3.5|Month 6 Visit
+548|171|48804|Not Done (Not Required)||||||10.0|Month 24 Visit
+549|165|48821||91|88||||4.0|Month 12 Visit
+550|127|48829|Not Done (Not Required)||||20/20||8.0|Month 6 Visit
+551|196|48831||85|59||20/20||5.0|Month 6 Visit
+552|51|48842|Not Done (Not Required)||||||7.0|Month 18 Visit
+553|223|48845|Not Done (Not Required)||||20/20||7.0|Month 6 Visit
+554|94|48848|Not Done (Not Required)|||||1||Month 12 Visit
+555|81|48853|Not Done (Not Required)||||||7.0|Month 24 Visit
+556|125|48854||79|80||20/20||4.0|Month 6 Visit
+557|124|48862||77|76||20/20||6.0|Month 6 Visit
+558|177|48866||88|86||20/20||5.0|Month 6 Visit
+559|204|48868|Not Done (Not Required)|||||1||Month 12 Visit
+560|8|48871|Not Done (Required)|||||1||Month 12 Visit
+561|141|48886||86|80||20/20||5.5|Month 6 Visit
+562|136|48887|Not Done (Not Required)||||||11.0|Month 12 Visit
+563|26|48888|Not Done (Not Required)|||1||1||Month 6 Visit
+564|28|48890|Not Done (Not Required)||||20/20||5.0|Month 6 Visit
+565|123|48891|Not Done (Not Required)||||||5.0|Month 18 Visit
+566|146|48892|Not Done (Not Required)||||||5.0|Month 18 Visit
+567|149|48894||92|94||||3.5|Month 12 Visit
+568|114|48896||89|81||||4.0|Month 12 Visit
+569|10|48897||90|89||||3.5|Month 24 Visit
+570|152|48915|Not Done (Not Required)||||||8.0|Month 12 Visit
+571|128|48932|Not Done (Not Required)||||||4.0|Month 12 Visit
+572|19|48939|Not Done (Not Required)||||||7.0|Month 18 Visit
+573|161|48942||77|82||||5.0|Month 18 Visit
+574|151|48947|Not Done (Not Required)||||||23.0|Month 12 Visit
+575|142|48948|Not Done (Required)|||||1||Month 18 Visit
+576|37|48949||84|86||||4.0|Month 18 Visit
+577|100|48959|Not Done (Not Required)||||||19.0|Month 18 Visit
+578|90|48963||81|72||||7.0|Month 12 Visit
+579|158|48966||84|87||||9.0|Month 12 Visit
+580|216|48970|Not Done (Not Required)||||||8.0|Month 24 Visit
+581|9|48982|Not Done (Not Required)||||||2.0|Month 24 Visit
+582|147|48987||85|87||||2.0|Month 18 Visit
+583|153|48995||88|88||||3.5|Month 18 Visit
+584|214|49001|Not Done (Not Required)||||||9.0|Month 18 Visit
+585|210|49002|Not Done (Not Required)||||||3.5|Month 12 Visit
+586|157|49004||79|75||||2.5|Month 18 Visit
+587|43|49006|Not Done (Not Required)||||||5.0|Month 18 Visit
+588|107|49009||86|82||||5.0|Month 24 Visit
+589|138|49016|Not Done (Required)|||||1||Month 18 Visit
+590|35|49018|Not Done (Not Required)||||||9.5|Month 18 Visit
+591|87|49029||68|69||||4.0|Month 18 Visit
+592|130|49032||83|85||||6.0|Month 12 Visit
+593|48|49044||86|85||||5.0|Month 24 Visit
+594|190|49046||88|85||||4.5|Month 12 Visit
+595|164|49048||86|85||||4.5|Month 18 Visit
+596|193|49051||90|85||||2.5|Month 24 Visit
+597|109|49057||76|76||||5.0|Month 24 Visit
+598|156|49063||88|88||||5.0|Month 18 Visit
+599|215|49064||88|91||||4.5|Month 12 Visit
+600|129|49065||83|84||||5.5|Month 18 Visit
+604|47|49077|Not Done (Not Required)||||||6.0|Month 18 Visit
+605|166|49078|Not Done (Not Required)||||||7.0|Month 18 Visit
+606|225|49079||56|62||||3.0|Month 18 Visit
+608|34|49087|Not Done (Not Required)||||||8.0|Month 18 Visit
+609|22|49090||80|82||||6.0|Month 24 Visit
+610|181|49091||88|88||||4.0|Month 18 Visit
+611|40|49094|Not Done (Not Required)||||||8.0|Month 12 Visit
+612|224|49099|Not Done (Not Required)||||||10.0|Month 18 Visit
+613|18|49100||82|87||||6.0|Month 12 Visit
+614|186|49101|Not Done (Not Required)||||||10.0|Month 12 Visit
+615|219|49102||77|87||||4.0|Month 24 Visit
+616|44|49106||91|84||||3.0|Month 24 Visit
+617|11|49107|Not Done (Not Required)||||||5.0|Month 18 Visit
+618|119|49110||87|86||||5.0|Month 24 Visit
+619|218|49111||87|83||||5.0|Month 12 Visit
+620|82|49113||81|84||||5.0|Month 24 Visit
+621|184|49115|Not Done (Not Required)||||||3.0|Month 24 Visit
+622|76|49116|Not Done (Required)|||||1||Month 12 Visit
+623|189|49117||88|86||||5.0|Month 12 Visit
+624|150|49119||89|90||||8.0|Month 12 Visit
+625|75|49121|Not Done (Not Required)||||||9.0|Month 18 Visit
+626|221|49123||75|81||||5.0|Month 24 Visit
+627|173|49125|Not Done (Not Required)||||||5.0|Month 18 Visit
+628|211|49127|Not Done (Not Required)||||||5.0|Month 18 Visit
+629|30|49132||89|88||||18.0|Month 12 Visit
+630|121|49135||93|93||||6.0|Month 24 Visit
+631|38|49137||79|81||||2.5|Month 24 Visit
+632|73|49138|Not Done (Not Required)||||||9.0|Month 18 Visit
+633|133|49141||90|91||||3.0|Month 18 Visit
+634|179|49142||82|77||||3.5|Month 18 Visit
+635|194|49145||79|79||||6.0|Month 24 Visit
+636|192|49148||69|78||||3.0|Month 12 Visit
+637|31|49156|Not Done (Not Required)||||||9.0|Month 12 Visit
+638|62|49158||60|67||||5.0|Month 18 Visit
+639|143|49160|Not Done (Not Required)|||||1||Month 18 Visit
+640|55|49161|Not Done (Not Required)||||||6.0|Month 18 Visit
+641|172|49167||87|82||||3.0|Month 12 Visit
+642|180|49173|Not Done (Not Required)||||||12.0|Month 18 Visit
+643|145|49178|Not Done (Not Required)||||||11.0|Month 12 Visit
+644|16|49181||86|86||||5.0|Month 12 Visit
+645|198|49185||87|85||||3.0|Month 18 Visit
+646|134|49186||70|80||||5.5|Month 12 Visit
+647|178|49188|Not Done (Not Required)||||||7.0|Month 24 Visit
+648|116|49189|Not Done (Not Required)||||||6.0|Month 24 Visit
+649|41|49190|Not Done (Not Required)|||||1||Month 18 Visit
+650|115|49191||84|88||||5.0|Month 18 Visit
+651|101|49194||70|84||||4.0|Month 18 Visit
+652|126|49195|Not Done (Not Required)||||||6.0|Month 12 Visit
+653|168|49199||78|80||||3.0|Month 24 Visit
+654|79|49200||79|94||||3.0|Month 18 Visit
+655|54|49201|Not Done (Not Required)||||||5.0|Month 24 Visit
+656|83|49202|Not Done (Not Required)||||||6.0|Month 18 Visit
+657|39|49203|Not Done (Not Required)||||||11.0|Month 24 Visit
+658|63|49204|Not Done (Not Required)||||||4.0|Month 24 Visit
+659|162|49216|Not Done (Not Required)||||||7.0|Month 24 Visit
+660|24|49218|Not Done (Not Required)||||||5.0|Month 18 Visit
+661|197|49219||78|76||||3.0|Month 12 Visit
+662|1|49221||88|85||||3.0|Month 24 Visit
+663|99|49225|Not Done (Not Required)||||||9.0|Month 18 Visit
+664|3|49226||86|83||||4.0|Month 24 Visit
+665|117|49229||89|90||||6.0|Month 24 Visit
+666|212|49234||69|86||||3.0|Month 18 Visit
+667|33|49235|Not Done (Not Required)||||||5.0|Month 18 Visit
+668|106|49240|Not Done (Not Required)||||||4.0|Month 18 Visit
+669|20|49242|Not Done (Not Required)||||||6.5|Month 12 Visit
+670|176|49246|Not Done (Not Required)||||||4.0|Month 12 Visit
+671|93|49249|Not Done (Not Required)||||||4.0|Month 24 Visit
+672|64|49252||84|83||||4.0|Month 18 Visit
+673|175|49259||88|88||||3.0|Month 18 Visit
+674|74|49264||88|88||||4.0|Month 12 Visit
+675|111|49266|Not Done (Not Required)||||||7.0|Month 18 Visit
+676|96|49267|Not Done (Not Required)||||||7.0|Month 24 Visit
+677|208|49268|Not Done (Not Required)|||||1||Month 18 Visit
+678|27|49271|Not Done (Not Required)||||||12.0|Month 24 Visit
+679|32|49274|Not Done (Not Required)||||||4.0|Month 24 Visit
+680|77|49275|Not Done (Not Required)||||||4.5|Month 24 Visit
+681|131|49278|Not Done (Not Required)||||||5.0|Month 24 Visit
+682|169|49279|Not Done (Not Required)||||||7.0|Month 18 Visit
+684|5|49286|Not Done (Not Required)||||||5.0|Month 18 Visit
+685|205|49287|Not Done (Not Required)||||||14.0|Month 24 Visit
+686|213|49288|Not Done (Not Required)||||||5.0|Month 18 Visit
+687|174|49293||80|77||||8.0|Month 12 Visit
+689|91|49297|Not Done (Not Required)||||||6.0|Month 12 Visit
+690|72|49305|Not Done (Not Required)||||||6.0|Month 24 Visit
+691|207|49310|Not Done (Not Required)||||||3.0|Month 12 Visit
+692|85|49321|Not Done (Not Required)||||||5.0|Month 12 Visit
+693|113|49322|Not Done (Not Required)||||||9.0|Month 24 Visit
+694|84|49323|Not Done (Not Required)||||||5.0|Month 24 Visit
+695|25|49327||91|94||||4.0|Month 18 Visit
+696|154|49328||81|82||||4.0|Month 12 Visit
+697|202|49330||88|80||||6.0|Month 12 Visit
+698|58|49333|Not Done (Not Required)||||||4.5|Month 18 Visit
+699|163|49336|Not Done (Not Required)||||||3.0|Month 24 Visit
+700|51|49337|Not Done (Not Required)||||||6.0|Month 24 Visit
+701|89|49339|Not Done (Not Required)||||||4.0|Month 18 Visit
+702|103|49341|Not Done (Not Required)||||||4.0|Month 24 Visit
+703|148|49343|Not Done (Not Required)||||||7.0|Month 18 Visit
+704|159|49344||76|85||||8.0|Month 12 Visit
+705|102|49345|Not Done (Not Required)||||||6.0|Month 24 Visit
+706|80|49353|Not Done (Not Required)||||||6.0|Month 12 Visit
+707|98|49365|Not Done (Not Required)|||||1||Month 12 Visit
+708|71|49381|Not Done (Not Required)||||||5.0|Month 18 Visit
+709|112|49383|Not Done (Not Required)||||||7.0|Month 24 Visit
+710|127|49385|Not Done (Not Required)||||||4.0|Month 12 Visit
+711|155|49387|Not Done (Not Required)||||||5.0|Month 24 Visit
+712|135|49389|Not Done (Not Required)||||||9.0|Month 18 Visit
+713|29|49391|Not Done (Not Required)||||||5.0|Month 12 Visit
+714|12|49392||80|85||||3.0|Month 18 Visit
+715|97|49398||85|84||||6.0|Month 12 Visit
+716|36|49405|Not Done (Not Required)||||||6.0|Month 18 Visit
+717|59|49412||90|91||||7.0|Month 18 Visit
+718|86|49439||90|85||||5.0|Month 12 Visit
+719|53|49446||90|76||||5.0|Month 12 Visit
+720|105|49447|Not Done (Not Required)||||||3.0|Month 24 Visit
+721|122|49448|Not Done (Not Required)||||||8.5|Month 18 Visit
+722|120|49449|Not Done (Not Required)||||||6.0|Month 24 Visit
+723|88|49454|Not Done (Not Required)||||||5.0|Month 18 Visit
+724|196|49459||85|87||||8.0|Month 12 Visit
+725|26|49461||74|70||||4.0|Month 12 Visit
+726|43|49470|Not Done (Not Required)||||||6.0|Month 24 Visit
+727|124|49471||75|70||||8.0|Month 12 Visit
+728|167|49478||74|68||||6.5|Month 24 Visit
+729|14|49481|Not Done (Not Required)||||||8.0|Month 18 Visit
+730|200|49490|Not Done (Not Required)||||||3.5|Month 12 Visit
+731|68|49492|Not Done (Not Required)||||||6.0|Month 18 Visit
+732|28|49494|Not Done (Not Required)||||||6.0|Month 12 Visit
+733|114|49499||87|82||||4.0|Month 18 Visit
+734|81|49504||80|77||||9.0|Month 30 Visit
+736|46|49509|Not Done (Not Required)||||||5.0|Month 18 Visit
+737|183|49513||83|85||||6.0|Month 12 Visit
+738|4|49519||72|76||||4.0|Month 12 Visit
+739|177|49520||83|77||||12.0|Month 12 Visit
+740|52|49523|Not Done (Not Required)||||||6.0|Month 24 Visit
+741|6|49524|Not Done (Not Required)||||||11.0|Month 24 Visit
+742|19|49525|Not Done (Not Required)||||||7.0|Month 24 Visit
+743|8|49526|Not Done (Not Required)||||||6.0|Month 18 Visit
+744|216|49527||73|79||||4.0|Month 30 Visit
+745|152|49532|Not Done (Not Required)||||||9.0|Month 18 Visit
+746|21|49539|Not Done (Not Required)||||||9.0|Month 24 Visit
+747|141|49541|Not Done (Not Required)||||||7.0|Month 12 Visit
+748|132|49543||81|80||||3.0|Month 24 Visit
+749|214|49550|Not Done (Not Required)||||||6.0|Month 24 Visit
+750|147|49552|Not Done (Not Required)||||||3.0|Month 24 Visit
+751|136|49554|Not Done (Not Required)|||||1||Month 18 Visit
+752|225|49555||83|85||||5.0|Month 24 Visit
+753|146|49560|Not Done (Not Required)||||||5.0|Month 24 Visit
+754|123|49562|Not Done (Not Required)||||||5.0|Month 24 Visit
+755|165|49564||85|64||||0.5|Month 18 Visit
+756|125|49569||89|85||||5.0|Month 12 Visit
+757|142|49574|Not Done (Not Required)||||||6.0|Month 24 Visit
+758|94|49575|Not Done (Not Required)|||||1||Month 18 Visit
+759|204|49581|Not Done (Not Required)||||||5.0|Month 18 Visit
+760|10|49582||93|89||||7.0|Month 30 Visit
+761|149|49589|Not Done (Not Required)||||||4.0|Month 18 Visit
+762|100|49593|Not Done (Not Required)||||||10.0|Month 24 Visit
+763|191|49598|Not Done (Not Required)||||||6.0|Month 24 Visit
+764|128|49614|Not Done (Not Required)||||||6.0|Month 18 Visit
+765|15|49630|Not Done (Not Required)||||||5.0|Month 12 Visit
+766|171|49631||84|81||||6.0|Month 30 Visit
+767|158|49640||84|81||||9.0|Month 18 Visit
+768|37|49645||84|84||||6.0|Month 24 Visit
+769|130|49648||83|79||||6.0|Month 18 Visit
+770|11|49651|Not Done (Not Required)||||||6.0|Month 24 Visit
+771|116|49661||89|91||||7.0|Month 30 Visit
+772|178|49662||89|90||||7.0|Month 30 Visit
+773|166|49664|Not Done (Not Required)||||||5.0|Month 24 Visit
+774|90|49666||73|71||||6.0|Month 18 Visit
+775|157|49678||87|90||||3.0|Month 24 Visit
+776|221|49684||87|85||||5.0|Month 30 Visit
+779|210|49687||75|77||||3.0|Month 18 Visit
+780|161|49696|Not Done (Not Required)||||||3.5|Month 24 Visit
+781|219|49697||84|86||||5.0|Month 30 Visit
+782|151|49707|Not Done (Not Required)||||||9.0|Month 18 Visit
+783|224|49714|Not Done (Not Required)||||||9.0|Month 24 Visit
+784|194|49721||78|80||||4.0|Month 30 Visit
+785|156|49727||79|93||||5.0|Month 24 Visit
+786|40|49735|Not Done (Not Required)||||||9.0|Month 18 Visit
+787|164|49738||92|92||||2.0|Month 24 Visit
+788|79|49741||82|86||||6.0|Month 24 Visit
+789|87|49742||82|78||||4.0|Month 24 Visit
+790|193|49745||94|91||||3.5|Month 30 Visit
+791|76|49747||61|70||||4.5|Month 18 Visit
+792|198|49753|Not Done (Not Required)||||||4.0|Month 24 Visit
+793|48|49754||84|92||||5.0|Month 30 Visit
+794|82|49758||89|88||||5.5|Month 30 Visit
+795|101|49759|Not Done (Not Required)||||||3.0|Month 24 Visit
+796|18|49764|Not Done (Not Required)||||||8.5|Month 18 Visit
+797|181|49767|Not Done (Not Required)||||||5.0|Month 24 Visit
+798|215|49777|Not Done (Not Required)||||||6.0|Month 18 Visit
+799|129|49779||88|83||||5.0|Month 24 Visit
+800|179|49794|Not Done (Not Required)||||||3.5|Month 24 Visit
+801|22|49803||84|86||||7.0|Month 30 Visit
+802|109|49804||88|83||||5.0|Month 30 Visit
+803|189|49808|Not Done (Not Required)||||||3.5|Month 18 Visit
+804|44|49818||90|82||||3.0|Month 30 Visit
+805|75|49819|Not Done (Not Required)||||||8.0|Month 24 Visit
+806|9|49820||96|87||||3.0|Month 30 Visit
+807|192|49828|Not Done (Not Required)||||||3.0|Month 18 Visit
+808|186|49830|Not Done (Not Required)||||||10.0|Month 18 Visit
+809|16|49831|Not Done (Not Required)||||||4.5|Month 18 Visit
+810|184|49836||77|82||||3.0|Month 30 Visit
+811|173|49846|Not Done (Not Required)||||||5.0|Month 24 Visit
+812|211|49847|Not Done (Not Required)||||||6.0|Month 24 Visit
+813|34|49853|Not Done (Not Required)||||||8.0|Month 24 Visit
+814|121|49854||91|93||||5.0|Month 30 Visit
+815|30|49855||86|88||||10.0|Month 18 Visit
+816|47|49860|Not Done (Not Required)||||||6.0|Month 24 Visit
+817|35|49865|Not Done (Not Required)||||||5.5|Month 24 Visit
+818|218|49867|Not Done (Not Required)||||||5.0|Month 18 Visit
+819|153|49874|Not Done (Not Required)||||||7.0|Month 24 Visit
+820|190|49880||88|87||||2.0|Month 18 Visit
+821|106|49890|Not Done (Not Required)||||||4.0|Month 24 Visit
+822|107|49892||84|86||||3.0|Month 30 Visit
+823|150|49902|Not Done (Not Required)||||||9.0|Month 18 Visit
+824|77|49919||80|89||||6.0|Month 30 Visit
+825|115|49921|Not Done (Not Required)||||||6.0|Month 24 Visit
+826|99|49926|Not Done (Not Required)||||||5.0|Month 24 Visit
+827|168|49930||83|83||||3.5|Month 30 Visit
+830|176|49940|Not Done (Not Required)||||||4.0|Month 18 Visit
+831|180|49945|Not Done (Not Required)||||||10.0|Month 24 Visit
+832|31|49946|Not Done (Not Required)||||||6.0|Month 18 Visit
+833|133|49948||91|90||||4.0|Month 24 Visit
+834|162|49949||88|78||||6.0|Month 30 Visit
+835|41|49953|Not Done (Not Required)||||||7.0|Month 24 Visit
+836|32|49958||88|83||||4.5|Month 30 Visit
+837|145|49959|Not Done (Not Required)||||||8.0|Month 18 Visit
+838|134|49965|Not Done (Not Required)||||||5.0|Month 18 Visit
+839|119|49968||85|84||||3.0|Month 30 Visit
+840|62|49969|Not Done (Not Required)||||||9.0|Month 24 Visit
+841|64|49974|Not Done (Not Required)||||||3.5|Month 24 Visit
+842|55|49975|Not Done (Not Required)||||||9.0|Month 24 Visit
+843|169|49977|Not Done (Not Required)||||||5.0|Month 24 Visit
+844|3|49978||84|87||||4.0|Month 30 Visit
+845|172|49980||84|83||||4.5|Month 18 Visit
+846|54|49989||72|89||||6.0|Month 30 Visit
+847|83|49990|Not Done (Not Required)||||||8.0|Month 24 Visit
+848|39|49992||90|88||||9.0|Month 30 Visit
+849|175|50000||88|64||||2.0|Month 24 Visit
+850|197|50001||69|72|||1||Month 18 Visit
+851|111|50003|Not Done (Not Required)||||||6.0|Month 24 Visit
+852|73|50004|Not Done (Not Required)||||||9.0|Month 24 Visit
+853|143|50007|Not Done (Not Required)||||||5.0|Month 24 Visit
+854|208|50009|Not Done (Not Required)||||||8.0|Month 24 Visit
+855|38|50011||84|82||||5.0|Month 30 Visit
+856|112|50013||87|83||||8.0|Month 30 Visit
+857|1|50021||72|74||||4.0|Month 30 Visit
+858|74|50022||90|88||||3.0|Month 18 Visit
+859|84|50030||71|78|||1||Month 30 Visit
+860|20|50038|Not Done (Not Required)||||||7.5|Month 18 Visit
+861|131|50042||90|65||||5.0|Month 30 Visit
+862|223|50049|Not Done (Not Required)|||||1||Month 18 Visit
+863|33|50055|Not Done (Not Required)||||||6.0|Month 24 Visit
+864|126|50056|Not Done (Not Required)|||||1||Month 18 Visit
+865|93|50060||84|83||||2.0|Month 30 Visit
+866|212|50072||84|86||||4.0|Month 24 Visit
+867|24|50083|Not Done (Not Required)||||||8.0|Month 24 Visit
+868|91|50097|Not Done (Not Required)||||||5.0|Month 18 Visit
+869|117|50098||91|90||||5.0|Month 30 Visit
+870|105|50099||94|88||||5.0|Month 30 Visit
+871|174|50127||84|78||||9.0|Month 18 Visit
+872|85|50130|Not Done (Not Required)||||||7.0|Month 18 Visit
+873|68|50133|Not Done (Not Required)||||||6.0|Month 24 Visit
+874|120|50134||90|90||||5.0|Month 30 Visit
+875|5|50135|Not Done (Not Required)||||||6.0|Month 24 Visit
+876|163|50141||88|91||||3.0|Month 30 Visit
+877|213|50153|Not Done (Not Required)||||||5.0|Month 24 Visit
+878|202|50157||89|84||||3.0|Month 18 Visit
+879|102|50161||84|79||||4.0|Month 30 Visit
+880|196|50164||87|89||||4.0|Month 18 Visit
+881|98|50165|Not Done (Not Required)|||||1||Month 18 Visit
+882|113|50166||86|79||||10.0|Month 30 Visit
+883|159|50168|Not Done (Not Required)||||||6.0|Month 18 Visit
+884|155|50178||82|78||||3.0|Month 30 Visit
+885|14|50181|Not Done (Not Required)||||||9.0|Month 24 Visit
+886|59|50182||91|91||||4.0|Month 24 Visit
+887|154|50184||76|85||||5.0|Month 18 Visit
+888|96|50186||88|84||||6.0|Month 30 Visit
+889|97|50187||89|86||||4.0|Month 18 Visit
+890|80|50195|Not Done (Not Required)||||||7.0|Month 18 Visit
+891|72|50199||89|86||||7.0|Month 30 Visit
+892|4|50200||84|78||||4.0|Month 18 Visit
+893|52|50201||89|91||||8.0|Month 30 Visit
+894|135|50202|Not Done (Not Required)||||||7.0|Month 24 Visit
+895|12|50204||82|82||||5.0|Month 24 Visit
+896|6|50205||89|90||||12.0|Month 30 Visit
+897|167|50208||77|82||||7.0|Month 30 Visit
+898|127|50209|Not Done (Not Required)|||||1||Month 18 Visit
+899|25|50215|Not Done (Not Required)||||||6.0|Month 24 Visit
+900|165|50216||71|69||||5.0|Month 24 Visit
+901|114|50217||85|82|||1||Month 24 Visit
+902|94|50221|Not Done (Not Required)||||||15.0|Month 24 Visit
+903|58|50226|Not Done (Not Required)||||||4.5|Month 24 Visit
+904|207|50228|Not Done (Not Required)||||||3.5|Month 18 Visit
+905|36|50229|Not Done (Not Required)||||||8.0|Month 24 Visit
+906|148|50234|Not Done (Not Required)||||||3.0|Month 24 Visit
+907|51|50239||88|89||||6.0|Month 30 Visit
+908|123|50240||89|82||||5.0|Month 30 Visit
+909|89|50241|Not Done (Not Required)||||||5.0|Month 24 Visit
+910|205|50244||92|90||||5.0|Month 30 Visit
+911|15|50245|Not Done (Not Required)|||||1||Month 18 Visit
+912|152|50247|Not Done (Not Required)||||||10.0|Month 24 Visit
+913|86|50252||96|95||||6.0|Month 18 Visit
+914|46|50254|Not Done (Not Required)||||||4.5|Month 24 Visit
+915|149|50261|Not Done (Not Required)||||||3.5|Month 24 Visit
+916|122|50273|Not Done (Not Required)||||||8.5|Month 24 Visit
+917|21|50277||84|86||||7.0|Month 30 Visit
+918|29|50302|Not Done (Not Required)|||||1||Month 18 Visit
+919|103|50303||90|70||||3.5|Month 30 Visit
+920|71|50307|Not Done (Not Required)||||||3.0|Month 24 Visit
+921|146|50308||89|89||||5.0|Month 30 Visit
+922|28|50309|Not Done (Not Required)||||||6.0|Month 18 Visit
+923|125|50313||87|84||||5.0|Month 18 Visit
+924|124|50316||89|86||||8.0|Month 18 Visit
+925|158|50319||91|93||||8.0|Month 24 Visit
+926|183|50321||87|84||||6.5|Month 18 Visit
+927|27|50328||90|90||||12.0|Month 30 Visit
+928|53|50329|Not Done (Not Required)||||||4.0|Month 18 Visit
+929|200|50335||90|90||||1.0|Month 18 Visit
+930|225|50341||72|74||||4.0|Month 30 Visit
+931|142|50343||89|92||||6.0|Month 30 Visit
+932|141|50345|Not Done (Not Required)||||||4.0|Month 18 Visit
+933|88|50355|Not Done (Not Required)||||||6.5|Month 24 Visit
+934|132|50356||80|83||||4.0|Month 30 Visit
+935|161|50361||83|83||||3.5|Month 30 Visit
+936|100|50366||88|90||||17.0|Month 30 Visit
+937|177|50369||84|84||||4.0|Month 18 Visit
+938|90|50371||79|80||||6.0|Month 24 Visit
+939|151|50384|Not Done (Not Required)||||||5.0|Month 24 Visit
+940|191|50394||95|94||||6.0|Month 30 Visit
+941|8|50405|Not Done (Not Required)||||||8.0|Month 24 Visit
+942|214|50410||82|79||||8.0|Month 30 Visit
+943|156|50416||79|92||||4.0|Month 30 Visit
+944|204|50417|Not Done (Not Required)||||||10.0|Month 24 Visit
+945|130|50425||89|86||||5.5|Month 24 Visit
+946|26|50435||85|85||||5.0|Month 18 Visit
+947|43|50438||86|85||||5.0|Month 30 Visit
+948|40|50439|Not Done (Not Required)||||||10.0|Month 24 Visit
+949|76|50444||88|91||||4.0|Month 24 Visit
+950|136|50448|Not Done (Not Required)||||||10.0|Month 24 Visit
+951|181|50450||88|84||||5.0|Month 30 Visit
+952|37|50457||85|84||||7.0|Month 30 Visit
+953|164|50460||88|83||||4.0|Month 30 Visit
+954|11|50463||100|100||||5.0|Month 30 Visit
+955|166|50467||84|86||||6.0|Month 30 Visit
+956|128|50471|Not Done (Not Required)||||||8.5|Month 24 Visit
+957|210|50473|Not Done (Not Required)||||||6.5|Month 24 Visit
+958|224|50489||89|84||||10.0|Month 30 Visit
+959|30|50500||87|87||||8.0|Month 24 Visit
+960|215|50501|Not Done (Not Required)||||||8.0|Month 24 Visit
+961|87|50511||85|84||||4.0|Month 30 Visit
+962|153|50516||91|89||||4.0|Month 30 Visit
+963|186|50518|Not Done (Not Required)||||||10.0|Month 24 Visit
+964|101|50519||85|89||||4.0|Month 30 Visit
+965|211|50530||80|85||||5.0|Month 30 Visit
+966|19|50535||70|77||||7.0|Month 30 Visit
+967|198|50538||89|84||||6.0|Month 30 Visit
+968|18|50543|Not Done (Not Required)||||||6.0|Month 24 Visit
+969|35|50546||83|75||||3.0|Month 30 Visit
+970|75|50551||91|80||||10.0|Month 30 Visit
+971|157|50558||87|82||||3.0|Month 30 Visit
+972|147|50563||84|90||||3.5|Month 30 Visit
+973|173|50564||88|90||||5.0|Month 30 Visit
+974|16|50578|Not Done (Not Required)||||||4.0|Month 24 Visit
+975|47|50593||90|90||||6.0|Month 30 Visit
+976|150|50614|Not Done (Not Required)||||||11.0|Month 24 Visit
+977|129|50627||85|90||||3.0|Month 30 Visit
+978|192|50646|Not Done (Not Required)||||||6.0|Month 24 Visit
+979|79|50651||92|90||||13.0|Month 30 Visit
+980|218|50662||73|77||||12.0|Month 24 Visit
+981|55|50668||80|88||||6.0|Month 30 Visit
+982|190|50672||85|85||||6.0|Month 24 Visit
+983|41|50673||87|87||||7.0|Month 30 Visit
+984|172|50677||87|81||||6.0|Month 24 Visit
+985|179|50683||78|81||||3.0|Month 30 Visit
+986|143|50685||89|86||||7.0|Month 30 Visit
+987|62|50692||90|88||||9.0|Month 30 Visit
+988|34|50707||85|89||||8.0|Month 30 Visit
+989|197|50715||67|71||||9.0|Month 24 Visit
+990|134|50720|Not Done (Not Required)||||||6.5|Month 24 Visit
+991|99|50722||84|84||||3.0|Month 30 Visit
+992|73|50725||90|92||||8.0|Month 30 Visit
+993|133|50731||91|94||||4.0|Month 30 Visit
+994|213|50733||89|89||||5.0|Month 30 Visit
+995|115|50741||72|68||||4.0|Month 30 Visit
+996|208|50754||88|86||||8.0|Month 30 Visit
+997|189|50768|Not Done (Not Required)||||||4.0|Month 24 Visit
+998|74|50776||90|89||||4.0|Month 24 Visit
+999|64|50778||87|87||||3.0|Month 30 Visit
+1000|180|50787||93|91||||11.0|Month 30 Visit
+1001|20|50796|Not Done (Not Required)||||||5.0|Month 24 Visit
+1002|80|50800|Not Done (Not Required)||||||7.0|Month 24 Visit
+1003|33|50803||93|98||||5.0|Month 30 Visit
+1004|24|50804||80|82||||8.0|Month 30 Visit
+1005|106|50805||81|81||||5.0|Month 30 Visit
+1006|25|50809||89|93||||3.5|Month 30 Visit
+1007|169|50815||88|85||||7.0|Month 30 Visit
+1008|58|50817||86|86||||4.0|Month 30 Visit
+1009|212|50825||84|85||||4.0|Month 30 Visit
+1010|176|50835|Not Done (Not Required)||||||3.0|Month 24 Visit
+1011|202|50841||83|80||||3.0|Month 24 Visit
+1012|97|50843||91|86||||1.0|Month 24 Visit
+1013|59|50844||76|93||||3.5|Month 30 Visit
+1014|154|50850||79|83||||5.0|Month 24 Visit
+1015|5|50864||86|88||||6.0|Month 30 Visit
+1016|89|50865||85|85||||6.0|Month 30 Visit
+1017|111|50881||82|88||||5.0|Month 30 Visit
+1018|85|50886|Not Done (Not Required)||||||7.0|Month 24 Visit
+1019|91|50897|Not Done (Not Required)||||||6.0|Month 24 Visit
+1020|207|50912|Not Done (Not Required)||||||4.0|Month 24 Visit
+1021|175|50916||82|75||||3.0|Month 30 Visit
+1022|14|50923||84|86||||9.0|Month 30 Visit
+1023|31|50925|Not Done (Not Required)||||||6.0|Month 24 Visit
+1024|127|50935|Not Done (Not Required)||||||6.0|Month 24 Visit
+1025|165|50943||82|89||||4.0|Month 30 Visit
+1026|114|50944||76|76||||2.5|Month 30 Visit
+1027|53|50945||88|82||||5.0|Month 24 Visit
+1028|71|50946||85|86||||3.0|Month 30 Visit
+1029|196|50947||79|86||||7.0|Month 24 Visit
+1030|86|50950||90|92||||6.0|Month 24 Visit
+1031|159|50952|Not Done (Not Required)||||||11.0|Month 24 Visit
+1032|174|50982||82|83||||6.0|Month 24 Visit
+1033|12|50987||86|85||||5.0|Month 30 Visit
+1034|46|50994||83|79||||3.0|Month 30 Visit
+1035|135|50997||95|98||||7.0|Month 30 Visit
+1036|152|51002||87|80||||9.0|Month 30 Visit
+1037|126|51006|Not Done (Not Required)||||||8.0|Month 24 Visit
+1038|122|51011||61|25||||8.5|Month 30 Visit
+1039|36|51012||89|90||||8.0|Month 30 Visit
+1040|15|51013||85|83||||5.0|Month 24 Visit
+1041|148|51017||80|85||||7.0|Month 30 Visit
+1042|149|51018||91|80||||2.0|Month 30 Visit
+1043|94|51019||78|85||||10.0|Month 30 Visit
+1044|83|51021||81|88||||5.0|Month 30 Visit
+1045|183|51024||86|85||||5.0|Month 24 Visit
+1046|4|51037||83|84||||6.0|Month 24 Visit
+1047|68|51041||90|89||||5.0|Month 30 Visit
+1048|28|51042|Not Done (Not Required)||||||6.0|Month 24 Visit
+1049|98|51043||80|87||||5.5|Month 24 Visit
+1050|200|51051|Not Done (Not Required)||||||2.5|Month 24 Visit
+1051|88|51073||89|89||||3.5|Month 30 Visit
+1052|204|51082||87|72||||6.0|Month 30 Visit
+1053|151|51098||77|82||||5.0|Month 30 Visit
+1054|136|51100||90|85||||9.0|Month 30 Visit
+1055|177|51110||74|73||||5.0|Month 24 Visit
+1056|124|51113||87|86||||8.0|Month 24 Visit
+1057|26|51135||84|87||||5.0|Month 24 Visit
+1058|158|51143||91|82||||7.0|Month 30 Visit
+1059|125|51160||84|84||||3.0|Month 24 Visit
+1060|128|51182||87|88||||6.5|Month 30 Visit
+1061|76|51183||83|83||||3.0|Month 30 Visit
+1062|8|51190||83|90||||6.0|Month 30 Visit
+1063|40|51205||92|94||||8.0|Month 30 Visit
+1064|90|51226||83|89||||7.0|Month 30 Visit
+1065|130|51230||87|85||||6.0|Month 30 Visit
+1066|210|51240||85|86||||3.5|Month 30 Visit
+1067|141|51246|Not Done (Not Required)||||||8.0|Month 24 Visit
+1068|186|51255||83|78||||16.0|Month 30 Visit
+1069|30|51337||87|87||||6.0|Month 30 Visit
+1070|192|51358||85|83||||3.0|Month 30 Visit
+1071|215|51372||87|84||||5.0|Month 30 Visit
+1072|18|51410||93|78||||5.0|Month 30 Visit
+1073|218|51411||89|85||||7.5|Month 30 Visit
+1074|176|51423||76|85||||4.0|Month 30 Visit
+1075|16|51425||89|84||||8.5|Month 30 Visit
+1076|150|51440||80|67||||10.0|Month 30 Visit
+1077|189|51442||87|83||||4.0|Month 30 Visit
+1078|190|51449||90|84||||2.0|Month 30 Visit
+1079|74|51472||90|95||||3.0|Month 30 Visit
+1080|197|51475||61|68||||3.5|Month 30 Visit
+1081|172|51478||87|85||||5.0|Month 30 Visit
+1082|20|51566||85|86||||8.0|Month 30 Visit
+1083|134|51581||87|90||||5.5|Month 30 Visit
+1084|126|51667||87|89||||9.0|Month 30 Visit
+1085|202|51669||83|84||||4.0|Month 30 Visit
+1086|97|51670||90|90||||3.0|Month 30 Visit
+1087|154|51696||82|86||||5.5|Month 30 Visit
+1088|85|51722||80|84||||8.5|Month 30 Visit
+1089|80|51733||89|89||||9.0|Month 30 Visit
+1090|127|51734||90|91||||7.0|Month 30 Visit
+1091|53|51748||81|78||||4.0|Month 30 Visit
+1092|15|51751||82|85||||3.0|Month 30 Visit
+1093|86|51761||95|94||||6.0|Month 30 Visit
+1094|125|51781||86|85||||6.0|Month 30 Visit
+1095|4|51805||82|75||||4.0|Month 30 Visit
+1096|124|51810||88|88||||8.0|Month 30 Visit
+1097|174|51811||86|84||||6.5|Month 30 Visit
+1098|200|51815||87|88||||3.0|Month 30 Visit
+1099|31|51819||85|85||||5.0|Month 30 Visit
+1100|159|51820||89|91||||8.5|Month 30 Visit
+1101|91|51822||91|95||||5.0|Month 30 Visit
+1102|98|51826||80|92||||3.5|Month 30 Visit
+1103|207|51832||89|88||||3.5|Month 30 Visit
+1104|26|51843||80|87||||6.0|Month 30 Visit
+1105|141|51844||84|75||||5.0|Month 30 Visit
+1106|28|51899||84|85||||5.0|Month 30 Visit
+1107|183|51916||86|84||||6.5|Month 30 Visit
+1108|177|51982||83|79||||3.0|Month 30 Visit

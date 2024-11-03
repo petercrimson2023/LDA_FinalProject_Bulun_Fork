@@ -1,0 +1,188 @@
+RecID|PtID|ParentLoginVisitID|ParentLoginID|Sex|Ethnicity|Race|RaceDs|EyeColor|MotherMyop|FatherMyop|EligCriteria|CurrSpecs|CurrContacts|RefCorrMeetCrit|MenarcheStatus|PregnancyStatus|CurrWearRefCorr|RefCorrCompl|MedRecsPriorEnr|ENoAll|ENoAbn|ENoAtr|ENoAPrior|ENoLenses|ENoAmb|ENoNys|ENoStrab|ENoSurg
+1|110|42558|171238|F|Not Hispanic or Latino|West Asian/Indian||Brown|Yes|No|1|No|No|Yes|Pre-menarche
+2|216|42615|171466|F|Not Hispanic or Latino|White||Brown|Yes|Yes|1|Yes|Yes|Yes|Pre-menarche
+3|171|42679|171661|F|Not Hispanic or Latino|White||Not brown|No|No|1|Yes|Yes|Yes|Pre-menarche
+4|178|42762|172069|F|Not Hispanic or Latino|White||Brown|Yes|No|1|Yes|No|No|Pre-menarche
+5|116|42763|172073|F|Not Hispanic or Latino|White||Not brown|Yes|No|1|Yes|No|Yes|Pre-menarche
+6|81|43569|175487|M|Not Hispanic or Latino|White||Brown|Yes|No|1|||Yes|Male||Yes|Yes
+7|10|43626|175702|M|Not Hispanic or Latino|White||Not brown|Yes|No|1|||Yes|Male||Yes|Yes
+8|184|43695|175972|F|Not Hispanic or Latino|Black/African American||Brown|Yes|Unknown|1|||Yes|Pre-menarche||Yes|Yes
+9|82|43696|175976|F|Not Hispanic or Latino|White||Brown|Unknown|Unknown|1|||Yes|Pre-menarche||Yes|Yes
+10|221|43721|176091|M|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes
+11|168|43725|176099|M|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes
+12|194|43726|176103|M|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes
+13|9|43794|176372|F|Not Hispanic or Latino|White||Brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes
+14|22|43798|176387|M|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes
+15|107|43839|176556|F|Not Hispanic or Latino|Black/African American||Brown|Yes|No|1|||Yes|Post-menarche|Negative|Yes|Yes
+16|219|43868|176674|M|Not Hispanic or Latino|More than one race|Japanese/White|Brown|Yes|Yes|1|||Yes|Male||Yes|Yes
+17|3|43873|176696|M|Not Hispanic or Latino|Black/African American||Brown|Yes|No|1|||Yes|Male||Yes|Yes
+18|48|43881|176735|M|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes
+19|162|43923|176884|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes
+20|109|43944|177016|M|Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Male||Yes|Yes
+21|193|43973|177147|F|Not Hispanic or Latino|White||Not brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes
+22|38|43996|177241|F|Not Hispanic or Latino|Black/African American||Brown|No|Yes|1|||Yes|Post-menarche|Negative|Yes|Yes
+23|63|44003|177275|M|Hispanic or Latino|More than one race|Patient reports that racial designation is Hispanic/latino|Brown|No|No|1|||Yes|Male||Yes|Yes
+24|117|44009|177304|F|Not Hispanic or Latino|East Asian||Brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes
+25|54|44072|177584|F|Not Hispanic or Latino|White||Not brown|No|Unknown|1|||Yes|Pre-menarche||Yes|Yes
+26|39|44074|177597|F|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes
+27|137|44116|177791|M|Not Hispanic or Latino|White||Not brown|Yes|No|1|||No|Male||Yes|Yes
+28|119|44205|178133|F|Not Hispanic or Latino|More than one race|African American & white|Brown|Yes|No|1|||Yes|Post-menarche|Negative|Yes|Yes
+29|32|44213|178163|M|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||No|Male||Yes|Yes
+30|44|44220|178189|F|Not Hispanic or Latino|Black/African American||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes
+31|77|44228|178208|M|Not Hispanic or Latino|Black/African American||Brown|Yes|No|1|||Yes|Male||Yes|Yes
+33|121|44335|178667|F|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes
+34|1|44349|178738|F|Not Hispanic or Latino|More than one race|Black & White|Brown|Yes|No|1|||Yes|Pre-menarche||Yes|Yes
+35|163|44378|178886|M|Not Hispanic or Latino|More than one race|Chinese, Spanish, Southeast Asia|Brown|No|Yes|1|||Yes|Male||Yes|Yes
+36|84|44406|179003|F|Not Hispanic or Latino|White||Not brown|No|No|1|||Yes|Pre-menarche||Yes|Yes
+38|112|44498|179417|M|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||No|Male||Yes|Yes
+39|93|44618|179942|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes
+40|131|44642|180058|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes
+41|132|44690|180272|F|Not Hispanic or Latino|Black/African American||Brown|No|No|1|||No|Post-menarche|Negative|Yes|Yes
+42|205|44691|180276|F|Not Hispanic or Latino|White||Not brown|No|No|1|||Yes|Post-menarche|Negative|Yes|Yes
+44|167|44736|180453|M|Not Hispanic or Latino|Black/African American||Brown|Yes|No|1|||No|Male||Yes|Yes
+45|105|44737|180457|M|Not Hispanic or Latino|White||Not brown|Yes|No|1|||Yes|Male||Yes|Yes
+46|96|44743|180477|F|Hispanic or Latino|White||Brown|Yes|No|1|||No|Post-menarche|Negative|Yes|Yes
+48|113|44755|180555|M|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Male||Yes|Yes
+49|155|44771|180610|M|Not Hispanic or Latino|White||Brown|Yes|No|1|||Yes|Male||Yes|Yes
+50|27|44819|180823|M|Hispanic or Latino|White||Brown|No|No|1|||Yes|Male||Yes|Yes
+51|72|44832|180881|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes
+52|52|44833|180886|F|Not Hispanic or Latino|White||Brown|No|No|1|||Yes|Pre-menarche||Yes|Yes
+53|120|44842|180930|M|Not Hispanic or Latino|White||Not brown|Yes|Unknown|1|||Yes|Male||Yes|Yes
+54|21|44854|181008|F|Hispanic or Latino|White||Brown|No|Yes|1|||No|Pre-menarche||Yes|Yes
+55|103|44872|181117|F|Not Hispanic or Latino|Black/African American||Brown|Yes|Unknown|1|||Yes|Post-menarche|Negative|Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+56|225|44885|181176|F|Not Hispanic or Latino|Black/African American||Brown|Yes|No|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+57|51|44897|181234|M|Not Hispanic or Latino|White||Not brown|No|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|without|with|without|without|with|with|with|with|with
+59|6|44927|181388|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+60|102|44933|181411|M|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+61|191|45081|181949|F|Not Hispanic or Latino|White||Brown|No|No|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|without|with|without|without|without|without|without|with|without
+62|123|45094|182003|M|Not Hispanic or Latino|White||Not brown|No|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|without|with|without|with|with|with|with|with|with
+63|37|45116|182071|F|Hispanic or Latino|White||Brown|Yes|No|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+64|142|45127|182104|F|Hispanic or Latino|White||Brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|without|with|with|without|without|with|with|with|without
+65|161|45134|182142|F|Hispanic or Latino|White||Brown|Yes|No|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+66|43|45158|182226|F|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+67|146|45205|182435|M|Hispanic or Latino|More than one race|east asian,white|Brown|No|Yes|1|||Yes|Male||Yes|Yes|No medical records|without|without|without|without|without|without|without|without|without
+68|19|45214|182464|M|Not Hispanic or Latino|West Asian/Indian||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+69|157|45264|182691|F|Not Hispanic or Latino|East Asian||Brown|No|Yes|1|||No|Post-menarche|Negative|Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+70|153|45276|182753|M|Hispanic or Latino|White||Brown|No|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+71|87|45290|182820|M|Not Hispanic or Latino|Black/African American||Brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+72|138|45314|182934|F|Not Hispanic or Latino|Black/African American||Brown|No|No|1|||Yes|Post-menarche|Negative|Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+73|35|45317|182945|M|Not Hispanic or Latino|Black/African American||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+74|147|45324|182981|F|Not Hispanic or Latino|Black/African American||Brown|Yes|No|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+75|214|45357|183115|F|Not Hispanic or Latino|White||Not brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+76|100|45358|183119|F|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+77|164|45366|183141|F|Not Hispanic or Latino|Black/African American||Brown|Yes|Yes|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+78|129|45367|183145|M|Not Hispanic or Latino|Black/African American||Brown|No|Unknown|1|||No|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+79|79|45400|183286|M|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||No|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+80|166|45438|183431|M|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+81|156|45443|183462|M|Not Hispanic or Latino|White||Not brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+82|11|45476|183589|F|Not Hispanic or Latino|White||Not brown|Yes|No|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+83|34|45479|183596|F|Not Hispanic or Latino|White||Brown|No|No|1|||Yes|Post-menarche|Negative|Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+84|47|45494|183663|F|Not Hispanic or Latino|White||Not brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|without|without|without|without|without|without|without|without|without
+85|224|45508|183730|M|Not Hispanic or Latino|White||Brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+86|133|45540|183870|F|Not Hispanic or Latino|More than one race|White and Black/African American|Brown|Yes|No|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+88|181|45558|183967|F|Hispanic or Latino|White||Brown|No|No|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+89|173|45628|184306|F|Not Hispanic or Latino|More than one race|White East Asian American Indian|Brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|No medical records|without|without|without|without|without|without|without|without|without
+90|211|45630|184319|M|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes|No medical records|without|without|without|without|without|without|without|without|without
+91|75|45634|184347|F|Not Hispanic or Latino|White||Not brown|No|Unknown|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+92|62|45680|184549|F|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+93|101|45698|184616|M|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Male||Yes|Yes|No medical records|without|without|without|without|without|without|without|without|without
+94|73|45724|184722|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+95|179|45725|184726|F|Not Hispanic or Latino|East Asian||Not brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|without|without|without|without|with|with|with
+96|41|45729|184741|F|Not Hispanic or Latino|Black/African American||Brown|Yes|No|1|||Yes|Post-menarche|Negative|Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+97|198|45736|184781|M|Not Hispanic or Latino|Black/African American||Brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|without|with|without|without|without|with|without|with|without
+98|143|45751|184846|M|Not Hispanic or Latino|Black/African American||Brown|No|Yes|1|||No|Male||Yes|Yes|Yes medical records|with|with|without|without|without|with|with|with|with
+99|55|45793|185024|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+100|83|45798|185042|M|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Male||Yes|Yes|No medical records|without|without|without|without|without|without|without|without|without
+102|115|45833|185201|M|Hispanic or Latino|White||Brown|No|No|1|||No|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+103|212|45848|185266|F|Not Hispanic or Latino|East Asian||Brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+105|106|45868|185367|M|Not Hispanic or Latino|Black/African American||Brown|Yes|Yes|1|||No|Male||Yes|Yes|Yes medical records|without|without|without|without|without|with|without|with|without
+106|169|45902|185510|F|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||Yes|Post-menarche|Negative|Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+107|180|45904|185522|M|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+108|33|45924|185589|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+109|24|45933|185640|M|Not Hispanic or Latino|Black/African American||Brown|No|No|1|||No|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+110|213|45934|185644|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+111|64|46017|186038|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|without|without|without|with|without|with|with
+112|99|46021|186054|M|Not Hispanic or Latino|White||Not brown|No|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+113|208|46031|186098|F|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+114|175|46059|186260|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||No|Pre-menarche||Yes|Yes|Yes medical records|without|with|without|without|without|with|with|with|with
+115|25|46120|186559|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|without|with|without|without|without|with|without|with|without
+116|111|46152|186743|F|Hispanic or Latino|White||Brown|No|No|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+117|5|46153|186747|M|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+118|58|46156|186775|F|Hispanic or Latino|White||Brown|No|No|1|||Yes|Post-menarche|Negative|Yes|Yes|Yes medical records|without|with|without|without|without|with|without|with|without
+119|57|46157|186779|F|Hispanic or Latino|White||Brown|Unknown|Unknown|1|||Yes|Post-menarche|Negative|Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+120|148|46188|186912|F|Not Hispanic or Latino|East Asian||Brown|Unknown|Unknown|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+121|12|46221|187090|M|Hispanic or Latino|White||Brown|No|No|1|||No|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+122|89|46253|187240|F|Not Hispanic or Latino|White||Not brown|Unknown|Unknown|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|without|without|without|without|without|without|without|without|without
+123|71|46264|187309|F|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|without|with|without|without|without|with|without|with|without
+124|118|46296|187428|M|Not Hispanic or Latino|Black/African American||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+125|59|46302|187453|F|Not Hispanic or Latino|More than one race|white & East Asian|Not brown|Yes|Yes|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+126|88|46321|187565|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+127|122|46334|187643|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+128|135|46336|187648|M|Hispanic or Latino|Unknown/not reported||Brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|without|without|without|with|with|with|with
+129|14|46343|187701|M|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+130|46|46384|187872|M|Not Hispanic or Latino|White||Not brown|No|Yes|1|||No|Male||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+131|94|46390|187906|F|Not Hispanic or Latino|More than one race|Ancestry part middle eastern and Chinese|Brown|Yes|No|1|||No|Pre-menarche||Yes|Yes|No medical records|without|without|without|without|without|without|without|without|without
+132|36|46391|187910|M|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||No|Male||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+133|68|46451|188216|M|Not Hispanic or Latino|White||Brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|without|without|without|without|without|without|without|without|without
+135|136|46498|188472|F|Hispanic or Latino|White||Brown|No|No|1|||No|Post-menarche|Negative|Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+136|165|46499|188480|M|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+137|152|46500|188484|F|Not Hispanic or Latino|White||Not brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+138|114|46508|188521|F|Not Hispanic or Latino|Black/African American||Brown|No|No|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|without|without|without|without|without|without|without|without
+139|149|46580|188868|M|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||No|Male||Yes|Yes|Yes medical records|without|with|without|without|without|with|without|with|without
+140|204|46581|188872|M|Hispanic or Latino|White||Brown|No|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+141|8|46590|188916|F|Hispanic or Latino|White||Brown|Yes|Unknown|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+142|151|46674|189227|M|Not Hispanic or Latino|West Asian/Indian||Brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+143|128|46692|189322|M|Not Hispanic or Latino|White||Not brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|without|without|without|without|with|with|with
+144|158|46723|189422|F|Not Hispanic or Latino|West Asian/Indian||Brown|No|No|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+145|130|46726|189440|F|Not Hispanic or Latino|Black/African American||Brown|No|No|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+146|23|46740|189499|M|Not Hispanic or Latino|Black/African American||Brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+147|210|46764|189614|F|Not Hispanic or Latino|Black/African American||Brown|Unknown|Unknown|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|without|without|without|without|with|with
+148|76|46765|189618|M|Not Hispanic or Latino|Black/African American||Brown|No|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+149|90|46766|189626|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+150|215|46855|190049|M|Hispanic or Latino|White||Brown|No|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+151|18|46902|190279|M|Hispanic or Latino|White||Brown|No|Yes|1|||No|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+152|40|46907|190302|M|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+153|30|46940|190447|M|Not Hispanic or Latino|White||Not brown|No|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+154|190|46977|190615|M|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+155|189|46990|190671|F|Not Hispanic or Latino|West Asian/Indian||Brown|Yes|Yes|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+156|150|47015|190886|F|Not Hispanic or Latino|White||Not brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+157|192|47046|191038|M|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||No|Male||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+158|186|47050|191050|F|Not Hispanic or Latino|White||Not brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+160|31|47067|191129|F|Not Hispanic or Latino|White||Not brown|Yes|No|1|||Yes|Pre-menarche||Yes|Yes|No medical records|without|without|without|without|without|without|without|without|without
+162|172|47073|191170|M|Hispanic or Latino|More than one race|White and American Indian|Brown|No|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+163|16|47090|191226|F|Not Hispanic or Latino|Black/African American||Brown|No|Yes|1|||Yes|Post-menarche|Negative|Yes|Yes|Yes medical records|without|with|without|without|without|with|without|with|without
+164|218|47096|191245|F|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+165|126|47168|191582|F|Not Hispanic or Latino|Black/African American||Brown|Yes|No|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+166|145|47178|191639|M|Hispanic or Latino|White||Brown|No|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+167|176|47219|191889|M|Not Hispanic or Latino|White||Brown|No|Yes|1|||No|Male||Yes|Yes|Yes medical records|without|with|without|without|without|with|without|with|without
+168|134|47247|192029|M|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+169|20|47312|192331|M|Not Hispanic or Latino|White||Brown|Yes|No|1|||No|Male||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+170|91|47346|192515|M|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||No|Male||Yes|Yes|Yes medical records|with|without|without|without|without|without|without|without|without
+171|197|47364|192604|F|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+172|74|47370|192628|F|Not Hispanic or Latino|More than one race|African, white|Brown|Yes|No|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+173|207|47449|193058|M|Hispanic or Latino|White||Not brown|Yes|No|1|||No|Male||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+174|85|47507|193280|M|Not Hispanic or Latino|White||Brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+176|154|47509|193288|M|Not Hispanic or Latino|West Asian/Indian||Brown|Yes|Yes|1|||No|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+177|174|47562|193525|F|Not Hispanic or Latino|Black/African American||Brown|No|No|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+178|80|47601|193717|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+179|185|47604|193725|F|Not Hispanic or Latino|Black/African American||Brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+180|159|47628|193789|M|Not Hispanic or Latino|White||Not brown|No|Yes|1|||No|Male||Yes|Yes|Yes medical records|with|with|without|without|without|without|without|with|with
+181|86|47629|193793|M|Not Hispanic or Latino|White||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes|No medical records|without|without|without|without|without|without|without|without|without
+182|15|47630|193797|M|Not Hispanic or Latino|More than one race|African American, White|Brown|Yes|Yes|1|||No|Male||Yes|Yes|Yes medical records|with|with|with|without|without|with|with|with|with
+183|97|47631|193801|M|Not Hispanic or Latino|White||Not brown|No|Yes|1|||No|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+184|202|47633|193809|F|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+185|98|47650|193876|M|Not Hispanic or Latino|White||Not brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|without|without|without|without|without|with|without|with|without
+186|127|47655|193902|M|Not Hispanic or Latino|White||Brown|Yes|No|1|||No|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+187|29|47664|193947|F|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+188|196|47685|194062|M|Not Hispanic or Latino|East Asian||Brown|Yes|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+189|4|47719|194243|M|Not Hispanic or Latino|Black/African American||Brown|No|Yes|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+190|200|47759|194425|F|Hispanic or Latino|White||Brown|No|No|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|without|without|without|without|without|with|without|with|without
+191|223|47768|194480|M|Hispanic or Latino|White||Not brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+192|26|47773|194509|F|Not Hispanic or Latino|Black/African American||Brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+193|53|47774|194513|M|Not Hispanic or Latino|White||Not brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|without|without|without|without|without|with|without|with|without
+194|183|47775|194520|F|Not Hispanic or Latino|More than one race|Black, Puerto Rican, Cherokee Indian|Brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+195|177|47837|194788|F|Not Hispanic or Latino|White||Not brown|Yes|No|1|||No|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+196|125|47848|194858|F|Hispanic or Latino|White||Not brown|No|Yes|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+197|141|47851|194876|M|Hispanic or Latino|White||Brown|Yes|No|1|||Yes|Male||Yes|Yes|Yes medical records|without|without|without|without|without|with|without|with|without
+199|124|47866|194936|F|Not Hispanic or Latino|Black/African American||Brown|Yes|No|1|||Yes|Pre-menarche||Yes|Yes|Yes medical records|with|with|with|with|with|with|with|with|with
+200|28|47885|195039|F|Hispanic or Latino|White||Brown|No|Unknown|1|||Yes|Pre-menarche||Yes|Yes|No medical records|without|without|without|without|without|without|without|without|without

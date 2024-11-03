@@ -1,0 +1,891 @@
+RecID|PtID|ParentLoginVisitID|ParentLoginID|Visit|MTS1CorrRx|SpecsMetCrit|ContMed|ContMedDs|MTSTreatRx|MTSTreatRxDs|ContMed_YN_NA|StopMed|StopMedDs
+1|171|45190|182351|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+2|81|45416|183344|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+3|10|45464|183544|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+4|216|45527|183822|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+5|116|45565|183997|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+6|178|45566|184004|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+7|184|45588|184115|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+8|168|45589|184122|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+9|194|45603|184190|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+10|107|45604|184201|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+11|221|45609|184231|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+12|219|45631|184332|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+13|82|45632|184343|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+14|22|45638|184372|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+15|109|45677|184535|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+16|3|45722|184717|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+17|48|45764|184903|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+18|9|45826|185162|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+19|193|45830|185184|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+20|38|45832|185199|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+21|63|45865|185350|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+22|162|45925|185598|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+23|54|45931|185632|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+24|39|45936|185660|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+25|117|45989|185873|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+26|137|45999|185952|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+27|119|46004|185974|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+28|32|46033|186115|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+29|121|46057|186238|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+30|44|46073|186343|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+31|77|46117|186548|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+32|163|46139|186675|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+33|84|46155|186767|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+34|1|46164|186806|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+35|96|46306|187496|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+36|112|46318|187557|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+37|105|46323|187581|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+38|93|46374|187830|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+39|205|46375|187838|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+40|131|46380|187856|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+41|113|46385|187881|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+42|27|46404|187966|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+43|21|46408|187985|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+44|155|46435|188129|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+45|72|46436|188136|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+46|120|46456|188244|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+47|102|46477|188342|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+48|52|46479|188357|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+49|103|46526|188608|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+50|6|46543|188695|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+51|51|46552|188740|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+52|191|46554|188756|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+53|142|46608|188965|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+54|225|46660|189174|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+55|123|46708|189392|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+56|37|46721|189418|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+57|171|46734|189476|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+58|181|46739|189497|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+59|11|46747|189549|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+60|81|46749|189563|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+61|147|46777|189687|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+62|161|46778|189694|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+63|153|46802|189804|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+64|216|46808|189825|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+65|10|46810|189834|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+66|146|46817|189868|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+67|214|46822|189893|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+68|138|46847|189983|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+69|221|46853|190042|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+70|19|46873|190138|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+71|43|46885|190197|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+72|100|46887|190210|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+73|157|46914|190334|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+74|82|46929|190404|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+75|87|46955|190504|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+76|129|46961|190537|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+79|156|46971|190582|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+80|166|46973|190593|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+81|164|46975|190606|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+82|107|46976|190613|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+83|116|46988|190662|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+84|178|46989|190669|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+85|184|46991|190680|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+86|47|47026|190947|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+87|34|47027|190954|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+88|35|47054|191075|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+89|162|47060|191100|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+90|173|47063|191111|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+91|22|47064|191118|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+92|211|47066|191127|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+93|219|47068|191147|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+94|224|47086|191216|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+95|168|47101|191279|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+96|79|47102|191288|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+97|194|47108|191314|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+98|48|47115|191353|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+99|62|47118|191368|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+100|109|47122|191392|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+101|179|47146|191477|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+102|133|47166|191570|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+103|63|47169|191591|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+104|193|47177|191635|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+105|38|47179|191650|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+106|101|47196|191749|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+107|143|47206|191816|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+108|73|47207|191823|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+109|198|47216|191874|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+110|75|47220|191898|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+111|115|47233|191946|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+112|3|47235|191964|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+113|9|47255|192074|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+114|32|47300|192258|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+115|54|47303|192278|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+116|119|47304|192285|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+117|24|47306|192300|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+118|39|47308|192310|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+119|83|47311|192329|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+120|44|47324|192385|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+121|137|47328|192411|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+122|117|47335|192448|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+123|77|47337|192463|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+124|180|47355|192564|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+125|212|47359|192577|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+126|106|47360|192584|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+127|84|47366|192615|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+130|169|47415|192867|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+131|1|47426|192928|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+132|55|47432|192972|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+133|41|47437|193002|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+134|208|47439|193011|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+135|175|47451|193069|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+136|121|47452|193079|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+137|33|47489|193200|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+138|111|47502|193254|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+142|12|47538|193418|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+143|163|47545|193442|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+144|64|47546|193449|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+145|5|47550|193473|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+146|213|47552|193483|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+147|99|47565|193548|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+148|58|47567|193557|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+149|57|47582|193607|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+150|25|47587|193642|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+151|93|47637|193834|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+152|112|47654|193900|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+153|96|47656|193911|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+154|135|47666|193963|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+155|27|47676|194015|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+156|89|47681|194043|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+157|59|47691|194091|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+158|105|47708|194186|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+159|21|47725|194282|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+160|205|47766|194477|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+161|155|47798|194641|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+162|113|47811|194700|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+163|6|47843|194823|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+164|72|47845|194845|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+165|14|47872|194972|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+166|68|47883|195027|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+167|120|47884|195035|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+168|131|47903|195126|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+169|103|47907|195147|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+170|36|47908|195154|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+171|71|47939|195282|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+172|122|47940|195289|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+173|102|47954|195352|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+174|167|47971|195445|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+175|88|47975|195466|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+176|52|47978|195478|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+177|152|47980|195487|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+178|11|47989|195540|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+179|46|47994|195568|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+180|191|47999|195588|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+181|51|48003|195615|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+182|142|48019|195706|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+183|8|48028|195743|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+184|94|48034|195781|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+185|204|48064|195907|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+186|138|48089|196082|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+187|136|48104|196178|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+188|149|48130|196283|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+189|161|48143|196342|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+190|123|48147|196362|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+191|146|48153|196412|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+192|158|48159|196439|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+193|128|48160|196446|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+194|215|48240|196717|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+195|18|48243|196727|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+196|165|48245|196736|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+197|81|48249|196754|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+198|216|48250|196761|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+199|224|48252|196775|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+200|171|48259|196795|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+201|181|48260|196802|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+202|37|48262|196816|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+203|34|48264|196824|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+204|90|48265|196831|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+205|166|48266|196838|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+206|157|48267|196845|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+207|114|48270|196858|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+208|82|48271|196865|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+209|178|48272|196872|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+210|116|48273|196879|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+211|10|48274|196886|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+212|147|48275|196893|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+213|40|48276|196901|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+214|87|48277|196909|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+215|164|48278|196918|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+216|129|48279|196925|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+217|210|48284|196940|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+218|19|48285|196949|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+219|35|48290|196991|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+220|109|48291|196999|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+221|22|48293|197012|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+222|130|48294|197019|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+223|47|48302|197040|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+224|214|48308|197064|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+225|221|48311|197074|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+226|168|48312|197081|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+227|79|48313|197090|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+228|194|48315|197099|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+229|184|48317|197108|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+230|16|48323|197141|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+231|48|48325|197153|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+232|156|48327|197169|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+233|101|48328|197176|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+234|153|48329|197183|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+235|62|48331|197206|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+236|30|48332|197213|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+237|107|48341|197266|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+238|190|48342|197273|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+239|63|48344|197286|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+240|9|48345|197293|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+241|179|48348|197314|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+242|173|48359|197354|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+243|211|48360|197365|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+244|75|48361|197372|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+245|31|48362|197379|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+246|150|48365|197397|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+247|186|48369|197408|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+248|43|48374|197436|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+249|133|48376|197447|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+250|83|48385|197493|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+251|39|48386|197500|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+252|55|48395|197556|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+253|145|48400|197580|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+254|3|48401|197587|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+255|193|48403|197595|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+256|44|48404|197602|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+257|38|48405|197609|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+258|192|48406|197616|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+259|143|48408|197624|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+260|189|48410|197638|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+261|218|48412|197655|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+262|162|48414|197674|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+263|106|48416|197683|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+264|172|48417|197690|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+265|151|48420|197710|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+266|100|48433|197756|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+267|198|48434|197763|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+268|24|48442|197808|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+269|33|48447|197835|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+270|119|48448|197844|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+271|54|48450|197860|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+272|84|48451|197870|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+273|169|48456|197900|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+274|64|48459|197919|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+275|115|48460|197926|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+276|134|48464|197944|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+277|73|48467|197959|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+278|212|48468|197966|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+279|99|48478|198011|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+280|32|48480|198020|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+281|176|48481|198027|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+282|20|48483|198045|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+283|76|48484|198052|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+284|41|48485|198059|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+285|175|48513|198210|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+286|208|48516|198225|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+287|121|48519|198240|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+288|180|48521|198248|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+289|126|48524|198261|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|No|At 3-month call, mom let me know that the patient was no longer using the drops. Mom said patient said she didn't like the stinging and that the patient began to hide at night to avoid the drops. Mom is willing to continue to complete study visits.|No
+290|77|48527|198279|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+291|219|48528|198288|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+292|1|48548|198386|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+293|74|48550|198403|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+294|117|48552|198412|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+295|111|48553|198419|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+296|197|48576|198506|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+297|91|48584|198559|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+298|159|48594|198606|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+299|85|48602|198645|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+300|163|48604|198661|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+301|112|48606|198669|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+302|12|48609|198678|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+303|174|48613|198703|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+304|25|48615|198712|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+305|93|48623|198777|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+306|148|48631|198829|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+307|80|48640|198899|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+308|105|48641|198906|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+309|5|48645|198936|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+310|213|48646|198943|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+311|205|48648|198952|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+312|89|48649|198959|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+313|154|48655|199001|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+314|96|48671|199098|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+315|113|48679|199135|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+316|58|48681|199150|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+317|97|48686|199193|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+318|131|48691|199225|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+319|202|48692|199233|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+320|88|48694|199247|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+326|207|48706|199352|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+328|122|48717|199407|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+329|86|48718|199415|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+330|98|48721|199435|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+331|27|48724|199452|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+332|71|48727|199472|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+333|4|48733|199533|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+334|46|48742|199559|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+335|36|48749|199598|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+336|103|48754|199625|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+337|155|48755|199633|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+338|183|48756|199641|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+339|68|48764|199702|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+340|120|48766|199717|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+341|15|48769|199730|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+342|200|48775|199748|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+343|59|48777|199767|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+344|102|48781|199790|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+345|72|48783|199807|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+346|135|48788|199832|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+347|29|48789|199841|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+348|14|48790|199849|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+349|52|48792|199864|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+350|6|48794|199883|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+351|21|48796|199893|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+352|191|48801|199925|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+353|53|48803|199935|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+354|171|48804|199943|Month 24 Visit|Continuing in current optical correction|Yes|No|24-month visit, discontinuing drops|No
+355|165|48821|200051|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+356|127|48829|200099|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+357|196|48831|200109|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+358|51|48842|200156|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+359|223|48845|200173|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+360|94|48848|200184|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|No|sending new drug but child not using drug, 50amps left, doesn't think working; Wants to withdraw.wearing old specs new ones "too clear" w less demands w virtual school. Will stay in trial for now, told to wear most current specs, OK not to use drops,|No
+361|81|48853|200205|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit|No
+362|125|48854|200213|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+363|124|48862|200258|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+364|177|48866|200300|Month 6 Visit|Continuing in current optical correction|Yes|Yes||No
+365|204|48868|200315|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+366|8|48871|200341|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+367|141|48886|200443|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+368|136|48887|200452|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+369|26|48888|200463|Month 6 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+370|28|48890|200481|Month 6 Visit|Change in optical correction is required|Yes|Yes||No
+371|123|48891|200489|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+372|146|48892|200501|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+373|149|48894|200514|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+374|114|48896|200523|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+375|10|48897|200532|Month 24 Visit|Continuing in current optical correction|Yes|No|Per protocol|No
+376|152|48915|200629|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+377|128|48932|200733|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+378|19|48939|200780|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+379|161|48942|200801|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+380|151|48947|200837|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+381|142|48948|200845|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+382|37|48949|200853|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+383|100|48959|200895|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+384|90|48963|200917|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+385|158|48966|200935|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+386|216|48970|200954|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+387|9|48982|201012|Month 24 Visit|Continuing in current optical correction|Yes|No|no, because patient has reached the 24 month mark|No
+388|147|48987|201051|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+389|153|48995|201087|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+390|214|49001|201124|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+391|210|49002|201134|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+392|157|49004|201152|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+393|43|49006|201172|Month 18 Visit|Change in optical correction is required|Yes|No|patient is no longer using study drops d/t burning|No
+394|107|49009|201190|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+395|138|49016|201220|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+396|35|49018|201230|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+397|87|49029|201271|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+398|130|49032|201291|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+399|48|49044|201373|Month 24 Visit|Change in optical correction is required|Yes|No|month 24 visit|No
+400|190|49046|201391|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+401|164|49048|201409|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+402|193|49051|201428|Month 24 Visit|Change in optical correction is required|Yes|No|This is subject's 24-month visit; therefore, subject will discontinue use of study drops.|No
+403|109|49057|201446|Month 24 Visit|Change in optical correction is required|Yes|No|month 24 visit|No
+404|156|49063|201464|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+405|215|49064|201472|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+406|129|49065|201480|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+410|47|49077|201557|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+411|166|49078|201565|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+412|225|49079|201573|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+414|34|49087|201624|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+415|22|49090|201643|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit|No
+416|181|49091|201651|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+417|40|49094|201676|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+418|224|49099|201708|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+419|18|49100|201716|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+420|186|49101|201724|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+421|219|49102|201732|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit|No
+422|44|49106|201767|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed her 24-month visit; therefore, she has discontinued the use of the study drug.|No
+423|11|49107|201777|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+424|119|49110|201803|Month 24 Visit|Continuing in current optical correction|Yes|No|24 month visit|No
+425|218|49111|201811|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+426|82|49113|201821|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit, drops discontinued according to protocol|No
+427|184|49115|201839|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed her 24-month visit; therefore, she will discontinue use of study drug.|No
+428|76|49116|201848|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+429|189|49117|201856|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+430|150|49119|201867|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+431|75|49121|201885|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+432|221|49123|201895|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+433|173|49125|201905|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+434|211|49127|201923|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+435|30|49132|201951|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+436|121|49135|201963|Month 24 Visit|Change in optical correction is required|Yes|No|month 24 visit|No
+437|38|49137|201973|Month 24 Visit|Change in optical correction is required|Yes|No|24-month visit|No
+438|73|49138|201981|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+439|133|49141|201993|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+440|179|49142|202001|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+441|194|49145|202025|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+442|192|49148|202047|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+443|31|49156|202088|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+444|62|49158|202098|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+445|143|49160|202120|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+446|55|49161|202128|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+447|172|49167|202176|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+448|180|49173|202205|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+449|145|49178|202237|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+450|16|49181|202255|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+451|198|49185|202278|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+452|134|49186|202286|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+453|178|49188|202299|Month 24 Visit|Continuing in current optical correction|Yes|No|24-month visit|No
+454|116|49189|202307|Month 24 Visit|Continuing in current optical correction|Yes|No|24-month visit|No
+455|41|49190|202315|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+456|115|49191|202323|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+457|101|49194|202340|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+458|126|49195|202349|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+459|168|49199|202374|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+460|79|49200|202382|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+461|54|49201|202390|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+462|83|49202|202398|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+463|39|49203|202406|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+464|63|49204|202421|Month 24 Visit|Change in optical correction is required|Yes|No|24-month visit|No
+465|162|49216|202463|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+466|24|49218|202475|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+467|197|49219|202483|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+468|1|49221|202502|Month 24 Visit|Continuing in current optical correction|Yes|No|24 month visit|No
+469|99|49225|202516|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+470|3|49226|202524|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+471|117|49229|202536|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+472|212|49234|202560|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+473|33|49235|202568|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+474|106|49240|202591|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+475|20|49242|202602|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+476|176|49246|202637|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+477|93|49249|202656|Month 24 Visit|Change in optical correction is required|Yes|No|No, patient has reached the 24 month visit|No
+478|64|49252|202685|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+479|175|49259|202715|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+480|74|49264|202748|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+481|111|49266|202774|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+482|96|49267|202786|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit|No
+483|208|49268|202794|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+484|27|49271|202806|Month 24 Visit|Continuing in current optical correction|Yes|No|24 month outcome visit, drops DC per PEDIG protocol|No
+485|32|49274|202821|Month 24 Visit|Continuing in current optical correction|Yes|No|Subject has completed 24-month visit.|No
+486|77|49275|202829|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed 24-month visit.|No
+487|131|49278|202850|Month 24 Visit|Continuing in current optical correction|Yes|No|patient has reached the 24 month visit|No
+488|169|49279|202858|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+490|5|49286|202900|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+491|205|49287|202908|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+492|213|49288|202916|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+493|174|49293|202965|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+495|91|49297|202987|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+496|72|49305|203031|Month 24 Visit|Continuing in current optical correction|Yes|No|24-month visit|No
+497|207|49310|203060|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+498|85|49321|203131|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+499|113|49322|203139|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+500|84|49323|203147|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+501|25|49327|203177|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+502|154|49328|203186|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+503|202|49330|203206|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+504|58|49333|203230|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+505|163|49336|203255|Month 24 Visit|Continuing in current optical correction|Yes|No|24-month visit|No
+506|51|49337|203266|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+507|89|49339|203281|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+508|103|49341|203302|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed her 24-month study visit.|No
+509|148|49343|203316|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+510|159|49344|203326|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+511|102|49345|203336|Month 24 Visit|Change in optical correction is required|Yes|No|patient has reached 24 mo. visit|No
+512|80|49353|203378|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+513|98|49365|203444|Month 12 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+514|71|49381|203558|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+515|112|49383|203570|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+516|127|49385|203580|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+517|155|49387|203590|Month 24 Visit|Change in optical correction is required|Yes|No|pt. has reached 24 month visit|No
+518|135|49389|203602|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+519|29|49391|203612|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+520|12|49392|203620|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+521|97|49398|203638|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+522|36|49405|203682|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+523|59|49412|203721|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+524|86|49439|203819|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+525|53|49446|203878|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+526|105|49447|203886|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+527|122|49448|203894|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+528|120|49449|203902|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+529|88|49454|203939|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+530|196|49459|203973|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+531|26|49461|203985|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+532|43|49470|204026|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+533|124|49471|204034|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+534|167|49478|204080|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+535|14|49481|204100|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+536|200|49490|204138|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+537|68|49492|204154|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+538|28|49494|204173|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+539|114|49499|204197|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+540|81|49504|204212|Month 30 Visit|Change in optical correction is required|No|Yes||No
+542|46|49509|204246|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+543|183|49513|204273|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+544|4|49519|204311|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+545|177|49520|204320|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+546|52|49523|204344|Month 24 Visit|Continuing in current optical correction|Yes|No|24-month visit|No
+547|6|49524|204353|Month 24 Visit|Change in optical correction is required|Yes|No|off drops, 24 month visit|No
+548|19|49525|204361|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+549|8|49526|204374|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+550|216|49527|204381|Month 30 Visit|Continuing in current optical correction|Yes|Yes||No
+551|152|49532|204417|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+552|21|49539|204468|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit, protocol dictates to stop medication|No
+553|141|49541|204478|Month 12 Visit|Change in optical correction is required|Yes|Yes||No
+554|132|49543|204492|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+555|214|49550|204506|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+556|147|49552|204515|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed 24-month study visit. She will discontinue study drops per protocol.|No
+557|136|49554|204530|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+558|225|49555|204538|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+559|146|49560|204566|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+560|123|49562|204583|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+561|165|49564|204602|Month 18 Visit|Change in optical correction is required|Yes|Yes||Yes|participant is continuing on bifocal soft contact lens for non-study myopia control treatment
+562|125|49569|204645|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+563|142|49574|204673|Month 24 Visit|Continuing in current optical correction|Yes|No|24 month visit Dc per protocol|No
+564|94|49575|204682|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|No|Subject D/C drops because felt not working. Willing to come for 24 mo visit. Did not send drops, they are not interested in drops. I felt it might compromise willingness to come for 24mo visit. Dissagreement between mon & dad about the study.|No
+565|204|49581|204715|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+566|10|49582|204722|Month 30 Visit|Continuing in current optical correction|Yes|No|Subject has completed his 30-month visit and study participation!|No
+567|149|49589|204772|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+568|100|49593|204812|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+569|191|49598|204837|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit|No
+570|128|49614|204941|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+571|15|49630|205036|Month 12 Visit|Continuing in current optical correction|Yes|Yes||No
+572|171|49631|205043|Month 30 Visit|Continuing in current optical correction|Yes|No|30-month visit, patient is no longer on drops|No
+573|158|49640|205102|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+574|37|49645|205140|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+575|130|49648|205160|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+576|11|49651|205182|Month 24 Visit|Continuing in current optical correction|Yes|No|24 month visit, patient no longer on drops.|No
+577|116|49661|205237|Month 30 Visit|Continuing in current optical correction|Yes|No|Month 30 visit, patient is off drops|No
+578|178|49662|205245|Month 30 Visit|Continuing in current optical correction|Yes|No|30-month visit, patient is off drops|No
+579|166|49664|205256|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+580|90|49666|205274|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+581|157|49678|205354|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+582|221|49684|205388|Month 30 Visit|Continuing in current optical correction|Yes|No|30mo Visit.  We will continue to see is patient in regular PEDS clinic.|No
+585|210|49687|205414|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+586|161|49696|205472|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed her 24-month visit|No
+587|219|49697|205479|Month 30 Visit|Continuing in current optical correction|Yes|No|study completion|No
+588|151|49707|205538|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+589|224|49714|205582|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+590|194|49721|205616|Month 30 Visit|Change in optical correction is required|Yes|No|30mo Visit|No
+591|156|49727|205660|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit|No
+592|40|49735|205696|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+593|164|49738|205713|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+594|79|49741|205737|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+595|87|49742|205748|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+596|193|49745|205776|Month 30 Visit|Continuing in current optical correction|Yes|No|Subject has completed 30-month study visit and overall study participation.|No
+597|76|49747|205791|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+598|198|49753|205824|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed 24-month study visit|No
+599|48|49754|205831|Month 30 Visit|Change in optical correction is required|Yes|No|30 month visit|Yes|0.025% atropine OU daily progression of myopia during study, no progression off study medication (active treatment group) but family prefers stronger dose
+600|82|49758|205870|Month 30 Visit|Continuing in current optical correction|Yes|No|30 month visit|No
+601|101|49759|205879|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed 24-month visit|No
+602|18|49764|205903|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+603|181|49767|205919|Month 24 Visit|Change in optical correction is required|Yes|No|24 month discontinue per PEDIG protocol|No
+604|215|49777|205986|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+605|129|49779|206004|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+606|179|49794|206102|Month 24 Visit|Change in optical correction is required|Yes|No|24 months|No
+607|22|49803|206149|Month 30 Visit|Change in optical correction is required|Yes|No|completed study|Yes|0.01% atropine OU daily, progression of myopia increased off study medication (active treatment group)
+608|109|49804|206156|Month 30 Visit|Change in optical correction is required|Yes|No|completed study|Yes|0.025% atropine OU daily, progression of myopia during study, increased off study medication (active treatment group)
+609|189|49808|206183|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+610|44|49818|206214|Month 30 Visit|Continuing in current optical correction|Yes|No|Subject has completed 30-month visit|No
+611|75|49819|206223|Month 24 Visit|Continuing in current optical correction|Yes|No|24-Month visit, no more study drops|No
+612|9|49820|206230|Month 30 Visit|Continuing in current optical correction|Yes|No|completed study|No
+613|192|49828|206270|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+614|186|49830|206281|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+615|16|49831|206289|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+616|184|49836|206317|Month 30 Visit|Change in optical correction is required|Yes|No|Subject has completed study.|No
+617|173|49846|206378|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+618|211|49847|206386|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+619|34|49853|206426|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+620|121|49854|206433|Month 30 Visit|Continuing in current optical correction|Yes|No|completed study|No
+621|30|49855|206441|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+622|47|49860|206469|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+623|35|49865|206518|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed 24 months of study participation|No
+624|218|49867|206528|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+625|153|49874|206560|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed 24-month visit.|No
+626|190|49880|206594|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+627|106|49890|206648|Month 24 Visit|Continuing in current optical correction|Yes|No|Subject has completed 24-month visit|No
+628|107|49892|206657|Month 30 Visit|Continuing in current optical correction|Yes|No|Study end|No
+629|150|49902|206715|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+630|77|49919|206794|Month 30 Visit|Continuing in current optical correction|Yes|No|Subject has completed 30-month study visit|No
+631|115|49921|206805|Month 24 Visit|Continuing in current optical correction|Yes|No|24 month visit, per protocol. DC drops|No
+632|99|49926|206852|Month 24 Visit|Change in optical correction is required|Yes|No|reached 24 month visit|No
+633|168|49930|206877|Month 30 Visit|Continuing in current optical correction|Yes|No|End of study|No
+636|176|49940|206956|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+637|180|49945|206989|Month 24 Visit|Continuing in current optical correction|Yes|No|24-month visit, patient is done with drops|No
+638|31|49946|207000|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+639|133|49948|207018|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+640|162|49949|207025|Month 30 Visit|Continuing in current optical correction|Yes|Yes||No
+641|41|49953|207056|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+642|32|49958|207095|Month 30 Visit|Change in optical correction is required|Yes|No|Subject has completed study participation!|No
+643|145|49959|207104|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+644|134|49965|207137|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+645|119|49968|207164|Month 30 Visit|Continuing in current optical correction|Yes|No|study completion|No
+646|62|49969|207172|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit protocol is to D/C drops|No
+647|64|49974|207212|Month 24 Visit|Change in optical correction is required|Yes|No|24 mo|No
+648|55|49975|207220|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+649|169|49977|207240|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+650|3|49978|207247|Month 30 Visit|Continuing in current optical correction|Yes|No|30mo Visit|No
+651|172|49980|207261|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+652|54|49989|207301|Month 30 Visit|Change in optical correction is required|Yes|Yes||No
+653|83|49990|207309|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+654|39|49992|207317|Month 30 Visit|Change in optical correction is required|Yes|Yes||No
+655|175|50000|207371|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit|No
+656|197|50001|207379|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+657|111|50003|207397|Month 24 Visit|Continuing in current optical correction|Yes|No|24 month visit protocol requires discontiuation|No
+658|73|50004|207405|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+659|143|50007|207417|Month 24 Visit|Change in optical correction is required|Yes|No|24-month visit, patient no longer on study drops|No
+660|208|50009|207437|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+661|38|50011|207450|Month 30 Visit|Change in optical correction is required|Yes|No|Subject has completed study participation|No
+662|112|50013|207460|Month 30 Visit|Continuing in current optical correction|Yes|Yes||No
+663|1|50021|207525|Month 30 Visit|Change in optical correction is required|Yes|No|study complete|No
+664|74|50022|207533|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+665|84|50030|207554|Month 30 Visit|Change in optical correction is required|Yes|Yes||No
+666|20|50038|207620|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+667|131|50042|207648|Month 30 Visit|Change in optical correction is required|Yes|No|finished study|No
+668|223|50049|207679|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+669|33|50055|207726|Month 24 Visit|Continuing in current optical correction|Yes|No|24 month visit|No
+670|126|50056|207734|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+671|93|50060|207759|Month 30 Visit|Continuing in current optical correction|Yes|No|reached 30 mo. visit|No
+672|212|50072|207834|Month 24 Visit|Continuing in current optical correction|Yes|Yes||No
+673|24|50083|207886|Month 24 Visit|Continuing in current optical correction|Yes|No|24 month visit drops D/C per protocol|No
+674|91|50097|207992|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+675|117|50098|207999|Month 30 Visit|Continuing in current optical correction|Yes|No|end of study|No
+676|105|50099|208007|Month 30 Visit|Continuing in current optical correction|Yes|No|end of study|No
+677|174|50127|208205|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+678|85|50130|208232|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+679|68|50133|208248|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+680|120|50134|208255|Month 30 Visit|Continuing in current optical correction|Yes|Yes||No
+681|5|50135|208263|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+682|163|50141|208308|Month 30 Visit|Continuing in current optical correction|Yes|No|Month 30 visit|No
+683|213|50153|208393|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+684|202|50157|208427|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+685|102|50161|208460|Month 30 Visit|Change in optical correction is required|Yes|No|finished study|No
+686|196|50164|208479|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+687|98|50165|208488|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+688|113|50166|208495|Month 30 Visit|Change in optical correction is required|Yes|Yes||No
+689|159|50168|208514|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+690|155|50178|208580|Month 30 Visit|Continuing in current optical correction|Yes|No|finished study|No
+691|14|50181|208600|Month 24 Visit|Continuing in current optical correction|Yes|No|month 24 visit|No
+692|59|50182|208611|Month 24 Visit|Continuing in current optical correction|Yes|No|discontinuing; 24 month visit|No
+693|154|50184|208629|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+694|96|50186|208646|Month 30 Visit|Continuing in current optical correction|Yes|No|Last study visti|No
+695|97|50187|208655|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+696|80|50195|208716|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+697|72|50199|208745|Month 30 Visit|Continuing in current optical correction|Yes|No|Finished 30 month visit|No
+698|4|50200|208754|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+699|52|50201|208761|Month 30 Visit|Continuing in current optical correction|Yes|No|Finished 30 month visit|No
+700|135|50202|208770|Month 24 Visit|Continuing in current optical correction|Yes|No|Patient finished with 24 month visit|No
+701|12|50204|208784|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+702|6|50205|208791|Month 30 Visit|Continuing in current optical correction|Yes|No|Finished 30 month visit|No
+703|167|50208|208815|Month 30 Visit|Continuing in current optical correction|Yes|No|end of study|No
+704|127|50209|208823|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+705|25|50215|208876|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed 24-month visit.|No
+706|165|50216|208884|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit|Yes|CL Rx by outside optometrist 10/29/2020 per family req. Continuing. New power based on study exam per that provider: RE Biofinity toric Multifocal 8.7 14.5 -1.75 -2.25 x180 ADD+2.50D LE Biofinity toric Multifocal 8.7 14.5 -2.75 -1.75 x180 ADD+2.50D
+707|114|50217|208892|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit|No
+708|94|50221|208907|Month 24 Visit|Continuing in current optical correction|Yes|No|Patient DC drops 9/2020 as felt not working, Got 1% atropine from outside provider in 1/2021.  Only used about 5 times total due to blurry vision with drops|Yes|Patient DC study drops 9/2020 as felt not working, Got 1% atropine from outside provider in 1/2021.  Only used about 5 times total due to blurry vision with drops
+709|58|50226|208929|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed 24-month visit|No
+710|207|50228|208939|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+711|36|50229|208947|Month 24 Visit|Change in optical correction is required|Yes|No|24 months|No
+712|148|50234|208979|Month 24 Visit|Continuing in current optical correction|Yes|No|reached 24 month visit|No
+713|51|50239|209011|Month 30 Visit|Continuing in current optical correction|Yes|Yes||No
+714|123|50240|209018|Month 30 Visit|Continuing in current optical correction|Yes|Yes||No
+715|89|50241|209026|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+716|205|50244|209046|Month 30 Visit|Continuing in current optical correction|Yes|Yes||No
+717|15|50245|209064|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+718|152|50247|209082|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+719|86|50252|209109|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+720|46|50254|209127|Month 24 Visit|Continuing in current optical correction|Yes|No|24 months|No
+721|149|50261|209168|Month 24 Visit|Continuing in current optical correction|Yes|No|Subject has completed 24-month study visit.|No
+722|122|50273|209223|Month 24 Visit|Continuing in current optical correction|Yes|No|24 months|No
+723|21|50277|209252|Month 30 Visit|Continuing in current optical correction|Yes|No|End of study|No
+724|29|50302|209454|Month 18 Visit|N/A (Virtual Visit)|N/A (Virtual Visit)|Yes||No
+725|103|50303|209463|Month 30 Visit|Change in optical correction is required|Yes|No|Subject has completed 30-month visit.|No
+726|71|50307|209500|Month 24 Visit|Change in optical correction is required|Yes|No|Subject has completed 24-month visit.|No
+727|146|50308|209511|Month 30 Visit|Change in optical correction is required|Yes|Yes||No
+728|28|50309|209520|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+729|125|50313|209558|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+730|124|50316|209586|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+731|158|50319|209614|Month 24 Visit|Change in optical correction is required|Yes|No|24 Month Visit, 6 month wash out period|No
+732|183|50321|209632|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+733|27|50328|209688|Month 30 Visit|Continuing in current optical correction|Yes|No|end of study|No
+734|53|50329|209696|Month 18 Visit|Change in optical correction is required|Yes|Yes||No
+735|200|50335|209750|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+736|225|50341|209793|Month 30 Visit|Change in optical correction is required|Yes|No|End of study|No
+737|142|50343|209802|Month 30 Visit|Continuing in current optical correction|Yes|No|this is the 30 month visit, end of study|Yes|yes no treatment end of study
+738|141|50345|209814|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+739|88|50355|209865|Month 24 Visit|Continuing in current optical correction|Yes|No|24 mo visit|No
+740|132|50356|209872|Month 30 Visit|Change in optical correction is required|Yes|No|End of study|No
+741|161|50361|209901|Month 30 Visit|Continuing in current optical correction|Yes|No|Subject has completed study participation.|No
+742|100|50366|209935|Month 30 Visit|Continuing in current optical correction|Yes|Yes||No
+743|177|50369|209955|Month 18 Visit|Continuing in current optical correction|Yes|Yes||No
+744|90|50371|209969|Month 24 Visit|Change in optical correction is required|Yes|No|24 month visit, drops no longer needed|No
+745|151|50384|210059|Month 24 Visit|Change in optical correction is required|Yes|Yes||No
+746|191|50394|210113|Month 30 Visit|Change in optical correction is required|Yes|No|final visit|No
+747|8|50405|210196|Month 24 Visit|Change in optical correction is required|Yes|No|24 month, study medication to be discontinued|No
+748|214|50410|210227|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+749|156|50416|210283|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+750|204|50417|210294|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+751|130|50425|210344|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+752|26|50435|210425|Month 18 Visit|Continuing in current optical correction|Yes|||No||Yes|Not Applicable
+753|43|50438|210440|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+754|40|50439|210448|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+755|76|50444|210484|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+756|136|50448|210514|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+757|181|50450|210531|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+758|37|50457|210579|Month 30 Visit|Continuing in current optical correction|Yes||End of study.|No||No|Not Applicable
+759|164|50460|210599|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+760|11|50463|210614|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+761|166|50467|210645|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+762|128|50471|210675|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+763|210|50473|210695|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+764|224|50489|210817|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+765|30|50500|210887|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+766|215|50501|210895|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+767|87|50511|210964|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+768|153|50516|210997|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+769|186|50518|211012|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+770|101|50519|211019|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+771|211|50530|211098|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+772|19|50535|211138|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+773|198|50538|211165|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+774|18|50543|211211|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+775|35|50546|211230|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+776|75|50551|211274|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+777|157|50558|211305|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+778|147|50563|211336|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+779|173|50564|211344|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+780|16|50578|211439|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+781|47|50593|211527|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+782|150|50614|211655|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+783|129|50627|211742|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+784|192|50646|211882|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+785|79|50651|211925|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+786|218|50662|212013|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+787|55|50668|212058|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+788|190|50672|212080|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+789|41|50673|212087|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+790|172|50677|212117|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+791|179|50683|212153|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+792|143|50685|212171|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+793|62|50692|212210|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+794|34|50707|212334|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+795|197|50715|212405|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+796|134|50720|212449|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+797|99|50722|212458|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+798|73|50725|212468|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+799|133|50731|212518|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+800|213|50733|212535|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+801|115|50741|212604|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+802|208|50754|212707|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+803|189|50768|212787|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+804|74|50776|212846|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+805|64|50778|212859|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+806|180|50787|212931|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+807|20|50796|212988|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+808|80|50800|213018|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+809|33|50803|213036|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+810|24|50804|213044|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+811|106|50805|213051|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+812|25|50809|213089|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+813|169|50815|213115|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+814|58|50817|213128|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+815|212|50825|213190|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+816|176|50835|213273|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+817|202|50841|213323|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+818|97|50843|213332|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+819|59|50844|213340|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+820|154|50850|213391|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+821|5|50864|213464|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+822|89|50865|213471|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+823|111|50881|213602|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+824|85|50886|213643|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+825|91|50897|213736|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+826|207|50912|213871|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+827|175|50916|213891|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+828|14|50923|213947|Month 30 Visit|Change in optical correction is required|No|||No||Not Applicable|Not Applicable
+829|31|50925|213962|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+830|127|50935|214046|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+831|165|50943|214133|Month 30 Visit|Change in optical correction is required|Yes|||Yes|continuing contact lens RE Biofinity toric Multifocal 8.7 14.5 -1.75 -2.25 x180 ADD+2.50D LE Biofinity toric Multifocal 8.7 14.5 -2.75 -1.75 x180 ADD+2.50D|Not Applicable|Not Applicable
+832|114|50944|214141|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+833|53|50945|214149|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+834|71|50946|214157|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+835|196|50947|214175|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+836|86|50950|214196|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+837|159|50952|214214|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+838|174|50982|214420|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+839|12|50987|214449|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+840|46|50994|214494|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+841|135|50997|214529|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+842|152|51002|214579|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+843|126|51006|214615|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+844|122|51011|214647|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+845|36|51012|214655|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+846|15|51013|214667|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+847|148|51017|214696|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+848|149|51018|214704|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+849|94|51019|214712|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+850|83|51021|214730|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+851|183|51024|214760|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+852|4|51037|214879|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+853|68|51041|214908|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+854|28|51042|214917|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+855|98|51043|214927|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+856|200|51051|214984|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+857|88|51073|215168|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+858|204|51082|215258|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+859|151|51098|215387|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+860|136|51100|215402|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+861|177|51110|215472|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+862|124|51113|215500|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+863|26|51135|215689|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+864|158|51143|215750|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+865|125|51160|215872|Month 24 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Yes
+866|128|51182|216064|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+867|76|51183|216071|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+868|8|51190|216121|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+869|40|51205|216231|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+870|90|51226|216400|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+871|130|51230|216434|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+872|210|51240|216508|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+873|141|51246|216542|Month 24 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Yes
+874|186|51255|216615|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+875|30|51337|217284|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+876|192|51358|217444|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+877|215|51372|217555|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+878|18|51410|217844|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+879|218|51411|217855|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+880|176|51423|217966|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+881|16|51425|217984|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+882|150|51440|218105|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+883|189|51442|218120|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+884|190|51449|218185|Month 30 Visit|Change in optical correction is required|Yes|||Yes|Atropine 0.03%|Not Applicable|Not Applicable
+885|74|51472|218379|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+886|197|51475|218406|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+887|172|51478|218431|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+888|20|51566|219165|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+889|134|51581|219287|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+890|126|51667|219995|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+891|202|51669|220011|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+892|97|51670|220018|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+893|154|51696|220229|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+894|85|51722|220441|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+895|80|51733|220537|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+896|127|51734|220545|Month 30 Visit|Continuing in current optical correction|Yes|||Yes|We are going to continue dilute atropine for myopia progression if not on placebo.|Not Applicable|Not Applicable
+897|53|51748|220658|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+898|15|51751|220684|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+899|86|51761|220761|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+900|125|51781|220926|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+901|4|51805|221102|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+902|124|51810|221137|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+903|174|51811|221145|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+904|200|51815|221184|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+905|31|51819|221218|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+906|159|51820|221225|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+907|91|51822|221242|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+908|98|51826|221274|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+909|207|51832|221317|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+910|26|51843|221397|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+911|141|51844|221405|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable
+912|28|51899|221872|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+913|183|51916|222002|Month 30 Visit|Continuing in current optical correction|Yes|||No||Not Applicable|Not Applicable
+914|177|51982|222445|Month 30 Visit|Change in optical correction is required|Yes|||No||Not Applicable|Not Applicable

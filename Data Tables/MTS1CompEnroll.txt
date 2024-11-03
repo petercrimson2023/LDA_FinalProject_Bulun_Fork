@@ -1,0 +1,188 @@
+RecID|PtID|ParentLoginVisitID|ParentLoginID|OptCorrRx|SpecCritMet|EligCriteria|PtContactComp
+1|110|42558|171240|Change in optical correction|Yes|1|1
+2|216|42615|171468|Change in optical correction|Yes|1|1
+3|171|42679|171663|Continuing in current optical correction|Yes|1|1
+4|178|42762|172071|Change in optical correction|Yes|1|1
+5|116|42763|172075|Continuing in current optical correction|Yes|1|1
+6|81|43569|175489|Continuing in current optical correction|Yes|1|1
+7|10|43626|175704|Continuing in current optical correction|Yes|1|1
+8|184|43695|175974|Continuing in current optical correction|Yes|1|1
+9|82|43696|175978|Change in optical correction|Yes|1|1
+10|221|43721|176093|Change in optical correction|Yes|1|1
+11|168|43725|176101|Continuing in current optical correction|Yes|1|1
+12|194|43726|176105|Change in optical correction|Yes|1|1
+13|9|43794|176374|Continuing in current optical correction|Yes|1|1
+14|22|43798|176389|Change in optical correction|Yes|1|1
+15|107|43839|176558|Change in optical correction|Yes|1|1
+16|219|43868|176676|Change in optical correction|Yes|1|1
+17|3|43873|176698|Continuing in current optical correction|Yes|1|1
+18|48|43881|176737|Change in optical correction|Yes|1|1
+19|162|43923|176886|Continuing in current optical correction|Yes|1|1
+20|109|43944|177018|Change in optical correction|Yes|1|1
+21|193|43973|177149|Continuing in current optical correction|Yes|1|1
+22|38|43996|177243|Continuing in current optical correction|Yes|1|1
+23|63|44003|177277|Continuing in current optical correction|Yes|1|1
+24|117|44009|177306|Continuing in current optical correction|Yes|1|1
+25|54|44072|177586|Change in optical correction|Yes|1|1
+26|39|44074|177599|Change in optical correction|Yes|1|1
+27|137|44116|177793|Change in optical correction|Yes|1|1
+28|119|44205|178135|Change in optical correction|Yes|1|1
+29|32|44213|178165|Change in optical correction|Yes|1|1
+30|44|44220|178191|Continuing in current optical correction|Yes|1|1
+31|77|44228|178210|Continuing in current optical correction|Yes|1|1
+33|121|44335|178669|Change in optical correction|Yes|1|1
+34|1|44349|178740|Change in optical correction|Yes|1|1
+35|163|44378|178888|Change in optical correction|Yes|1|1
+36|84|44406|179005|Change in optical correction|Yes|1|1
+38|112|44498|179419|Change in optical correction|Yes|1|1
+39|93|44618|179944|Continuing in current optical correction|Yes|1|1
+40|131|44642|180060|Continuing in current optical correction|Yes|1|1
+41|132|44690|180274|Change in optical correction|Yes|1|1
+42|205|44691|180278|Continuing in current optical correction|Yes|1|1
+44|167|44736|180455|Change in optical correction|Yes|1|1
+45|105|44737|180459|Change in optical correction|Yes|1|1
+46|96|44743|180479|Change in optical correction|Yes|1|1
+48|113|44755|180557|Continuing in current optical correction|Yes|1|1
+49|155|44771|180612|Continuing in current optical correction|Yes|1|1
+50|27|44819|180825|Change in optical correction|Yes|1|1
+51|72|44832|180883|Continuing in current optical correction|Yes|1|1
+52|52|44833|180888|Change in optical correction|Yes|1|1
+53|120|44842|180932|Continuing in current optical correction|Yes|1|1
+54|21|44854|181010|Change in optical correction|Yes|1|1
+55|103|44872|181119|Change in optical correction|Yes|1|1
+56|225|44885|181178|Continuing in current optical correction|Yes|1|1
+57|51|44897|181236|Continuing in current optical correction|Yes|1|1
+59|6|44927|181390|Change in optical correction|Yes|1|1
+60|102|44933|181413|Continuing in current optical correction|Yes|1|1
+61|191|45081|181951|Continuing in current optical correction|Yes|1|1
+62|123|45094|182005|Change in optical correction|Yes|1|1
+63|37|45116|182073|Change in optical correction|Yes|1|1
+64|142|45127|182106|Change in optical correction|Yes|1|1
+65|161|45134|182144|Change in optical correction|Yes|1|1
+66|43|45158|182228|Continuing in current optical correction|Yes|1|1
+67|146|45205|182437|Change in optical correction|Yes|1|1
+68|19|45214|182466|Change in optical correction|Yes|1|1
+69|157|45264|182693|Change in optical correction|Yes|1|1
+70|153|45276|182755|Change in optical correction|Yes|1|1
+71|87|45290|182822|Change in optical correction|Yes|1|1
+72|138|45314|182936|Change in optical correction|Yes|1|1
+73|35|45317|182947|Change in optical correction|Yes|1|1
+74|147|45324|182983|Change in optical correction|Yes|1|1
+75|214|45357|183117|Continuing in current optical correction|Yes|1|1
+76|100|45358|183121|Continuing in current optical correction|Yes|1|1
+77|164|45366|183143|Change in optical correction|Yes|1|1
+78|129|45367|183147|Change in optical correction|Yes|1|1
+79|79|45400|183288|Change in optical correction|Yes|1|1
+80|166|45438|183433|Change in optical correction|Yes|1|1
+81|156|45443|183464|Change in optical correction|Yes|1|1
+82|11|45476|183591|Continuing in current optical correction|Yes|1|1
+83|34|45479|183598|Change in optical correction|Yes|1|1
+84|47|45494|183665|Change in optical correction|Yes|1|1
+85|224|45508|183732|Continuing in current optical correction|Yes|1|1
+86|133|45540|183872|Change in optical correction|Yes|1|1
+88|181|45558|183969|Continuing in current optical correction|Yes|1|1
+89|173|45628|184308|Change in optical correction|Yes|1|1
+90|211|45630|184321|Change in optical correction|Yes|1|1
+91|75|45634|184349|Change in optical correction|Yes|1|1
+92|62|45680|184551|Continuing in current optical correction|Yes|1|1
+93|101|45698|184618|Continuing in current optical correction|Yes|1|1
+94|73|45724|184724|Change in optical correction|Yes|1|1
+95|179|45725|184728|Continuing in current optical correction|Yes|1|1
+96|41|45729|184743|Change in optical correction|Yes|1|1
+97|198|45736|184783|Change in optical correction|Yes|1|1
+98|143|45751|184848|Change in optical correction|Yes|1|1
+99|55|45793|185026|Continuing in current optical correction|Yes|1|1
+100|83|45798|185044|Change in optical correction|Yes|1|1
+102|115|45833|185203|Change in optical correction|Yes|1|1
+103|212|45848|185268|Continuing in current optical correction|Yes|1|1
+105|106|45868|185369|Change in optical correction|Yes|1|1
+106|169|45902|185512|Continuing in current optical correction|Yes|1|1
+107|180|45904|185524|Continuing in current optical correction|Yes|1|1
+108|33|45924|185591|Change in optical correction|Yes|1|1
+109|24|45933|185642|Change in optical correction|Yes|1|1
+110|213|45934|185646|Change in optical correction|Yes|1|1
+111|64|46017|186040|Continuing in current optical correction|Yes|1|1
+112|99|46021|186056|Continuing in current optical correction|Yes|1|1
+113|208|46031|186100|Continuing in current optical correction|Yes|1|1
+114|175|46059|186262|Change in optical correction|Yes|1|1
+115|25|46120|186561|Continuing in current optical correction|Yes|1|1
+116|111|46152|186745|Continuing in current optical correction|Yes|1|1
+117|5|46153|186749|Change in optical correction|Yes|1|1
+118|58|46156|186777|Change in optical correction|Yes|1|1
+119|57|46157|186781|Continuing in current optical correction|Yes|1|1
+120|148|46188|186914|Continuing in current optical correction|Yes|1|1
+121|12|46221|187092|Change in optical correction|Yes|1|1
+122|89|46253|187242|Change in optical correction|Yes|1|1
+123|71|46264|187311|Continuing in current optical correction|Yes|1|1
+124|118|46296|187430|Continuing in current optical correction|Yes|1|1
+125|59|46302|187455|Change in optical correction|Yes|1|1
+126|88|46321|187567|Change in optical correction|Yes|1|1
+127|122|46334|187645|Change in optical correction|Yes|1|1
+128|135|46336|187650|Continuing in current optical correction|Yes|1|1
+129|14|46343|187703|Continuing in current optical correction|Yes|1|1
+130|46|46384|187874|Change in optical correction|Yes|1|1
+131|94|46390|187908|Change in optical correction|Yes|1|1
+132|36|46391|187912|Change in optical correction|Yes|1|1
+133|68|46451|188218|Continuing in current optical correction|Yes|1|1
+135|136|46498|188474|Change in optical correction|Yes|1|1
+136|165|46499|188482|Continuing in current optical correction|Yes|1|1
+137|152|46500|188486|Continuing in current optical correction|Yes|1|1
+138|114|46508|188523|Change in optical correction|Yes|1|1
+139|149|46580|188870|Change in optical correction|Yes|1|1
+140|204|46581|188874|Continuing in current optical correction|Yes|1|1
+141|8|46590|188918|Continuing in current optical correction|Yes|1|1
+142|151|46674|189229|Change in optical correction|Yes|1|1
+143|128|46692|189324|Continuing in current optical correction|Yes|1|1
+144|158|46723|189424|Change in optical correction|Yes|1|1
+145|130|46726|189442|Continuing in current optical correction|Yes|1|1
+146|23|46740|189501|Continuing in current optical correction|Yes|1|1
+147|210|46764|189616|Change in optical correction|Yes|1|1
+148|76|46765|189620|Change in optical correction|Yes|1|1
+149|90|46766|189628|Continuing in current optical correction|Yes|1|1
+150|215|46855|190051|Continuing in current optical correction|Yes|1|1
+151|18|46902|190281|Change in optical correction|Yes|1|1
+152|40|46907|190304|Continuing in current optical correction|Yes|1|1
+153|30|46940|190449|Continuing in current optical correction|Yes|1|1
+154|190|46977|190617|Continuing in current optical correction|Yes|1|1
+155|189|46990|190673|Change in optical correction|Yes|1|1
+156|150|47015|190888|Continuing in current optical correction|Yes|1|1
+157|192|47046|191040|Change in optical correction|Yes|1|1
+158|186|47050|191052|Continuing in current optical correction|Yes|1|1
+160|31|47067|191131|Change in optical correction|Yes|1|1
+162|172|47073|191172|Continuing in current optical correction|Yes|1|1
+163|16|47090|191228|Continuing in current optical correction|Yes|1|1
+164|218|47096|191247|Change in optical correction|Yes|1|1
+165|126|47168|191584|Change in optical correction|Yes|1|1
+166|145|47178|191641|Change in optical correction|Yes|1|1
+167|176|47219|191891|Change in optical correction|Yes|1|1
+168|134|47247|192031|Continuing in current optical correction|Yes|1|1
+169|20|47312|192333|Change in optical correction|Yes|1|1
+170|91|47346|192517|Change in optical correction|Yes|1|1
+171|197|47364|192606|Change in optical correction|Yes|1|1
+172|74|47370|192630|Continuing in current optical correction|Yes|1|1
+173|207|47449|193060|Change in optical correction|Yes|1|1
+174|85|47507|193282|Continuing in current optical correction|Yes|1|1
+176|154|47509|193290|Change in optical correction|Yes|1|1
+177|174|47562|193527|Change in optical correction|Yes|1|1
+178|80|47601|193719|Continuing in current optical correction|Yes|1|1
+179|185|47604|193727|Continuing in current optical correction|Yes|1|1
+180|159|47628|193791|Change in optical correction|Yes|1|1
+181|86|47629|193795|Continuing in current optical correction|Yes|1|1
+182|15|47630|193799|Change in optical correction|Yes|1|1
+183|97|47631|193803|Change in optical correction|Yes|1|1
+184|202|47633|193811|Continuing in current optical correction|Yes|1|1
+185|98|47650|193878|Change in optical correction|Yes|1|1
+186|127|47655|193904|Change in optical correction|Yes|1|1
+187|29|47664|193949|Continuing in current optical correction|Yes|1|1
+188|196|47685|194064|Continuing in current optical correction|Yes|1|1
+189|4|47719|194245|Continuing in current optical correction|Yes|1|1
+190|200|47759|194427|Change in optical correction|Yes|1|1
+191|223|47768|194482|Change in optical correction|Yes|1|1
+192|26|47773|194511|Continuing in current optical correction|Yes|1|1
+193|53|47774|194515|Change in optical correction|Yes|1|1
+194|183|47775|194522|Continuing in current optical correction|Yes|1|1
+195|177|47837|194790|Change in optical correction|Yes|1|1
+196|125|47848|194860|Continuing in current optical correction|Yes|1|1
+197|141|47851|194878|Change in optical correction|Yes|1|1
+199|124|47866|194938|Continuing in current optical correction|Yes|1|1
+200|28|47885|195041|Continuing in current optical correction|Yes|1|1

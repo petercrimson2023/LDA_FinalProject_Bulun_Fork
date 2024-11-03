@@ -1,0 +1,903 @@
+RecID|PtID|ParentLoginVisitID|ParentLoginID|Visit|HateEyedrops|DropsHurtEyes|HardTimeSeeing|TroubleReading|BrightLightOutside|BotherByLook|BotherHurt|BotherHardSee|BotherTroubleRead|BotherLightOutside
+1|110|42714|171837|Run-in FU Randomization|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+9|171|43543|175375|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+10|81|43689|175935|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+11|216|43690|175941|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+12|10|43746|176189|Run-in FU Randomization|Sometimes|Never|Never|Never|Most of the time|Never|Sometimes|Never|Never|All the time
+13|184|43813|176461|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Most of the time
+14|221|43872|176690|Run-in FU Randomization|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+15|178|43874|176701|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+16|116|43875|176707|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+17|82|43885|176759|Run-in FU Randomization|Most of the time|Never|Never|Never|Most of the time|Never|Never|Never|Never|Sometimes
+18|194|43921|176873|Run-in FU Randomization|All the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+19|168|43939|176977|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+20|22|43956|177071|Run-in FU Randomization|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never|Never|Sometimes
+21|107|44002|177270|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+22|9|44022|177362|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+23|219|44026|177379|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+24|48|44097|177666|Run-in FU Randomization|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+25|109|44100|177700|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+26|193|44127|177833|Run-in FU Randomization|Sometimes|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never
+27|3|44145|177886|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+28|162|44151|177907|Run-in FU Randomization|Most of the time|Never|Sometimes|Never|Sometimes|Never|Never|All the time|Never|Sometimes
+29|63|44175|178017|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+30|38|44195|178095|Run-in FU Randomization|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never
+31|117|44260|178352|Run-in FU Randomization|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+32|137|44269|178390|Run-in FU Randomization|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never
+33|54|44324|178626|Run-in FU Randomization|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+34|39|44329|178641|Run-in FU Randomization|Never|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+35|44|44379|178891|Run-in FU Randomization|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+36|119|44403|178993|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+37|32|44427|179090|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+38|77|44478|179329|Run-in FU Randomization|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never
+39|121|44483|179350|Run-in FU Randomization|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never
+40|1|44536|179598|Run-in FU Randomization|Most of the time|Never|Sometimes|Never|Sometimes|Never|Never|Never|Never|Sometimes
+41|84|44543|179638|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+42|163|44596|179838|Run-in FU Randomization|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never|Never|Never
+43|112|44652|180100|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+44|93|44776|180638|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+45|205|44837|180900|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+46|132|44843|180949|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+47|131|44846|180960|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+48|105|44861|181063|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+49|167|44863|181072|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+50|96|44870|181105|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+51|113|44903|181265|Run-in FU Randomization|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+52|27|44932|181405|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+53|21|44959|181511|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+54|52|44992|181624|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+55|72|45005|181688|Run-in FU Randomization|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+56|120|45024|181744|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+57|155|45033|181772|Run-in FU Randomization|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+58|225|45036|181784|Run-in FU Randomization|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+59|103|45082|181955|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+60|6|45083|181962|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+61|51|45091|181992|Run-in FU Randomization|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+62|102|45111|182058|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+63|191|45185|182324|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+64|171|45190|182348|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+65|123|45203|182425|Run-in FU Randomization|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+66|142|45244|182574|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+67|37|45247|182588|Run-in FU Randomization|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never
+68|161|45306|182880|Run-in FU Randomization|Never|Never|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never
+69|146|45321|182963|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+70|43|45338|183031|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+71|157|45371|183161|Run-in FU Randomization|Sometimes|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never
+72|19|45373|183174|Run-in FU Randomization|Sometimes|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+73|153|45387|183234|Run-in FU Randomization|Sometimes|Sometimes|Never|Sometimes|All the time|Sometimes|Never|Never|Never|All the time
+74|87|45397|183274|Run-in FU Randomization|Never|All the time|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+75|81|45416|183341|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+76|138|45426|183385|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+77|147|45441|183452|Run-in FU Randomization|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+78|10|45464|183541|Month 6 Visit|Most of the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+79|214|45468|183559|Run-in FU Randomization|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+80|100|45474|183581|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+81|129|45507|183724|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+82|216|45527|183819|Month 6 Visit|Sometimes|Most of the time|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+83|164|45548|183904|Run-in FU Randomization|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+84|35|45552|183918|Run-in FU Randomization|Sometimes|Sometimes|Sometimes|All the time|Never|Never|Sometimes|Sometimes|Most of the time|Never
+85|116|45565|183994|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+86|178|45566|184001|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+87|184|45588|184112|Month 6 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+88|168|45589|184119|Month 6 Visit|Most of the time|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+89|79|45590|184125|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+90|194|45603|184187|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+91|107|45604|184198|Month 6 Visit|Sometimes|All the time|Sometimes|Never|Most of the time|Never|Sometimes|Most of the time|Never|Most of the time
+92|34|45605|184204|Run-in FU Randomization|Sometimes|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes|Never|Never
+93|221|45609|184228|Month 6 Visit|Never|Never|Never|Never|Most of the time|Never|Never|Never|Never|Sometimes
+94|166|45616|184261|Run-in FU Randomization|Most of the time|Sometimes|Sometimes|Never|Never|Sometimes|Sometimes|Never|Never|Never
+95|47|45626|184298|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+96|156|45629|184311|Run-in FU Randomization|All the time|All the time|Never|All the time|Sometimes|Never|Sometimes|Never|Never|Sometimes
+97|219|45631|184329|Month 6 Visit|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+98|82|45632|184340|Month 6 Visit|Sometimes|Most of the time|Never|Sometimes|Sometimes|Never|Sometimes|Never|Never|Sometimes
+99|22|45638|184369|Month 6 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+100|11|45641|184389|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+101|224|45667|184489|Run-in FU Randomization|Never|Sometimes|Sometimes|Sometimes|All the time|Never|Never|All the time|All the time|Most of the time
+102|109|45677|184532|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+103|181|45682|184557|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+104|3|45722|184714|Month 6 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+105|133|45735|184775|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+106|173|45740|184795|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+107|211|45741|184802|Run-in FU Randomization|Most of the time|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+108|48|45764|184900|Month 6 Visit|Never|All the time|Never|Never|Never|Never|Never|Never|Never|Never
+109|62|45811|185090|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+110|75|45814|185104|Run-in FU Randomization|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+111|9|45826|185159|Month 6 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+112|101|45828|185167|Run-in FU Randomization|Most of the time|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+113|193|45830|185181|Month 6 Visit|Sometimes|Most of the time|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never
+114|38|45832|185196|Month 6 Visit|Never|Never|Sometimes|Sometimes|Sometimes|Never|Never|Never|Never|Never
+115|73|45856|185294|Run-in FU Randomization|Sometimes|Sometimes|Sometimes|Never|Sometimes|Never|Never|Never|Sometimes|Never
+116|179|45858|185305|Run-in FU Randomization|Never|Sometimes|Never|Sometimes|Never|Sometimes|Never|Sometimes|Never|Sometimes
+117|63|45865|185347|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+118|198|45869|185372|Run-in FU Randomization|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+119|41|45883|185433|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+120|143|45917|185560|Run-in FU Randomization|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+121|162|45925|185595|Month 6 Visit|All the time|Sometimes|Sometimes|Never|Sometimes|Never|Most of the time|Most of the time|Never|Sometimes
+122|83|45927|185602|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+123|54|45931|185629|Month 6 Visit|Most of the time|Most of the time|Sometimes|Never|Sometimes|Never|All the time|Sometimes|Never|Sometimes
+124|39|45936|185657|Month 6 Visit|Most of the time|All the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+125|115|45954|185734|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+126|212|45975|185812|Run-in FU Randomization|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+127|117|45989|185870|Month 6 Visit|All the time|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+128|106|45991|185887|Run-in FU Randomization|Never|Never|Sometimes|Sometimes|Sometimes|Never|Never|Never|Never|Never
+129|137|45999|185949|Month 6 Visit|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+130|119|46004|185971|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+131|55|46006|185980|Run-in FU Randomization|Sometimes|Sometimes|Never|Never|All the time|Sometimes|Never|Never|Most of the time|Most of the time
+132|32|46033|186112|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+133|180|46042|186149|Run-in FU Randomization|Never|Sometimes|Never|Never|Most of the time|Never|Never|Never|Never|Sometimes
+134|121|46057|186235|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+135|24|46069|186312|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+136|44|46073|186340|Month 6 Visit|Sometimes|Most of the time|Never|Never|Sometimes|Sometimes|All the time|Never|Never|Sometimes
+137|33|46086|186406|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+138|77|46117|186545|Month 6 Visit|Never|Sometimes|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never
+139|64|46123|186577|Run-in FU Randomization|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes
+140|208|46133|186643|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+141|169|46136|186652|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+142|163|46139|186672|Month 6 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never
+143|99|46140|186678|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+144|84|46155|186764|Month 6 Visit|Sometimes|Never|Most of the time|Never|Never|Never|Never|Never|Never|Never
+145|1|46164|186803|Month 6 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+146|175|46165|186809|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+147|25|46213|187039|Run-in FU Randomization|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never
+148|111|46245|187208|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+149|213|46248|187217|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+150|57|46251|187233|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+151|58|46255|187250|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+152|5|46277|187367|Run-in FU Randomization|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+153|96|46306|187493|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+154|112|46318|187554|Month 6 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+155|105|46323|187578|Month 6 Visit|Sometimes|Most of the time|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never
+156|12|46339|187671|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+157|93|46374|187827|Month 6 Visit|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+158|205|46375|187835|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+159|131|46380|187853|Month 6 Visit|Never|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+160|148|46381|187859|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+161|113|46385|187878|Month 6 Visit|Never|Never|Never|Most of the time|Never|Never|Never|Never|Most of the time|Never
+162|118|46389|187898|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+163|27|46404|187963|Month 6 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never
+164|21|46408|187982|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+165|71|46415|188015|Run-in FU Randomization|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+166|89|46423|188057|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+167|135|46432|188107|Run-in FU Randomization|Never|Never|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never
+168|155|46435|188126|Month 6 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+169|72|46436|188133|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+170|59|46446|188196|Run-in FU Randomization|Never|Never|Never|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes
+171|120|46456|188241|Month 6 Visit|Never|All the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+172|102|46477|188339|Month 6 Visit|Most of the time|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+173|52|46479|188354|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+174|122|46484|188390|Run-in FU Randomization|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never
+175|88|46495|188448|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+176|14|46510|188535|Run-in FU Randomization|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+177|103|46526|188605|Month 6 Visit|Most of the time|Most of the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+178|46|46534|188645|Run-in FU Randomization|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+179|36|46537|188665|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+180|6|46543|188692|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+181|68|46549|188721|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+182|51|46552|188737|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+183|191|46554|188753|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+184|94|46560|188770|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+185|142|46608|188962|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+186|152|46639|189061|Run-in FU Randomization|Most of the time|Sometimes|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never
+187|136|46646|189100|Run-in FU Randomization|Never|Never|Sometimes|Never|Sometimes|Never|Never|All the time|Never|Sometimes
+188|165|46649|189120|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+189|225|46660|189171|Month 6 Visit|Sometimes|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never
+190|114|46675|189232|Run-in FU Randomization|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+191|149|46689|189300|Run-in FU Randomization|Never|Sometimes|Never|Most of the time|Never|Never|Sometimes|Sometimes|Most of the time|Never
+192|204|46691|189314|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+193|8|46696|189332|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+194|123|46708|189389|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+195|37|46721|189415|Month 6 Visit|Sometimes|All the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+196|171|46734|189473|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+197|181|46739|189494|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+198|11|46747|189546|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+199|81|46749|189560|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+200|147|46777|189684|Month 6 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+201|161|46778|189691|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+202|128|46799|189785|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+203|153|46802|189801|Month 6 Visit|All the time|Sometimes|Never|Never|Never|Sometimes|Most of the time|Never|Never|Sometimes
+204|216|46808|189822|Month 12 Visit|Sometimes|Sometimes|Never|Never|Most of the time|Never|Most of the time|Never|Never|Most of the time
+205|10|46810|189831|Month 12 Visit|Sometimes|All the time|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+206|146|46817|189865|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+207|214|46822|189890|Month 6 Visit|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never
+208|158|46831|189918|Run-in FU Randomization|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+209|138|46847|189980|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+210|23|46851|190025|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+211|221|46853|190039|Month 12 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+212|19|46873|190135|Month 6 Visit|Sometimes|Most of the time|Sometimes|Never|Sometimes|Never|Never|Sometimes|Never|Never
+213|151|46883|190184|Run-in FU Randomization|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never|Never|Never
+214|43|46885|190194|Month 6 Visit|Most of the time|All the time|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never
+215|100|46887|190207|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+216|210|46897|190243|Run-in FU Randomization|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never
+217|157|46914|190331|Month 6 Visit|Most of the time|Sometimes|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never
+218|130|46915|190337|Run-in FU Randomization|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+219|90|46921|190365|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+220|82|46929|190401|Month 12 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+221|215|46937|190429|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+222|87|46955|190501|Month 6 Visit|Most of the time|All the time|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+223|129|46961|190534|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+226|156|46971|190579|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+227|166|46973|190590|Month 6 Visit|Most of the time|All the time|Never|All the time|Never|Never|All the time|Never|All the time|Never
+228|164|46975|190603|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+229|107|46976|190610|Month 12 Visit|Sometimes|Most of the time|Sometimes|Never|Never|Never|Most of the time|Sometimes|Never|Never
+230|116|46988|190659|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+231|178|46989|190666|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+232|184|46991|190677|Month 12 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+233|40|47013|190876|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+234|47|47026|190944|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+235|34|47027|190951|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+236|18|47031|190975|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+237|76|47037|191002|Run-in FU Randomization|All the time|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never|Never
+238|35|47054|191072|Month 6 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Sometimes|Never|Never
+239|162|47060|191097|Month 12 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never
+240|173|47063|191108|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+241|22|47064|191115|Month 12 Visit|Sometimes|All the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+242|211|47066|191124|Month 6 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Sometimes|Never|Never
+243|219|47068|191144|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+244|224|47086|191213|Month 6 Visit|Most of the time|Most of the time|Never|Never|Sometimes|Never|All the time|Never|Never|Never
+245|190|47099|191260|Run-in FU Randomization|Never|Never|Never|Never|Most of the time|Never|Never|Never|Never|Sometimes
+246|168|47101|191276|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+247|79|47102|191285|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+248|194|47108|191311|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+249|30|47109|191317|Run-in FU Randomization|Sometimes|Never|Never|Most of the time|Sometimes|Never|Never|Never|Most of the time|Sometimes
+250|48|47115|191350|Month 12 Visit|Never|All the time|Never|Never|Most of the time|Never|Never|Never|Never|Never
+251|62|47118|191365|Month 6 Visit|All the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+252|109|47122|191389|Month 12 Visit|Never|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+253|150|47136|191432|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+254|179|47146|191474|Month 6 Visit|Sometimes|All the time|Sometimes|Never|Sometimes|Never|Most of the time|Never|Never|Most of the time
+255|186|47148|191487|Run-in FU Randomization|Never|Never|Never|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes
+256|133|47166|191567|Month 6 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+257|63|47169|191588|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+258|189|47175|191615|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+259|193|47177|191632|Month 12 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never
+260|38|47179|191647|Month 12 Visit|Sometimes|Never|Sometimes|Most of the time|Never|Never|Never|Sometimes|Sometimes|Never
+261|192|47185|191678|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+262|16|47195|191738|Run-in FU Randomization|Never|Never|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never
+263|101|47196|191746|Month 6 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+264|218|47197|191752|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+265|143|47206|191813|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+266|73|47207|191820|Month 6 Visit|Never|Sometimes|Sometimes|Never|Sometimes|Never|Sometimes|Sometimes|Never|Most of the time
+267|198|47216|191871|Month 6 Visit|Sometimes|Most of the time|Sometimes|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+268|75|47220|191895|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+269|31|47226|191919|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+270|115|47233|191943|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+271|3|47235|191961|Month 12 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never
+272|9|47255|192071|Month 12 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+273|145|47277|192147|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+274|172|47294|192226|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+275|32|47300|192255|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+276|54|47303|192275|Month 12 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never
+277|119|47304|192282|Month 12 Visit|Never|All the time|Never|Never|Never|Never|Never|Never|Never|Never
+278|24|47306|192297|Month 6 Visit|Never|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+279|39|47308|192307|Month 12 Visit|All the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+280|83|47311|192326|Month 6 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+281|176|47322|192369|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+282|44|47324|192382|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+283|137|47328|192408|Month 12 Visit|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+284|134|47331|192423|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+285|117|47335|192445|Month 12 Visit|All the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+286|77|47337|192460|Month 12 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never
+287|180|47355|192561|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+288|212|47359|192574|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+289|106|47360|192581|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+290|84|47366|192612|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+291|126|47372|192635|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+294|169|47415|192864|Month 6 Visit|Never|Sometimes|Sometimes|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+295|1|47426|192925|Month 12 Visit|Sometimes|Most of the time|Never|Never|Sometimes|Never|All the time|Never|Never|Sometimes
+296|55|47432|192969|Month 6 Visit|Sometimes|All the time|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never
+297|41|47437|192999|Month 6 Visit|Sometimes|Sometimes|Sometimes|Never|Sometimes|Never|Sometimes|Sometimes|Never|Never
+298|208|47439|193008|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+299|20|47448|193052|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+300|175|47451|193066|Month 6 Visit|All the time|Never|Never|Never|Never|Never|Sometimes|Never|Never|Never
+301|121|47452|193076|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+302|197|47466|193124|Run-in FU Randomization|Sometimes|Sometimes|Never|Sometimes|Sometimes|Never|Never|Sometimes|Never|Most of the time
+303|74|47468|193135|Run-in FU Randomization|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never
+304|33|47489|193197|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+305|111|47502|193251|Month 6 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+309|12|47538|193415|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+310|163|47545|193439|Month 12 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+311|64|47546|193446|Month 6 Visit|Most of the time|Most of the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+312|5|47550|193470|Month 6 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+313|213|47552|193480|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+314|99|47565|193545|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+315|58|47567|193554|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+316|207|47575|193579|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+317|57|47582|193604|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+318|25|47587|193639|Month 6 Visit|Sometimes|Most of the time|Never|Never|Sometimes|Never|All the time|Never|Never|Never
+319|91|47588|193645|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+320|93|47637|193831|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+321|112|47654|193897|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+322|96|47656|193908|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+323|85|47661|193934|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+324|135|47666|193960|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+325|27|47676|194012|Month 12 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+326|154|47677|194018|Run-in FU Randomization|All the time|All the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+327|89|47681|194040|Month 6 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+328|174|47690|194080|Run-in FU Randomization|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never
+329|59|47691|194088|Month 6 Visit|Sometimes|All the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+330|105|47708|194183|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Sometimes|Never|Never|Never
+331|185|47711|194200|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+332|80|47715|194219|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+333|21|47725|194279|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+334|15|47733|194324|Run-in FU Randomization|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+335|97|47761|194432|Run-in FU Randomization|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never
+336|202|47764|194458|Run-in FU Randomization|All the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+337|205|47766|194474|Month 12 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Most of the time|Never|Never|Never
+338|98|47777|194531|Run-in FU Randomization|Never|Never|Never|Never|Most of the time|Never|Never|Never|Never|Most of the time
+339|29|47786|194578|Run-in FU Randomization|All the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+340|159|47788|194589|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+341|155|47798|194638|Month 12 Visit|Sometimes|Sometimes|Never|All the time|Never|Never|Sometimes|Never|Most of the time|Never
+342|113|47811|194697|Month 12 Visit|Never|Never|Sometimes|Most of the time|Never|Never|Never|Sometimes|Never|Never
+343|6|47843|194820|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+344|86|47844|194833|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Sometimes|Sometimes|Sometimes|Sometimes|Sometimes
+345|72|47845|194842|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+346|127|47847|194852|Run-in FU Randomization|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+347|4|47849|194863|Run-in FU Randomization|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+348|14|47872|194969|Month 6 Visit|All the time|All the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+349|68|47883|195024|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+350|120|47884|195032|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+351|183|47890|195061|Run-in FU Randomization|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+352|196|47891|195068|Run-in FU Randomization|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never|Sometimes
+353|131|47903|195123|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+354|53|47904|195130|Run-in FU Randomization|Sometimes|All the time|Never|Sometimes|All the time|Never|Never|Sometimes|Never|Sometimes
+355|103|47907|195144|Month 12 Visit|Most of the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+356|36|47908|195151|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+357|26|47916|195193|Run-in FU Randomization|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+358|71|47939|195279|Month 6 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+359|122|47940|195286|Month 6 Visit|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never
+360|102|47954|195349|Month 12 Visit|Sometimes|Never|Never|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes
+361|200|47955|195359|Run-in FU Randomization|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+362|167|47971|195442|Month 12 Visit|Never|Sometimes|Most of the time|Never|Sometimes|Never|Sometimes|Never|Never|Never
+363|88|47975|195463|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+364|52|47978|195475|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+365|152|47980|195484|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+366|11|47989|195537|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+367|46|47994|195565|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+368|191|47999|195585|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+369|51|48003|195612|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+370|223|48006|195627|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+371|124|48015|195687|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+372|142|48019|195703|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+373|141|48025|195723|Run-in FU Randomization|Never|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never
+374|8|48028|195740|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+375|125|48029|195746|Run-in FU Randomization|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+376|94|48034|195778|Month 6 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+377|177|48063|195894|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+378|204|48064|195904|Month 6 Visit|Sometimes|Sometimes|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never
+379|28|48071|195966|Run-in FU Randomization|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+380|138|48089|196079|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+381|136|48104|196175|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Sometimes|Never|Never
+382|149|48130|196280|Month 6 Visit|Sometimes|Most of the time|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never
+383|161|48143|196339|Month 12 Visit|Sometimes|All the time|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never
+384|123|48147|196359|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+385|146|48153|196409|Month 12 Visit|Never|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+386|158|48159|196436|Month 6 Visit|Most of the time|Sometimes|Never|Never|Never|Never|Most of the time|Never|Never|Never
+387|128|48160|196443|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+388|215|48240|196714|Month 6 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never
+389|18|48243|196724|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+390|165|48245|196733|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+391|81|48249|196751|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+392|216|48250|196758|Month 18 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+393|224|48252|196772|Month 12 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|All the time|Never|Never|Never
+394|171|48259|196792|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+395|181|48260|196799|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Sometimes
+396|37|48262|196813|Month 12 Visit|Most of the time|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+397|34|48264|196821|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+398|90|48265|196828|Month 6 Visit|Most of the time|All the time|Sometimes|Never|Never|Never|All the time|Never|Never|Never
+399|166|48266|196835|Month 12 Visit|Sometimes|Most of the time|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never
+400|157|48267|196842|Month 12 Visit|All the time|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+401|114|48270|196855|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+402|82|48271|196862|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Sometimes
+403|178|48272|196869|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+404|116|48273|196876|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+405|10|48274|196883|Month 18 Visit|All the time|All the time|Never|Never|Sometimes|Never|All the time|Never|Never|Sometimes
+406|147|48275|196890|Month 12 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+407|40|48276|196898|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+408|87|48277|196906|Month 12 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+409|164|48278|196915|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+410|129|48279|196922|Month 12 Visit|Never|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+411|210|48284|196937|Month 6 Visit|Sometimes|All the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+412|19|48285|196946|Month 12 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+413|35|48290|196988|Month 12 Visit|Sometimes|All the time|Sometimes|Never|Never|Never|Most of the time|Never|Never|Never
+414|109|48291|196996|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Sometimes|Never
+415|22|48293|197009|Month 18 Visit|Never|Most of the time|Never|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes
+416|130|48294|197016|Month 6 Visit|Never|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+417|47|48302|197037|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+418|214|48308|197061|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Sometimes|Never|Never
+419|221|48311|197071|Month 18 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+420|168|48312|197078|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+421|79|48313|197087|Month 12 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+422|194|48315|197096|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+423|184|48317|197105|Month 18 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+424|16|48323|197138|Month 6 Visit|Never|Sometimes|Never|Sometimes|Never|Never|Never|Never|Never|Never
+425|48|48325|197150|Month 18 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never
+426|156|48327|197166|Month 12 Visit|Never|Sometimes|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never
+427|101|48328|197173|Month 12 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Sometimes|Never|Never
+428|153|48329|197180|Month 12 Visit|All the time|Never|Never|Never|Never|Never|Sometimes|Never|Never|Never
+429|62|48331|197203|Month 12 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+430|30|48332|197210|Month 6 Visit|Never|Sometimes|Never|Never|All the time|Never|Never|Never|Never|All the time
+431|107|48341|197263|Month 18 Visit|Sometimes|All the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+432|190|48342|197270|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+433|63|48344|197283|Month 18 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+434|9|48345|197290|Month 18 Visit|Most of the time|Most of the time|Never|Never|Most of the time|Never|Most of the time|Most of the time|Never|Most of the time
+435|179|48348|197311|Month 12 Visit|Never|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+436|173|48359|197351|Month 12 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+437|211|48360|197362|Month 12 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never
+438|75|48361|197369|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+439|31|48362|197376|Month 6 Visit|Never|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never
+440|150|48365|197394|Month 6 Visit|Never|Sometimes|Sometimes|Most of the time|Never|Never|Never|Sometimes|Sometimes|Never
+441|186|48369|197405|Month 6 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+442|43|48374|197433|Month 12 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+443|133|48376|197444|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+444|83|48385|197490|Month 12 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+445|39|48386|197497|Month 18 Visit|Most of the time|All the time|Never|Never|Never|Never|Never|Never|Never|Never
+446|55|48395|197553|Month 12 Visit|Sometimes|All the time|Never|Never|Sometimes|Sometimes|All the time|Never|Never|Sometimes
+447|145|48400|197577|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+448|3|48401|197584|Month 18 Visit|Sometimes|All the time|Never|Never|Never|Never|Never|Never|Never|Never
+449|193|48403|197592|Month 18 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+450|44|48404|197599|Month 18 Visit|Never|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+451|38|48405|197606|Month 18 Visit|Sometimes|Sometimes|Sometimes|Never|Sometimes|Never|Sometimes|Sometimes|Never|Never
+452|192|48406|197613|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+453|143|48408|197621|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+454|189|48410|197635|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+455|218|48412|197652|Month 6 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+456|162|48414|197671|Month 18 Visit|Most of the time|Most of the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+457|106|48416|197680|Month 12 Visit|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+458|172|48417|197687|Month 6 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+459|151|48420|197707|Month 6 Visit|Sometimes|Most of the time|Most of the time|Sometimes|Sometimes|Never|Sometimes|Never|Sometimes|Sometimes
+460|100|48433|197753|Month 12 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+461|198|48434|197760|Month 12 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Sometimes|Never|Sometimes
+462|24|48442|197805|Month 12 Visit|Never|All the time|Never|Never|Sometimes|Never|All the time|Never|Never|Sometimes
+463|33|48447|197832|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+464|119|48448|197841|Month 18 Visit|Never|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+465|54|48450|197857|Month 18 Visit|All the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+466|84|48451|197867|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+467|169|48456|197897|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+468|64|48459|197916|Month 12 Visit|Most of the time|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+469|115|48460|197923|Month 12 Visit|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+470|134|48464|197941|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+471|73|48467|197956|Month 12 Visit|Sometimes|Never|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never
+472|212|48468|197963|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+473|99|48478|198008|Month 12 Visit|Sometimes|Sometimes|Never|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes
+474|32|48480|198017|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+475|176|48481|198024|Month 6 Visit|All the time|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+476|20|48483|198042|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+477|76|48484|198049|Month 6 Visit|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+478|41|48485|198056|Month 12 Visit|Sometimes|Sometimes|Sometimes|Sometimes|Sometimes|Never|Sometimes|Sometimes|Sometimes|Sometimes
+479|175|48513|198207|Month 12 Visit|All the time|All the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+480|208|48516|198222|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+481|121|48519|198237|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+482|180|48521|198245|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+483|126|48524|198258|Month 6 Visit|All the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+484|77|48527|198276|Month 18 Visit|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never
+485|219|48528|198285|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+486|1|48548|198383|Month 18 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|All the time|Never|Never|Never
+487|74|48550|198400|Month 6 Visit|Most of the time|All the time|Sometimes|Never|Never|Never|Most of the time|Never|Never|Never
+488|117|48552|198409|Month 18 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+489|111|48553|198416|Month 12 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Sometimes|Sometimes|Sometimes|Never|Never
+490|197|48576|198503|Month 6 Visit|Never|All the time|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never
+491|91|48584|198556|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+492|159|48594|198603|Month 6 Visit|Sometimes|All the time|Sometimes|Never|Never|Never|Never|Never|Never|Never
+493|85|48602|198642|Month 6 Visit|Most of the time|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+494|163|48604|198658|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+495|112|48606|198666|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+496|12|48609|198675|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+497|174|48613|198700|Month 6 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+498|25|48615|198709|Month 12 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+499|93|48623|198774|Month 18 Visit|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never|Sometimes
+500|148|48631|198826|Month 12 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+501|80|48640|198896|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+502|105|48641|198903|Month 18 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+503|5|48645|198933|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+504|213|48646|198940|Month 12 Visit|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never
+505|205|48648|198949|Month 18 Visit|All the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+506|89|48649|198956|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+507|154|48655|198998|Month 6 Visit|Sometimes|All the time|Never|Never|Never|Never|Never|Never|Never|Never
+508|96|48671|199095|Month 18 Visit|Sometimes|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never
+509|113|48679|199131|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+510|58|48681|199146|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+511|97|48686|199189|Month 6 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes
+512|131|48691|199221|Month 18 Visit|All the time|All the time|Never|Never|Never|Never|All the time|Sometimes|Never|Never
+513|202|48692|199229|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+514|88|48694|199243|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+520|207|48706|199348|Month 6 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+522|122|48717|199403|Month 12 Visit|Never|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never|Never
+523|86|48718|199411|Month 6 Visit|Sometimes|Sometimes|Never|Sometimes|Never|Never|Never|Never|Never|Never
+524|98|48721|199431|Month 6 Visit|Never|All the time|Never|Never|Most of the time|Never|Sometimes|Never|Never|Most of the time
+525|27|48724|199448|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+526|71|48727|199468|Month 12 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+527|4|48733|199529|Month 6 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+528|46|48742|199555|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+529|36|48749|199594|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+530|103|48754|199621|Month 18 Visit|Most of the time|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+531|155|48755|199629|Month 18 Visit|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+532|183|48756|199637|Month 6 Visit|Most of the time|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+533|68|48764|199698|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+534|120|48766|199713|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+535|15|48769|199726|Month 6 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never
+536|200|48775|199744|Month 6 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+537|59|48777|199763|Month 12 Visit|Most of the time|All the time|Never|Never|Sometimes|Never|Most of the time|Never|Never|Sometimes
+538|102|48781|199786|Month 18 Visit|Sometimes|Sometimes|Never|Sometimes|Never|Never|Most of the time|Never|Never|Never
+539|72|48783|199803|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+540|135|48788|199828|Month 12 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never
+541|29|48789|199837|Month 6 Visit|All the time|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+542|14|48790|199845|Month 12 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Sometimes|Never
+543|52|48792|199860|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+544|6|48794|199879|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+545|21|48796|199889|Month 18 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never
+546|191|48801|199921|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+547|53|48803|199931|Month 6 Visit|All the time|All the time|Never|Never|All the time|Never|All the time|Never|Never|All the time
+548|171|48804|199939|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+549|165|48821|200047|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+550|127|48829|200095|Month 6 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never
+551|196|48831|200105|Month 6 Visit|Never|Sometimes|Never|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes
+552|51|48842|200152|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+553|223|48845|200169|Month 6 Visit|Most of the time|All the time|Never|Sometimes|Sometimes|Never|All the time|Most of the time|Sometimes|Sometimes
+554|94|48848|200180|Month 12 Visit|Never|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never
+555|81|48853|200201|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+556|125|48854|200209|Month 6 Visit|Sometimes|All the time|Sometimes|Never|Never|Never|All the time|All the time|Never|Never
+557|124|48862|200254|Month 6 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+558|177|48866|200296|Month 6 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Sometimes|Never|Sometimes
+559|204|48868|200311|Month 12 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never
+560|8|48871|200337|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+561|141|48886|200439|Month 6 Visit|Sometimes|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Never|Never
+562|136|48887|200448|Month 12 Visit|Sometimes|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes|Never|Never
+563|26|48888|200459|Month 6 Visit|Most of the time|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+564|28|48890|200477|Month 6 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+565|123|48891|200485|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+566|146|48892|200497|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+567|149|48894|200510|Month 12 Visit|Never|Most of the time|Never|Sometimes|Never|Never|Most of the time|Never|Sometimes|Never
+568|114|48896|200519|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+569|10|48897|200528|Month 24 Visit|All the time|All the time|Never|Never|Sometimes|Never|All the time|Never|Never|Sometimes
+570|152|48915|200625|Month 12 Visit|Never|Sometimes|Sometimes|Never|Sometimes|Never|Never|Never|Never|Sometimes
+571|128|48932|200729|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+572|19|48939|200776|Month 18 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes|Sometimes|Never|Sometimes
+573|161|48942|200797|Month 18 Visit|Sometimes|Most of the time|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+574|151|48947|200833|Month 12 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never
+575|142|48948|200841|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+576|37|48949|200849|Month 18 Visit|All the time|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+577|100|48959|200891|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+578|90|48963|200913|Month 12 Visit|All the time|All the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+579|158|48966|200931|Month 12 Visit|Never|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+580|216|48970|200950|Month 24 Visit|Sometimes|Most of the time|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+581|9|48982|201008|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|All the time|Never|Never
+582|147|48987|201047|Month 18 Visit|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+583|153|48995|201083|Month 18 Visit|Most of the time|Most of the time|Never|Never|Sometimes|Never|Most of the time|Sometimes|Never|Sometimes
+584|214|49001|201120|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+585|210|49002|201130|Month 12 Visit|Most of the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+586|157|49004|201148|Month 18 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never
+587|43|49006|201168|Month 18 Visit|All the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+588|107|49009|201186|Month 24 Visit|Sometimes|All the time|Sometimes|Never|Never|Never|All the time|Sometimes|All the time|All the time
+589|138|49016|201216|Month 18 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+590|35|49018|201226|Month 18 Visit|Most of the time|Sometimes|Never|Never|Never|Never|All the time|Never|Never|Never
+591|87|49029|201267|Month 18 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never
+592|130|49032|201287|Month 12 Visit|All the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+593|48|49044|201369|Month 24 Visit|Never|All the time|Never|Never|Most of the time|Never|Never|Never|Never|Never
+594|190|49046|201387|Month 12 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+595|164|49048|201405|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+596|193|49051|201424|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Sometimes|Never|Never
+597|109|49057|201442|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+598|156|49063|201460|Month 18 Visit|Never|Most of the time|Sometimes|Sometimes|Sometimes|Never|Never|Never|Never|Never
+599|215|49064|201468|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+600|129|49065|201476|Month 18 Visit|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+604|47|49077|201553|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+605|166|49078|201561|Month 18 Visit|Sometimes|All the time|Sometimes|Never|Never|Never|Most of the time|Never|Never|Never
+606|225|49079|201569|Month 18 Visit|All the time|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+608|34|49087|201620|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+609|22|49090|201639|Month 24 Visit|Never|All the time|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+610|181|49091|201647|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+611|40|49094|201672|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+612|224|49099|201704|Month 18 Visit|Most of the time|All the time|Never|Sometimes|Most of the time|Never|Most of the time|Never|Sometimes|Never
+613|18|49100|201712|Month 12 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+614|186|49101|201720|Month 12 Visit|Never|Sometimes|Sometimes|Never|Sometimes|Sometimes|Never|Sometimes|Never|Most of the time
+615|219|49102|201728|Month 24 Visit|Never|Sometimes|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never
+616|44|49106|201763|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+617|11|49107|201773|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+618|119|49110|201799|Month 24 Visit|Never|All the time|Never|Never|Never|Never|Never|Never|Never|Never
+619|218|49111|201807|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+620|82|49113|201817|Month 24 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+621|184|49115|201835|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+622|76|49116|201844|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+623|189|49117|201852|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+624|150|49119|201863|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+625|75|49121|201881|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+626|221|49123|201891|Month 24 Visit|Never|Sometimes|Never|Never|Most of the time|Never|Never|Never|Never|Most of the time
+627|173|49125|201901|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+628|211|49127|201919|Month 18 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+629|30|49132|201947|Month 12 Visit|Never|Most of the time|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never
+630|121|49135|201959|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+631|38|49137|201969|Month 24 Visit|Sometimes|Sometimes|Never|Most of the time|Never|Never|Never|Never|Sometimes|Never
+632|73|49138|201977|Month 18 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Most of the time
+633|133|49141|201989|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+634|179|49142|201997|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+635|194|49145|202021|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+636|192|49148|202043|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+637|31|49156|202084|Month 12 Visit|Sometimes|All the time|Never|Sometimes|Never|Never|All the time|Never|Sometimes|Never
+638|62|49158|202094|Month 18 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+639|143|49160|202116|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+640|55|49161|202124|Month 18 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+641|172|49167|202172|Month 12 Visit|All the time|Sometimes|Never|Never|Never|Never|Sometimes|Sometimes|Sometimes|Never
+642|180|49173|202201|Month 18 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never
+643|145|49178|202233|Month 12 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+644|16|49181|202251|Month 12 Visit|Never|Never|Never|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never
+645|198|49185|202274|Month 18 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+646|134|49186|202282|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+647|178|49188|202295|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+648|116|49189|202303|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+649|41|49190|202311|Month 18 Visit|Sometimes|All the time|Never|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes
+650|115|49191|202319|Month 18 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+651|101|49194|202336|Month 18 Visit|Never|Never|Never|Never|All the time|Never|Never|Never|Never|Sometimes
+652|126|49195|202345|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+653|168|49199|202370|Month 24 Visit|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never
+654|79|49200|202378|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+655|54|49201|202386|Month 24 Visit|Sometimes|Most of the time|Sometimes|Never|Never|Never|All the time|Never|Never|Never
+656|83|49202|202394|Month 18 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+657|39|49203|202402|Month 24 Visit|All the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+658|63|49204|202417|Month 24 Visit|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+659|162|49216|202459|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Sometimes|Never|Never
+660|24|49218|202471|Month 18 Visit|Most of the time|Most of the time|Never|Never|Sometimes|Never|All the time|Never|Never|All the time
+661|197|49219|202479|Month 12 Visit|Sometimes|Most of the time|Sometimes|Never|Sometimes|Never|Sometimes|Sometimes|Never|Never
+662|1|49221|202498|Month 24 Visit|Sometimes|Most of the time|Never|Never|Sometimes|Never|Most of the time|Never|Never|Never
+663|99|49225|202512|Month 18 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Sometimes|Sometimes|Never|Never
+664|3|49226|202520|Month 24 Visit|Sometimes|All the time|Never|Sometimes|Most of the time|Never|All the time|Never|Never|Never
+665|117|49229|202532|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+666|212|49234|202556|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+667|33|49235|202564|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+668|106|49240|202587|Month 18 Visit|All the time|Never|Never|Never|Sometimes|Never|All the time|Never|Never|Never
+669|20|49242|202598|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+670|176|49246|202633|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+671|93|49249|202652|Month 24 Visit|Never|Sometimes|Most of the time|Never|Sometimes|Never|Never|Sometimes|Never|Most of the time
+672|64|49252|202681|Month 18 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Never|Most of the time|Never|Never
+673|175|49259|202711|Month 18 Visit|All the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+674|74|49264|202744|Month 12 Visit|All the time|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Sometimes
+675|111|49266|202770|Month 18 Visit|Sometimes|Most of the time|Never|Never|Never|Sometimes|Most of the time|Never|Never|Never
+676|96|49267|202782|Month 24 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Never|Sometimes|Sometimes|Sometimes
+677|208|49268|202790|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+678|27|49271|202802|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+679|32|49274|202817|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+680|77|49275|202825|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+681|131|49278|202846|Month 24 Visit|Sometimes|Never|Never|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes
+682|169|49279|202854|Month 18 Visit|Never|Sometimes|Sometimes|Never|Sometimes|Never|Never|Never|Never|Never
+684|5|49286|202896|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+685|205|49287|202904|Month 24 Visit|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+686|213|49288|202912|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+687|174|49293|202961|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+689|91|49297|202983|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+690|72|49305|203027|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+691|207|49310|203056|Month 12 Visit|Sometimes|All the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+692|85|49321|203127|Month 12 Visit|Sometimes|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+693|113|49322|203135|Month 24 Visit|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+694|84|49323|203143|Month 24 Visit|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+695|25|49327|203173|Month 18 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+696|154|49328|203182|Month 12 Visit|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+697|202|49330|203202|Month 12 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+698|58|49333|203226|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+699|163|49336|203251|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+700|51|49337|203262|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+701|89|49339|203277|Month 18 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+702|103|49341|203298|Month 24 Visit|All the time|Sometimes|Never|Never|Never|Never|Most of the time|Never|Never|Never
+703|148|49343|203312|Month 18 Visit|Never|Never|Most of the time|Never|Never|Never|Never|Never|Never|Never
+704|159|49344|203322|Month 12 Visit|Sometimes|Most of the time|Sometimes|Sometimes|Never|Never|Never|Sometimes|Never|Never
+705|102|49345|203332|Month 24 Visit|Sometimes|All the time|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+706|80|49353|203374|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+707|98|49365|203440|Month 12 Visit|Never|Sometimes|Sometimes|Never|Most of the time|Never|Never|Sometimes|Never|Most of the time
+708|71|49381|203554|Month 18 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+709|112|49383|203566|Month 24 Visit|Never|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never
+710|127|49385|203576|Month 12 Visit|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never
+711|155|49387|203586|Month 24 Visit|Sometimes|Sometimes|Never|Sometimes|Sometimes|Never|Never|Never|Sometimes|Never
+712|135|49389|203598|Month 18 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+713|29|49391|203608|Month 12 Visit|All the time|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+714|12|49392|203616|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+715|97|49398|203634|Month 12 Visit|Never|Sometimes|Never|Most of the time|Most of the time|Never|Never|Never|Never|Never
+716|36|49405|203678|Month 18 Visit|Never|Most of the time|Never|Never|Sometimes|Never|Never|Never|Never|Never
+717|59|49412|203717|Month 18 Visit|Sometimes|All the time|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+718|86|49439|203815|Month 12 Visit|Sometimes|Most of the time|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never
+719|53|49446|203874|Month 12 Visit|All the time|All the time|Sometimes|All the time|All the time|Never|All the time|All the time|All the time|All the time
+720|105|49447|203882|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+721|122|49448|203890|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+722|120|49449|203898|Month 24 Visit|Never|All the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+723|88|49454|203935|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+724|196|49459|203969|Month 12 Visit|Never|Never|Never|Sometimes|Most of the time|Never|Never|Never|Sometimes|Sometimes
+725|26|49461|203981|Month 12 Visit|Most of the time|Sometimes|Never|Sometimes|Sometimes|Never|Sometimes|Never|Sometimes|Sometimes
+726|43|49470|204022|Month 24 Visit|All the time|All the time|Never|Never|Never|Never|All the time|Never|Never|Never
+727|124|49471|204030|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+728|167|49478|204076|Month 24 Visit|All the time|Never|All the time|Never|Never|Never|Never|Never|Never|Never
+729|14|49481|204096|Month 18 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+730|200|49490|204134|Month 12 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Sometimes|Sometimes|Never|Never|Sometimes
+731|68|49492|204150|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+732|28|49494|204169|Month 12 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+733|114|49499|204193|Month 18 Visit|Never|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+735|46|49509|204242|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+736|183|49513|204269|Month 12 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+737|4|49519|204307|Month 12 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+738|177|49520|204316|Month 12 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never
+739|52|49523|204340|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+740|6|49524|204349|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+741|19|49525|204357|Month 24 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes
+742|8|49526|204370|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+743|152|49532|204413|Month 18 Visit|Sometimes|Sometimes|Sometimes|Never|Sometimes|Never|Never|Never|Never|Never
+744|21|49539|204464|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+745|141|49541|204474|Month 12 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+746|132|49543|204488|Month 24 Visit|Most of the time|Never|Never|Never|All the time|Never|Never|Never|Never|All the time
+747|214|49550|204502|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+748|147|49552|204511|Month 24 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never
+749|136|49554|204526|Month 18 Visit|Sometimes|Sometimes|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never
+750|225|49555|204534|Month 24 Visit|All the time|Sometimes|Never|Sometimes|Sometimes|Never|Sometimes|Never|Sometimes|Sometimes
+751|146|49560|204562|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+752|123|49562|204579|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+753|165|49564|204598|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+754|125|49569|204641|Month 12 Visit|Sometimes|Never|Never|Never|Never|Never|Sometimes|Never|Never|Never
+755|142|49574|204669|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+756|94|49575|204678|Month 18 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Sometimes|Never|Sometimes
+757|204|49581|204711|Month 18 Visit|Sometimes|Sometimes|Never|Sometimes|Sometimes|Never|Sometimes|Never|Sometimes|Sometimes
+758|149|49589|204768|Month 18 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+759|100|49593|204808|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+760|191|49598|204833|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+761|128|49614|204937|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+762|15|49630|205032|Month 12 Visit|All the time|All the time|Never|Never|Most of the time|Never|All the time|Never|Never|Most of the time
+763|158|49640|205098|Month 18 Visit|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+764|37|49645|205136|Month 24 Visit|All the time|Most of the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+765|130|49648|205156|Month 18 Visit|Most of the time|All the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+766|11|49651|205178|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+767|166|49664|205252|Month 24 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never
+768|90|49666|205270|Month 18 Visit|Sometimes|Most of the time|Sometimes|Never|Sometimes|Never|All the time|Most of the time|Never|Sometimes
+769|157|49678|205350|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+772|210|49687|205410|Month 18 Visit|Most of the time|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+773|161|49696|205468|Month 24 Visit|Sometimes|Sometimes|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never
+774|151|49707|205534|Month 18 Visit|Sometimes|Most of the time|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never
+775|224|49714|205578|Month 24 Visit|Sometimes|Most of the time|Most of the time|All the time|Never|Never|Most of the time|Never|Never|Never
+776|156|49727|205656|Month 24 Visit|All the time|Most of the time|Sometimes|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+777|40|49735|205692|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+778|164|49738|205709|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+779|79|49741|205733|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+780|87|49742|205744|Month 24 Visit|All the time|All the time|Never|Sometimes|All the time|Never|All the time|Never|Sometimes|All the time
+781|76|49747|205787|Month 18 Visit|Sometimes|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+782|198|49753|205820|Month 24 Visit|Most of the time|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+783|101|49759|205875|Month 24 Visit|All the time|Never|Never|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes
+784|18|49764|205899|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+785|181|49767|205915|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+786|215|49777|205982|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+787|129|49779|206000|Month 24 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+788|179|49794|206098|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+789|189|49808|206179|Month 18 Visit|All the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+790|75|49819|206219|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+791|192|49828|206266|Month 18 Visit|Sometimes|All the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+792|186|49830|206277|Month 18 Visit|Sometimes|Never|Sometimes|Never|Sometimes|Never|Sometimes|Most of the time|Never|Sometimes
+793|16|49831|206285|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+794|173|49846|206374|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+795|211|49847|206382|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Most of the time|Never|Never|Never
+796|34|49853|206422|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+797|30|49855|206437|Month 18 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+798|47|49860|206465|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+799|35|49865|206514|Month 24 Visit|Sometimes|Most of the time|Never|All the time|Never|Never|Sometimes|Never|Sometimes|Never
+800|218|49867|206524|Month 18 Visit|Most of the time|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+801|153|49874|206556|Month 24 Visit|Sometimes|Most of the time|Never|Never|Never|Sometimes|Sometimes|Never|Never|Never
+802|190|49880|206590|Month 18 Visit|Never|All the time|Never|Never|All the time|Never|Never|Never|Never|Most of the time
+803|106|49890|206644|Month 24 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never
+804|150|49902|206711|Month 18 Visit|Never|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never
+805|115|49921|206801|Month 24 Visit|Sometimes|Never|Never|Sometimes|Sometimes|Never|Never|Never|Never|Never
+806|99|49926|206848|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+809|176|49940|206952|Month 18 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never
+810|180|49945|206985|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+811|31|49946|206996|Month 18 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never
+812|133|49948|207014|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+813|41|49953|207052|Month 24 Visit|Sometimes|Sometimes|Sometimes|Sometimes|Sometimes|Never|Never|Sometimes|Sometimes|Never
+814|145|49959|207100|Month 18 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+815|134|49965|207133|Month 18 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+816|62|49969|207168|Month 24 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+817|64|49974|207208|Month 24 Visit|Most of the time|All the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+818|55|49975|207216|Month 24 Visit|Sometimes|Most of the time|Never|Sometimes|Most of the time|Never|Most of the time|Sometimes|Never|All the time
+819|169|49977|207236|Month 24 Visit|Never|Never|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never
+820|172|49980|207257|Month 18 Visit|All the time|All the time|Sometimes|Never|Never|Never|All the time|Never|Never|Never
+821|83|49990|207305|Month 24 Visit|Most of the time|Most of the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+822|175|50000|207367|Month 24 Visit|All the time|Sometimes|All the time|Sometimes|Most of the time|Never|All the time|Never|All the time|Sometimes
+823|197|50001|207375|Month 18 Visit|Most of the time|Sometimes|Sometimes|Never|Sometimes|Never|All the time|Never|Never|Sometimes
+824|111|50003|207393|Month 24 Visit|Most of the time|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+825|73|50004|207401|Month 24 Visit|Sometimes|Sometimes|Sometimes|Never|Sometimes|Never|Sometimes|Sometimes|Never|Sometimes
+826|143|50007|207413|Month 24 Visit|All the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+827|208|50009|207433|Month 24 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never
+828|74|50022|207529|Month 18 Visit|Sometimes|Sometimes|Never|Most of the time|Sometimes|Never|Sometimes|Never|Most of the time|Never
+829|20|50038|207616|Month 18 Visit|Never|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+830|223|50049|207675|Month 18 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+831|33|50055|207722|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+832|126|50056|207730|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+833|212|50072|207830|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+834|24|50083|207882|Month 24 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes
+835|91|50097|207988|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+836|174|50127|208201|Month 18 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never
+837|85|50130|208228|Month 18 Visit|Most of the time|All the time|Never|Never|Never|Never|Sometimes|Never|Never|Never
+838|68|50133|208244|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+839|5|50135|208259|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+840|213|50153|208389|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+841|202|50157|208423|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+842|196|50164|208475|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+843|98|50165|208484|Month 18 Visit|Never|All the time|Sometimes|Never|Most of the time|Never|Most of the time|Sometimes|Never|Most of the time
+844|159|50168|208510|Month 18 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+845|14|50181|208596|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+846|59|50182|208607|Month 24 Visit|Never|All the time|Never|Never|Sometimes|Never|Sometimes|Sometimes|Never|Never
+847|154|50184|208625|Month 18 Visit|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never|Never
+848|97|50187|208651|Month 18 Visit|Never|Never|Sometimes|Sometimes|Sometimes|Never|Never|Never|Never|Sometimes
+849|80|50195|208712|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+850|4|50200|208750|Month 18 Visit|Most of the time|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+851|135|50202|208766|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+852|12|50204|208780|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+853|127|50209|208819|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+854|25|50215|208872|Month 24 Visit|Sometimes|Most of the time|Never|Never|Sometimes|Never|Sometimes|Never|Never|Never
+855|165|50216|208880|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+856|114|50217|208888|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+857|94|50221|208903|Month 24 Visit|Never|Sometimes|Sometimes|Never|Sometimes|Never|Never|Sometimes|Never|Sometimes
+858|58|50226|208925|Month 24 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+859|207|50228|208935|Month 18 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+860|36|50229|208943|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+861|148|50234|208975|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+862|89|50241|209022|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+863|15|50245|209060|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+864|152|50247|209078|Month 24 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes
+865|86|50252|209105|Month 18 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+866|46|50254|209123|Month 24 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+867|149|50261|209164|Month 24 Visit|Never|Sometimes|Sometimes|Sometimes|Never|Never|Sometimes|Never|Never|Never
+868|122|50273|209219|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+869|29|50302|209450|Month 18 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+870|71|50307|209496|Month 24 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+871|28|50309|209516|Month 18 Visit|Sometimes|Sometimes|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+872|125|50313|209554|Month 18 Visit|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never|Never
+873|124|50316|209582|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+874|158|50319|209610|Month 24 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+875|183|50321|209628|Month 18 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+876|53|50329|209692|Month 18 Visit|All the time|Sometimes|Never|All the time|All the time|All the time|All the time|All the time|All the time|All the time
+877|200|50335|209746|Month 18 Visit|Sometimes|Sometimes|Sometimes|Never|Sometimes|Sometimes|Sometimes|Sometimes|Never|Sometimes
+878|141|50345|209810|Month 18 Visit|Sometimes|Most of the time|Never|Most of the time|Never|Never|Never|Never|Never|Never
+879|88|50355|209861|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+880|177|50369|209951|Month 18 Visit|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+881|90|50371|209965|Month 24 Visit|Most of the time|All the time|Sometimes|Never|Sometimes|Never|All the time|Sometimes|Sometimes|Sometimes
+882|151|50384|210055|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+883|8|50405|210192|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+884|204|50417|210290|Month 24 Visit|Sometimes|Sometimes|Never|Sometimes|Never|Never|Sometimes|Sometimes|Sometimes|Never
+885|130|50425|210340|Month 24 Visit|All the time|All the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+886|26|50435|210421|Month 18 Visit|Most of the time|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+887|40|50439|210444|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+888|76|50444|210480|Month 24 Visit|Never|Never|Sometimes|Never|Never|Never|Never|Never|Never|Never
+889|136|50448|210510|Month 24 Visit|All the time|Sometimes|Never|Never|Never|Never|Sometimes|Never|Never|Never
+890|128|50471|210671|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+891|210|50473|210691|Month 24 Visit|All the time|Sometimes|Never|Never|Sometimes|Never|All the time|Never|Never|Sometimes
+892|30|50500|210883|Month 24 Visit|Never|Sometimes|Sometimes|Never|Most of the time|Never|Sometimes|Sometimes|Never|Sometimes
+893|215|50501|210891|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+894|186|50518|211008|Month 24 Visit|Sometimes|Sometimes|Sometimes|Never|Sometimes|Most of the time|Most of the time|Sometimes|Never|Sometimes
+895|18|50543|211207|Month 24 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+896|16|50578|211435|Month 24 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Sometimes|Sometimes
+897|150|50614|211651|Month 24 Visit|Never|Sometimes|Never|Never|Never|Sometimes|Never|Never|Never|Never
+898|192|50646|211878|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+899|218|50662|212009|Month 24 Visit|Sometimes|Sometimes|Most of the time|Never|Never|Never|Never|Never|Never|Never
+900|190|50672|212076|Month 24 Visit|Never|Sometimes|Never|Never|Sometimes|Never|Never|Never|Never|Never
+901|172|50677|212113|Month 24 Visit|Sometimes|Sometimes|Never|All the time|Never|Never|Sometimes|Never|Never|Never
+902|197|50715|212401|Month 24 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never
+903|134|50720|212445|Month 24 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never|Never
+904|189|50768|212783|Month 24 Visit|Most of the time|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+905|74|50776|212842|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+906|20|50796|212984|Month 24 Visit|Sometimes|Most of the time|Never|Never|Never|Never|Never|Never|Never|Never
+907|80|50800|213014|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+908|176|50835|213269|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+909|202|50841|213319|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+910|97|50843|213328|Month 24 Visit|Never|Sometimes|Never|All the time|Never|Never|Never|Never|Sometimes|Never
+911|154|50850|213387|Month 24 Visit|Sometimes|Never|Never|Never|Never|Never|Never|Sometimes|Never|Never
+912|85|50886|213639|Month 24 Visit|Sometimes|All the time|Never|Never|Never|Never|Most of the time|Never|Never|Never
+913|91|50897|213732|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+914|207|50912|213867|Month 24 Visit|Sometimes|Most of the time|Never|Never|Sometimes|Never|Sometimes|Never|Never|Sometimes
+915|31|50925|213958|Month 24 Visit|Sometimes|Most of the time|Never|Never|Never|Never|All the time|Never|Never|Never
+916|127|50935|214042|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+917|53|50945|214145|Month 24 Visit|Sometimes|All the time|Never|Never|Sometimes|Never|All the time|All the time|All the time|Most of the time
+918|196|50947|214171|Month 24 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+919|86|50950|214192|Month 24 Visit|Never|Never|Never|Sometimes|Never|Never|Never|Never|Sometimes|Never
+920|159|50952|214210|Month 24 Visit|Sometimes|All the time|Never|Never|Never|Never|Never|Never|Never|Never
+921|174|50982|214416|Month 24 Visit|Sometimes|Sometimes|Sometimes|Sometimes|Never|Never|Sometimes|Never|Never|Never
+922|126|51006|214611|Month 24 Visit|Most of the time|Never|Never|Never|Never|Never|Most of the time|Never|Never|Never
+923|15|51013|214663|Month 24 Visit|Most of the time|Sometimes|Never|Never|Most of the time|Never|Most of the time|Never|Never|Most of the time
+924|183|51024|214756|Month 24 Visit|Sometimes|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+925|4|51037|214875|Month 24 Visit|Never|Never|Never|Never|Sometimes|Never|Never|Never|Never|Never
+926|28|51042|214913|Month 24 Visit|Most of the time|Sometimes|Never|Never|Never|Never|Never|Never|Never|Never
+927|98|51043|214923|Month 24 Visit|Never|Most of the time|Sometimes|Never|All the time|Never|Never|All the time|Never|Most of the time
+928|200|51051|214980|Month 24 Visit|Sometimes|Sometimes|Sometimes|Never|Sometimes|Sometimes|Sometimes|Sometimes|Sometimes|Sometimes
+929|177|51110|215468|Month 24 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never
+930|124|51113|215496|Month 24 Visit|Never|Never|Never|Never|Never|Never|Never|Never|Never|Never
+931|26|51135|215685|Month 24 Visit|All the time|Sometimes|Never|Never|Sometimes|Never|Most of the time|Never|Never|Never
+932|125|51160|215868|Month 24 Visit|Sometimes|Sometimes|Sometimes|Never|Never|Never|Sometimes|Sometimes|Never|Never
+933|141|51246|216538|Month 24 Visit|Sometimes|Sometimes|Never|Sometimes|Never|Never|Never|Never|Never|Never

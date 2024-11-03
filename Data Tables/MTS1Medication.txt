@@ -1,0 +1,283 @@
+RecID|PtID|ParentLoginVisitID|ParentLoginID|MedDose|MedUnit|MedDoseUnk|MedRoute|MedLocSide|MedFreqType|MedFreqNum|MedFreqPer|MedFreqUnk|MedFreqAsNeededDs|MedInd|ParentLoginIDMedCondition|AdvEvent1|MedStartTrtCat|MedStartDt|MedStartDtApprox|MedStopDt|MedStopDtApprox|MedOngoing|MedStartPreEnrRange|MedStartMonth|MedStartYear|MedStopMonth|MedStopYear|MedStopDtUnk|PreExist1|MedStartDtUnk|MedCondNotReqd|PreExistCondNotReqd|DrugName|AdvEventNotReqd|ParentLoginIDMedCondition2|PreExist2|AdvEvent2|MedRouteOthDs
+1|216||171481|75|mcg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Autoimmune thyroiditis||||Synthroid
+2|22||176402|||1|PO||As Needed||||2 - 5 per year|Prior to enrollment|||On treatment at time of enrollment||||||Unknown|||||1|Seasonal allergy||||Cetirizine
+3|22||176403|||1|PO||As Needed||||6 - 11 per year|Prevention|||On treatment at time of enrollment||||||1 year to < 5 years|||||1|||||Sodium Fluoride
+4|48||176778|small amou|Ointment||Topical - skin||As Needed||||1 per month|Prior to enrollment|||On treatment at time of enrollment|||||1|Unknown||||||Eczema||||Hydrocortisone
+5|39||177565|10|mg||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seasonal allergy||||Cetirizine
+6|39||177574|1|capsules||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||||||Multivitamin preparation
+7|39||177575|1|mg||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||||||Sodium Fluoride
+8|119||178139|5|mg||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Seasonal allergy||||Zyrtec-D
+9|119||178140|25|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|<=30 days||||||Migraine headache||||Sumatriptan
+10|119||178141|7.5%|Ointment||Topical - skin||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|6 months to < 1 year||||||Acne||||Aczone
+11|119||178142|50|mg||PO||Fixed Regimen|||1||Prior to enrollment|||On treatment at time of enrollment|||||1|Unknown||||||Acne||||Doxycyline
+12|119||178143|325|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|Unknown||||||Anemia||||ferric sulfate
+13|1||179046|||1|PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|Unknown||||||||||Multivitamin preparation
+14|1||179047|2.2|mg||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|Unknown||||||||||Sodium Fluoride
+15|1||179048|350|mg||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment||||||Unknown|||12|2019||||||Magnesium
+16|112||179459|27|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment||||||1 year to < 5 years|||||1|Attention deficit/hyperactivity disorder||||Methylphenidate
+17|112||179460|5|mL||Gtt|Both|As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Allergic conjunctivitis||||Zaditor
+18|84||179647|50|mg||PO||Fixed Regimen|2|Day|||New|||Treatment started after enrollment|10/28/2018||11/28/2018|||||||||||||Diclofenac
+19|131||180046|1|pills||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||||||Multivitamin preparation
+20|1||180159|1|gtt-drops||Gtt|Both|As Needed|||||New|||Treatment started after enrollment|7/25/2018||||1|||||||||||Artifical Tears Preservation free
+21|167||180443|90mcg|puff||Oral Inhalation||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Asthma||||Albuterol Sulfate
+22|167||180444|5mg|pills||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Asthma||||montelukast sodium
+23|167||180445|8.4mg|puff||Oral Inhalation||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Asthma||||Symbicort
+24|155||180627|||1|PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||||||Multivitamin preparation
+25|52||180884|27|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years|||||||||1|Concerta
+26|72||180908|5|mL||PO||Fixed Regimen|2|Day|||Prior to enrollment|||On treatment at time of enrollment|||10/10/2018|||1 year to < 5 years||||||Allergy to nuts||||Allegra
+27|120||180940|1|capsules||PO||Fixed Regimen|2|Month|||Prevention|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||||||Vitamin D
+28|120||180942|1|capsules||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||||||Multivitamin preparation
+29|120||180943|1|capsules||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment||||||Unknown|||8|2020||Constipation||||Colace
+30|120||180944|1|capsules||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment||||||6 months to < 1 year|||8|2020||Motion sickness||||Promethazine
+31|120||180945|1|capsules||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|Unknown||||||||||Florastor
+32|205||181023|||1|PO||As Needed|||||New||Headache|Treatment started after enrollment|||||||1|2019|1|2019||||||Ibuprofen
+33|51||181612|||1|Topical - ocular||As Needed|||||Prior to enrollment|||On treatment at time of enrollment||||||5 years to < 10 years|||8|2020||Eczema||||Elocon
+34|51||181613|2|g||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment||||||1 year to < 5 years|||3|2019||||||Fish Oils
+35|51||181614|||1|PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||||||Lactobacillus
+36|51||181615|5|mg||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||||||Melatonin
+37|51||181616|1|tablet||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||||||Multivitamin preparation
+38|51||181617|||1|PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Attention deficit/hyperactivity disorder||||Ibuprofen
+39|51||181999|||1|PO||As Needed|||||New||Fever|Treatment started after enrollment|6/26/2018||||1|||||||||||Tylenol
+40|129||183271|0.2%|gtt-drops||Gtt|Both|Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seasonal allergy||||olopatadine
+41|205||183423|1|gtt-drops||Other|Both|Fixed Regimen|3|Day|||New||Hearing loss|Treatment started after enrollment|8/10/2018||8/12/2018|||||||||||||Ocuflox|||||ears
+42|156||183468|20 mg|capsules||PO||Fixed Regimen|2|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Attention deficit disorder||||Dextroamphetamine
+43|156||183469|10mg|tablet||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment||||||1 year to < 5 years|||9|2021||Depression||||Fluoxetine
+44|156||183470|||1|PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||||||Multivitamin preparation
+45|1||183690|5|mg||PO|Both|Fixed Regimen|1|Day|||New||Allergic conjunctivitis|Treatment started after enrollment|10/26/2018||||1|||||||||||Zyrtec
+46|1||183691|2|gtt-drops||Gtt|Both|Fixed Regimen|2|Day|||New||Allergic conjunctivitis|Treatment started after enrollment|10/26/2018||||1|||||||||||Opcon-A
+47|224||183719|15|mg||PO||Fixed Regimen|1|Week|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Reflux esophagitis||||Ranitidine
+48|224||183720|5|mL||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seasonal allergy||||Diphenhydramine Hydrochloride
+49|47||183825|1|pills||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||||||Multivitamin preparation
+50|184||184178|5|mg||PO||Fixed Regimen|1|Day|||New|||Treatment started after enrollment|8/23/2018||||1|||||||||||Focalin XR|1
+51|173||184316|1|pills||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||||||Multivitamin preparation
+52|22||184364|1|gtt-drops||Gtt||As Needed|||||Prior to enrollment|||Treatment started after enrollment|7/5/2018||||1|||||||Allergic conjunctivitis||||Artificial tears - Homeopathic
+53|22||184365|1|gtt-drops||Gtt|Left|As Needed|||||Prior to enrollment|||Treatment started after enrollment|7/5/2018||||1|||||||Allergic conjunctivitis||||Artificial tears - Homeopathic
+54|22||184394|||1|Gtt|Right|Fixed Regimen|2|Day|||Prior to enrollment|||On treatment at time of enrollment||||||1 year to < 5 years||||2018||Allergic conjunctivitis||||Zaditor
+55|22||184395|1-2|gtt-drops||Gtt|Left|As Needed|||||Prior to enrollment|||On treatment at time of enrollment||||||1 year to < 5 years||||2018||Allergic conjunctivitis||||Zaditor
+56|22||184396|1|tablet||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seasonal allergy||||Allegra
+57|22||184397|||1|Nasal||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seasonal allergy||||Saline Spray
+58|22||184398|1|tablet||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seasonal allergy||||Zyrtec
+59|48||184895|75|mg||PO||Fixed Regimen|2|Day|||New||Influenza|Treatment started after enrollment|10/11/2018||10/16/2018|||||||||||||Oseltamivir phosphate
+60|48||184896|5|mg||PO||As Needed|||||Prior to enrollment|||Treatment started after enrollment|11/29/2018||||1|||||||Seasonal allergy||||Zyrtec
+61|198||185401|5|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Asthma||||Singulair|||Seasonal allergy
+62|198||185402|160|mcg||Oral Inhalation||Fixed Regimen|4|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Asthma||||Symbicort
+63|198||185403|||1|Oral Inhalation||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Asthma||||Pulmicort Respules
+64|33||185607|5|mL||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years|||||||||1|Zyrtec
+65|33||185608|1|puff||Nasal||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years|||||||||1|Flonase
+66|33||185610|2|puff||Oral Inhalation||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Asthma||||Flovent
+67|54||185617|||1|PO||One Time Treatment|||||New||Pneumonia|Treatment started after enrollment|10/2/2018||10/12/2018|||||||||||||Cephalexin
+68|39||185692|||1|Topical - ocular||One Time Treatment|||||New||Rash trunk|Treatment started after enrollment|11/11/2018||11/20/2018|||||||||||||Triamcinolone
+69|119||185966|2|puff||PO||As Needed|||||New||Asthma|Treatment started after enrollment|7/12/2018||||1|||||||||||Albuterol
+70|99||186069|1|tablet||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||||||Multivitamin preparation
+71|121||186227|30|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Long QT syndrome||||Nadolol
+72|121||186228|2.2|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years|||||||||1|Sodium Fluoride
+73|121||186229|10|mg||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Seasonal allergy||||Loratadine
+74|72||186240|15|mL||PO||Fixed Regimen|1|Day|||New||Herpes simplex ophthalmic|Treatment started after enrollment|9/26/2018||11/16/2018|||||||||||||Acyclovir
+75|72||186241|1|cream||Topical - ocular||Fixed Regimen|1|Day|||New||Herpes simplex ophthalmic|Treatment started after enrollment|9/26/2018||11/16/2018|||||||||||||Maxitrol
+76|175||186318|1|gtt-drops||Gtt|Left|Fixed Regimen|4|Day|||Prior to enrollment|||Treatment started after enrollment|4/22/2019||5/3/2019|||||||||Eye irritation||||Polymyxin B / Trimethoprim
+77|219||186461|2|aerosol||Nasal||As Needed|||||Prior to enrollment|||Treatment started after enrollment|||||1||3|2019||||Allergic rhinitis||||Flonase
+78|219||186462|1|tablet||PO||As Needed|||||New||Allergic conjunctivitis|Treatment started after enrollment|6/7/2018||||1|||||||||||Benadryl||||Allergic conjunctivitis
+79|219||186463|1|gtt-drops||Gtt|Both|As Needed|||||New||Allergic conjunctivitis|Treatment started after enrollment|6/7/2018||||1|||||||||||Ketotifen||||Allergic conjunctivitis
+80|219||186464|10|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|6/27/2018||||1|||||||Allergic conjunctivitis||||Zyrtec|||Allergic conjunctivitis
+81|5||186740|17|g||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||2/5/2021|||1 year to < 5 years||||||Encopresis||||Miralax
+82|5||186741|10|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|3 months to < 6 months||||||Attention deficit/hyperactivity disorder||||Adderall-XR
+83|84||186751|0.1|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|||10/25/2020||||1|2019||||Joint pain||||Clonidine Hydrochloride
+84|84||186752|10,000|units||PO||Fixed Regimen|1|Week|||Prior to enrollment|||Treatment started after enrollment|||||1||12|2018||||Joint pain||||vitamin D3
+85|84||186753|20|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|11/26/2018||6/16/2019|||||||||Joint pain||||Piroxicam
+86|205||186770|875|mg||PO||Fixed Regimen|2|Day|||New||Pneumonia|Treatment started after enrollment|10/22/2018||11/1/2018|||||||||||||Amoxil
+87|205||186771|250|mg||PO||Fixed Regimen|1|Day|||New||Pneumonia|Treatment started after enrollment|10/22/2018||10/26/2018|||||||||||||Zithromax
+88|175||186817|1|gtt-drops||Gtt|Right|Fixed Regimen|4|Day|||New||Conjunctivitis|Treatment started after enrollment|5/3/2019||5/13/2019|||||||||||||Ofloxacin
+89|175||186818|1|gtt-drops||Gtt|Left|Fixed Regimen|4|Day|||New||Conjunctivitis|Treatment started after enrollment|5/3/2019||5/13/2019|||||||||||||Ofloxacin
+94|213||187271|1000|mg||PO|Both|One Time Treatment|||||New||Ear infection|Treatment started after enrollment|10/29/2018||11/5/2018|||||||||||||Amoxicillin
+95|213||187276|3|gtt-drops||Gtt|Both|Fixed Regimen|2|Day|||New||Ear infection|Treatment started after enrollment|10/29/2018||11/5/2018|||||||||||||Ciprodex
+96|59||187458|0.1%|cream||Topical - skin||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Eczema||||Triamcinolone
+97|59||187459|||1|IM||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Bee sting||||Epinephrine
+98|59||187460|||1|PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||||||Vitamin D
+99|135||187659|10|mg||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seasonal allergy||||Cetirizine
+100|135||187660|50|mcg||Nasal||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seasonal allergy||||fluticasone
+101|135||187661|||1|Other||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seafood allergy||||Epipen|||||auto-injector
+102|59||188191|1|cream||Topical - skin||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Eczema||||Hydrocortisone
+103|59||188192|1|tablet||PO||Fixed Regimen|6|Week|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Bee sting||||Benadryl
+104|59||188193|1|mL||IM||Fixed Regimen|6|Week|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Bee sting||||Honey bee venom
+105|52||188443|||1|PO||As Needed|||||Prior to enrollment|||Treatment started after enrollment|||||1|||2019||||Migraine headache||||Imitrex
+106|52||188444|||1|PO||One Time Treatment|||||New|||Treatment started after enrollment|||12/18/2018||||7|2019||||||||Omnicef|1
+107|165||188477|2|puff||Oral Inhalation||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||5/16/2019|||1 year to < 5 years||||||Asthma||||Albuterol
+108|165||188478|1|tablet||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||7/23/2021|||6 months to < 1 year||||||||||Sodium Fluoride
+109|51||188718|5|mg||PO|Both|Fixed Regimen|1|Day|||New||Allergic conjunctivitis|Treatment started after enrollment|12/27/2018||12/29/2018|||||||||||||Zyrtec
+110|8||188914|1|pills||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Seasonal allergy||||Cetirizine
+112|77||189052|875|mg||PO||Fixed Regimen|2|Day|||New||Hordeolum|Treatment started after enrollment|10/17/2018||||1|||||||||||Augmentin
+113|114||189057|2|puff||Oral Inhalation||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Asthma||||Albuterol
+114|114||189058|||1|PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Allergic reaction||||Benadryl Allergy
+115|164||189195|10|mg||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seasonal allergy||||Zyrtec
+116|133||189197|||1|PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seasonal allergy||||Claritin
+117|128||189320|70mg|tablet||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Attention deficit/hyperactivity disorder||||Vyvanse
+118|130||189443|0.3|mg||IM||As Needed|||||Prevention|||On treatment at time of enrollment|||||1|Unknown||||||||||Epipen
+119|130||189445|0.05|cream||Topical - ocular||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|Unknown||||||Eczema||||Clobetasol
+120|130||189446|2.5|cream||Topical - ocular||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Eczema||||Hydrocortisone
+121|130||189448|5|mg||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|Unknown||||||Allergy NOS||||Cetirizine
+122|23||189509|90|mcg||Oral Inhalation||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Asthma||||ProAir
+123|23||189510|44|mcg||Oral Inhalation||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment||||||1 year to < 5 years|||||1|Asthma||||Flovent HFA
+124|23||189511|5|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Asthma||||Singulair
+125|23||189512|50|mcg||Nasal||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Allergy NOS||||Flonase
+126|23||189513|5|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Allergy NOS||||Claritin
+127|76||189622|5|mg||PO||As Needed|||||Prevention|||Treatment started after enrollment|9/21/2016||||1|||||||||||Cetirizine
+128|76||189623|2|puff||Oral Inhalation||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Asthma||||Albuterol
+129|76||189624|2|puff||Oral Inhalation||Fixed Regimen|2|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Asthma||||Flovent HFA
+130|165||189805|1|gtt-drops||Gtt|Both|As Needed|||||New||Eye irritation|Treatment started after enrollment|9/21/2019||||1|||||||||||Artifical Tears Preservation free||||Eye irritation
+131|31||191149|25|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||6/24/2019|||>30 days to < 3 months||||||Anxiety||||Sertraline
+132|31||191150|1|tablet||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment||||||1 year to < 5 years|||11|2020||||||Multivitamin preparation
+133|48||191344|1|cream||Topical - skin||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Athletes Foot||||Lotrimin
+134|126||191602|5|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|6 months to < 1 year||||||Asthma||||Singulair
+135|145||191637|60 mg|capsules||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Attention deficit/hyperactivity disorder||||Methylphenidate
+136|76||191663|1|cream||Topical - ocular|Right|Fixed Regimen|2|Day|||New||Stye|Treatment started after enrollment|7/11/2019||7/19/2019|||||||||||||Erythromycin
+137|198||191853|10|mg||PO||Fixed Regimen|1|Day|||New|||Treatment started after enrollment|||||1||9|2019||||||||Loratadine|1
+138|176||191886|5|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|>30 days to < 3 months||||||Attention deficit/hyperactivity disorder||||Ritalin
+139|176||191887|1|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|3 months to < 6 months||||||Autism||||Intuniv
+140|31||191947|50|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|6/24/2019||7/13/2020|||||||||Anxiety||||Sertraline
+141|134||192027|||1|PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Seasonal allergy||||Claritin
+142|119||192271|1|gtt-drops||Gtt|Both|As Needed|||||New||Dry eye|Treatment started after enrollment|1/12/2019||||1|||||||||||Artifical Tears Preservation free||||Dry eye
+143|16||192503|||1|Oral Inhalation||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|6 months to < 1 year||||||Asthma||||Albuterol
+144|74||192626|1|tablet||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment||||||1 year to < 5 years|||12|2021||||||Multivitamin preparation
+145|84||192654|10|mg||PO||Fixed Regimen|1|Day|||New||Allergic reaction|Treatment started after enrollment|10/17/2019||||1|||||||||||Cetirizine||||Allergic reaction
+146|84||192655|375|mg||PO||Fixed Regimen|2|Day|||Prior to enrollment|||Treatment started after enrollment|7/12/2019||||1|||||||Joint pain||||Naproxen
+147|175||193062|5|mL||PO||As Needed|||||New||Sleep apnea|Treatment started after enrollment|9/10/2019||9/11/2019|||||||||||||Acetaminophen / Hydrocodone
+148|175||193070|500|mg||PO||As Needed|||||Prevention|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||||||Vitamin C TR
+149|175||193071|1|tablet||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment||||||1 year to < 5 years||||2021||||||Sodium Fluoride
+150|175||193072|1|tablet||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||||||Multivitamin preparation
+151|85||193278|20|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Attention deficit/hyperactivity disorder||||Adderall
+152|80||193710|||1|Topical - skin||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Eczema||||Elidel
+153|127||193893|||1|PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Constipation||||Miralax
+154|89||194036|||1|PO||As Needed|||||New||Upper respiratory infection|Treatment started after enrollment|4/27/2019||4/27/2019|||||||||||||Robitussin
+155|196||194110|0.15|mg||IM||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Peanut allergy||||Epipen|||Allergy to nuts
+156|8||194179|1 mg/Ml|gtt-drops||Gtt|Left|Fixed Regimen|4|Day|||New||Conjunctivitis|Treatment started after enrollment|10/25/2019||11/2/2019|||||||||||||Polytrim
+157|8||194287|1|gtt-drops||Gtt|Right|Fixed Regimen|4|Day|||New||Conjunctivitis|Treatment started after enrollment|10/27/2019||11/2/2019|||||||||||||Polytrim
+158|8||194288|2|tbs||PO||Fixed Regimen|2|Day|||New|||Treatment started after enrollment|10/27/2019||||||||2|2020||||||Amoxil|1
+159|223||194468|10|mg||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seasonal allergy||||Claritin
+160|223||194469|3|mg||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Insomnia||||Melatonin
+161|223||194470|1|pills||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment||||||5 years to < 10 years|||||1|||||Multivitamin preparation
+162|72||194829|||1|Topical - ocular||Fixed Regimen|2|Day|||New||Eye redness|Treatment started after enrollment|3/8/2019||3/11/2019|||||||||||||Maxitrol
+163|72||194830|10|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|10/10/2018||||1|||||||Allergy to nuts||||Claritin
+164|28||195020|1|tablet||PO||Fixed Regimen|1|Day|||Prevention|||On treatment at time of enrollment||||||1 year to < 5 years|||||1|||||Multivitamin preparation
+165|120||195036|||1|PO||Fixed Regimen|||1||New||Streptococcal sore throat|Treatment started after enrollment|6/13/2019||7/2/2019|||||||||||||Amoxicillin
+166|40||195189|15|mL||PO||Fixed Regimen|2|Day|||New||Influenza|Treatment started after enrollment|4/25/2019||4/29/2019|||||||||||||Ibuprofen
+167|40||195190|10.4|mL||PO||Fixed Regimen|2|Day|||New||Influenza|Treatment started after enrollment|4/25/2019||5/4/2019|||||||||||||Amoxicillin
+168|219||195251|||1|PO||As Needed|||||New||Gastroenteritis|Treatment started after enrollment|12/25/2018||12/27/2018|||||||||||||Ondanestron
+169|84||195459|40|mg||SC||Fixed Regimen|2|Month|||Prior to enrollment|||Treatment started after enrollment|1/6/2020||9/7/2020|||||||||Joint pain||||adalimumab
+170|123||196368|||1|PO||One Time Treatment|||||New||Fever|Treatment started after enrollment|||||||1|2020|1|2020||||||Acetaminophen
+171|146||196380|||1|PO||One Time Treatment|||||New||Head pain|Treatment started after enrollment|||||||3|2020|4|2020||||||Acetaminophen
+172|158||196448|1|gtt-drops||Gtt|Right|Fixed Regimen|3|Day|||New||Stye|Treatment started after enrollment|10/29/2019||11/5/2019|||||||||||||Polytrim
+173|204||196508|10mg|tablet||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|Unknown||||||Allergy NOS||||Cetirizine
+174|175||196688|||1|PO||Fixed Regimen|2|Day|||New||Streptococcal sore throat|Treatment started after enrollment|11/21/2019||12/1/2019|||||||||||||Amoxicillin
+175|173||197343|||1|PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|||||||3|2020|1|2021||||||Elderberry preparation
+176|31||197358|||1|PO||Fixed Regimen|2|Day|||New||Urinary tract infection|Treatment started after enrollment|8/17/2019||9/27/2019|||||||||||||Amoxil
+177|72||197440|1|capsules||PO||Fixed Regimen|4|Day|||New||Herpes simplex ophthalmic|Treatment started after enrollment|8/30/2019||9/9/2019|||||||||||||Acylovir
+178|84||197861|10|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|2/9/2020||9/25/2020|||||||||Insomnia||||Amitriptyline
+179|84||197863|1|aerosol||Other||As Needed|||||New||Reactive airways disease|Treatment started after enrollment|1/13/2020||1/13/2020|||||||||||||Albuterol / Ipratropium|||||nebulizer
+180|84||197871|4|mg||Oral Inhalation||Fixed Regimen|1|Day|||New||Reactive airways disease|Treatment started after enrollment|1/13/2020||1/16/2020|||||||||||||Decadron
+181|84||197872|30|mL||PO||One Time Treatment|||||New||Reactive airways disease|Treatment started after enrollment|1/13/2020||1/13/2020|||||||||||||Maalox
+182|84||197873|10|mL||PO||One Time Treatment|||||New||Reactive airways disease|Treatment started after enrollment|1/13/2020||1/13/2020|||||||||||||Lidocaine
+183|165||198078|1|gtt-drops||Gtt|Both|Fixed Regimen|1|Day|||New||Dry eye|Treatment started after enrollment|5/29/2020||5/31/2020|||||||||||||tetrahydrozoline||||Dry eye
+184|219||198281|||1|PO||As Needed|||||New||Seasonal allergy|Treatment started after enrollment|6/10/2019||||1|||||||||||Claritin
+185|80||198888|12.5|mL||Gtt|Left|Fixed Regimen|2|Day|||New||Ear infection|Treatment started after enrollment|12/21/2019||12/31/2019|||||||||||||Amoxicillin
+186|80||198907|4|gtt-drops||Gtt|Right|Fixed Regimen|2|Day|||New||Otitis externa|Treatment started after enrollment|12/21/2019||12/26/2019|||||||||||||Neomycin / Polymyxin B
+187|80||198908|2|gtt-drops||Gtt|Right|Fixed Regimen|2|Day|||New||Otitis externa|Treatment started after enrollment|12/21/2019||12/26/2019|||||||||||||Hydrocortisone
+188|5||198926|5|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|1/16/2020||||1|||||||Encopresis||||Bisacodyl
+189|205||198974|||1|Topical - skin||Fixed Regimen|1|Day|||New||Acne|Treatment started after enrollment|10/19/2019||5/15/2020|||||||||||||Benzaclin
+190|205||198975|100|mg||PO||Fixed Regimen|1|Day|||New||Acne|Treatment started after enrollment|10/19/2019||||||||9|2020||||||Minocycline
+191|44||199059|250|mg||PO||Fixed Regimen|1|Day|||New||Respiratory infection|Treatment started after enrollment|||||||3|2020|4|2020||||||Azithromycin
+192|72||199799|1|capsules||PO||Fixed Regimen|4|Day|||New||Herpes simplex ophthalmic|Treatment started after enrollment|9/26/2019||10/6/2019|||||||||||||Acyclovir
+193|119||200247|0.025|cream||Topical - skin||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|9/4/2019||||1|||||||Acne||||Tretinoin
+194|119||200248|.1|cream||Topical - skin||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|9/4/2019||||1|||||||Acne||||Tretinoin
+195|123||200491|1|tsp||Topical - skin||Fixed Regimen|2|Week|||New||Lice NOS|Treatment started after enrollment|6/14/2020||7/5/2020|||||||||||||Permethrin
+196|146||200493|10|mg||PO||Fixed Regimen|1|Day|||New||Attention deficit disorder|Treatment started after enrollment|||||||6|2020|12|2020||||||Adderall
+197|114||200505|1|gtt-drops||Gtt|Both|As Needed|||||New||Conjunctival injection|Treatment started after enrollment|9/10/2020||||1|||||||||||Artificial tears - Homeopathic||||Conjunctival injection
+198|31||202102|1|gtt-drops||Gtt|Both|As Needed|||||New||Allergic conjunctivitis|Treatment started after enrollment|||||1||1|2020||||||||Zaditor||||Allergic conjunctivitis
+199|134||202289|||1|PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Seasonal allergy||||Zyrtec
+200|101||202332|3|mg||PO||As Needed|||||Prevention|||Treatment started after enrollment|9/7/2020||||1|||||||||||Melatonin
+201|54||202408|25|mg||PO||Fixed Regimen|1|Day|||New||Headache|Treatment started after enrollment|5/25/2020||||||||5|2021||||||Topamax
+202|83||202410|||1|PO||Fixed Regimen|||1||New||Streptococcal sore throat|Treatment started after enrollment|1/8/2020||1/8/2020|||||||||||||Azithromycin
+203|39||202411|1|tablet||PO||Fixed Regimen|2|Week|||Prevention|||Treatment started after enrollment|||||||||||1||1|||Elderberry preparation
+204|84||202413|500|mg||PO||Fixed Regimen|4|Day|||New||Urinary tract infection|Treatment started after enrollment|10/23/2020||||||||12|2020||||||CEPHALEXIN ANHYDROUS
+205|98||202761|||1|Gtt|Both|As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|3 months to < 6 months||||||Eye itching||||Alaway|||Eye itching
+206|35||202763|||1|Nasal||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|3 months to < 6 months||||||Seasonal allergy||||Singulair
+207|35||202764|||1|Nasal||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|3 months to < 6 months||||||Seasonal allergy||||Flonase
+208|77||202812|250|mg||PO||As Needed|||||New||COVID-19|Treatment started after enrollment|12/28/2019||1/4/2020|||||||||||||Azithromycin
+209|77||202813|||1|PO||As Needed|||||New||COVID-19|Treatment started after enrollment|12/28/2019||1/4/2020|||||||||||||Ninjacof
+210|205||202919|||1|PO||Fixed Regimen|||1||New||Vocal cord dysfunction|Treatment started after enrollment|2/7/2020||2/20/2020|||||||||||||Prilosec OTC
+211|205||202920|50|mcg||Oral Inhalation||Fixed Regimen|1|Day|||New||Vocal cord dysfunction|Treatment started after enrollment|2/7/2020||||1|||||||||||Flonase Sensimist
+212|205||202922|||1|PO||As Needed|||||New||Upper respiratory infection|Treatment started after enrollment|4/16/2020||4/26/2020|||||||||||||Acetaminophen
+213|205||202923|||1|PO||As Needed|||||New||Upper respiratory infection|Treatment started after enrollment|4/16/2020||4/16/2020|||||||||||||Ibuprofen
+214|84||203257|1|Ointment||Topical - skin||Fixed Regimen|1|Day|||New||Acne|Treatment started after enrollment|5/11/2020||||1|||||||||||Tretinoin
+215|84||203271|20|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|11/13/2020||1/17/2021|||||||||Depression||||Fluoxetine|||Obsessive-compulsive disorder
+216|84||203273|1|pills||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|1 year to < 5 years||||||Constipation||||Calm-Aid
+217|89||203284|1|pills||PO||Fixed Regimen|1|Day|||New||Headache|Treatment started after enrollment|5/13/2020||||1|||||||||||Iron Supplement
+218|80||203370|5|mg||Topical - ocular|Left|Fixed Regimen|2|Day|||Prior to enrollment|||Treatment started after enrollment|7/13/2020||||1|||||||Eczema||||Erythromycin
+219|52||203386|||1|PO||Fixed Regimen|||1||New||Streptococcal sore throat|Treatment started after enrollment|3/30/2019||4/10/2019|||||||||||||Antibiotic
+220|44||203387|1|gtt-drops||Gtt|Both|As Needed|||||New||Eye pain|Treatment started after enrollment|1/1/2020||||||||12|2020||||||Refresh Drops||||Eye pain
+221|53||203870|||1|Nasal|Both|As Needed|||||Prevention|||Treatment started after enrollment|||||1||1|2021||||||||Flonase
+222|68||204146|10|mg||PO||Fixed Regimen|1|Day|||New||Seasonal allergy|Treatment started after enrollment|12/26/2019||||1|||||||||||Singulair
+223|183||204263|20|mg||PO||Fixed Regimen|1|Day|||New|||Treatment started after enrollment|||||1||1|2021||||||||Focalin|1
+224|52||204345|||1|PO||Fixed Regimen|1|Day|||New|||Treatment started after enrollment|7/27/2020||||1|||||||||||Clonidine|1
+225|200||204366|1|gtt-drops||Gtt|Both|Fixed Regimen|2|Day|||New||Allergic conjunctivitis|Treatment started after enrollment|11/30/2020||||1|||||||||||Bepreve||||Allergic conjunctivitis
+226|123||204558|||1|PO||As Needed|||||New||Acid reflux (oesophageal)|Treatment started after enrollment|11/28/2020||12/26/2020|||||||||||||Omeprazole
+227|90||205275|5|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|||||||||||1||1||1|Ritalin
+228|219||205480|1000|mg||PO||Fixed Regimen|3|Week|||Prevention|||Treatment started after enrollment|||||1||2|2021||||||||Vitamin C TR
+229|219||205481|||1|PO||Fixed Regimen|3|Week|||Prevention|||Treatment started after enrollment|||||1||2|2020||||||||Zinc
+230|156||205740|0.75|Ointment||Topical - ocular|Left|Fixed Regimen|2|Day|||New||Blepharitis (eyelid irritation)|Treatment started after enrollment|9/4/2020||||||||3|2021||||||Erythromycin
+231|173||206369|1|tablet||PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|4/9/2020||||1|||||||||||Sunkist Vitamin C
+232|173||206370|1|tablet||PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|4/9/2020||||1|||||||||||Probiotic - Homeopathic
+233|47||206461|12|tablet||PO||One Time Treatment|||||New||Gastroenteritis|Treatment started after enrollment|12/16/2020||12/16/2020|||||||||||||Tylenol
+234|31||206991|75|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|7/13/2020||||||||7|2021||Anxiety||||Effexor
+235|83||207291|||1|PO||One Time Treatment|||||New||Upper respiratory infection|Treatment started after enrollment|3/22/2020||||||||1|2021||||||Robitussin DM
+236|83||207292|||1|PO||One Time Treatment|||||New||Upper respiratory infection|Treatment started after enrollment|3/22/2020||||||||1|2021||||||Acetaminophen Child
+237|175||207363|8|mg||PO||As Needed|||||Prevention|||Treatment started after enrollment|4/12/2021||||1|||||||||||Zinc
+238|1||207518|1|aerosol||Nasal|Both|Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|||||1||3|2021||||Seasonal allergy||||Rhinocort
+239|84||207555|30|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|1/17/2021||||1|||||||Depression||||Prozac
+240|84||207561|1|pills||PO||Fixed Regimen|1|Day|||New||Dysmenorrhea|Treatment started after enrollment|3/29/2021||||1|||||||||||Ethinyl Estradiol / norgestimate
+241|84||207563|||1|PO||Fixed Regimen|||1||New||Fatigue|Treatment started after enrollment|3/29/2021||||1|||||||||||Iron
+242|84||207564|||1|PO||Fixed Regimen|||1||New||Fatigue|Treatment started after enrollment|3/29/2021||||1|||||||||||Vitamin C TR
+243|112||207567|10|mg||PO||As Needed|||||Prevention|||Treatment started after enrollment|4/26/2020||||1|||||||||||Zyrtec
+244|112||207568|15|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|6/21/2020||||1|||||||Attention deficit/hyperactivity disorder||||dexmethylphenidate
+245|112||207569|20|mg||PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|10/18/2020||||1|||||||||||Omeprazole
+246|112||208174|100|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|2/21/2019||||1|||||||Attention deficit/hyperactivity disorder||||Zoloft
+247|208||208175|0.3|cream||Topical - skin||Fixed Regimen|1|Day|||New|||Treatment started after enrollment|5/13/2020||||1|||||||||||adapalene|1
+248|213||208573|1|gtt-drops||Gtt|Right|Fixed Regimen|4|Day|||New||Corneal irritation|Treatment started after enrollment|9/30/2020||11/9/2020|||||||||||||Lotemax
+249|59||208602|||1|PO||Fixed Regimen|||1||New||Influenza|Treatment started after enrollment|||||||3|2021|3|2021||||||Tamiflu
+250|123||209004|||1|PO||As Needed|||||New||Broken bones|Treatment started after enrollment|3/3/2021||||||||5|2021||||||Ibuprofen
+251|89||209048|||1|PO||One Time Treatment|||||New||Acute pharyngitis|Treatment started after enrollment|11/24/2020||||||||7|2021||||||DayQuil Sinex
+252|89||209049|||1|PO||One Time Treatment|||||New||Acute pharyngitis|Treatment started after enrollment|11/24/2020||||||||7|2021||||||Nyquil Cough
+253|89||209051|||1|PO||One Time Treatment|||||New||Muscle pain|Treatment started after enrollment|9/12/2020||9/22/2020|||||||||||||Ibuprofen
+254|89||209052|||1|Topical - skin||One Time Treatment|||||New||Muscle pain|Treatment started after enrollment|9/12/2020||9/22/2020|||||||||||||Tiger Balm Muscle Rub
+255|205||209053|||1|PO||Fixed Regimen|||1||New||Acne|Treatment started after enrollment|||||||2|2021|5|2021||||||Accutane
+256|161||209892|2|mL||Gtt|Both|As Needed|||||New||Eye irritation|Treatment started after enrollment|8/5/2021||||1|||||||||||Refresh Drops||||Eye irritation
+257|47||211517|5|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||On treatment at time of enrollment|||4/2/2021|||1 year to < 5 years||||||Anxiety||||Melatonin
+258|47||211518|10|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|4/2/2021||||1|||||||Anxiety||||Lexapro
+259|47||211519|1000|units||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|4/2/2021||||1|||||||Anxiety||||Vitamin D
+260|47||211520|1000|units||PO||Fixed Regimen|2|Week|||Prior to enrollment|||Treatment started after enrollment|4/2/2021||||1|||||||Anxiety||||vitamin B12
+261|9||212345|||1|PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|7/8/2020||||1|||||||||||Multivitamin preparation
+262|93||212346|||1|PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|6/6/2020||||1|||||||||||Multivitamin preparation
+263|131||212347|||1|PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|7/23/2020||||1|||||||||||MULTIVITAMIN & NUTRITIONAL SUPPLEMENT
+264|155||212348|18|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|9/1/2020||||1|||||||Attention deficit/hyperactivity disorder||||Concerta
+265|155||212349|||1|PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|3/5/2020||||1|||||||||||MULTIVITAMIN & NUTRITIONAL SUPPLEMENT
+266|102||212350|||1|PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|9/30/2020||||1|||||||||||MULTIVITAMIN & NUTRITIONAL SUPPLEMENT
+267|102||212351|10 billion|capsules||PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|9/30/2020||||1|||||||||||Probiotic Product - Tab
+268|43||212352|||1|PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|9/21/2020||||1|||||||||||MULTIVITAMIN & NUTRITIONAL SUPPLEMENT
+269|99||212353|0.2|mg||PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|8/8/2020||||1|||||||||||desmopressin
+270|99||212354|||1|PO||Fixed Regimen|1|Day|||Prevention|||Treatment started after enrollment|2/29/2020||||1|||||||||||MULTIVITAMIN & NUTRITIONAL SUPPLEMENT
+271|43||213457|||1|PO||Fixed Regimen|||1||New|||Treatment started after enrollment|||||||9|2020|||1|||||Minocycline|1
+272|31||213954|||1|PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|||10/25/2021||||11|2021||||Anxiety||||Concerta
+273|83||214732|25|mg||PO||Fixed Regimen|1|Day|||New||Viral syndrome|Treatment started after enrollment|2/5/2021||2/12/2021|||||||||||||Prednisone
+274|83||214733|10|mg||PO||Fixed Regimen|1|Day|||New||Viral syndrome|Treatment started after enrollment|2/5/2021||2/12/2021|||||||||||||Ivermectin
+275|83||214734|||1|PO||Fixed Regimen|1|Day|||New||Viral syndrome|Treatment started after enrollment|2/5/2021||2/10/2021|||||||||||||Azithromycin
+276|83||214735|||1|Oral Inhalation||As Needed|||||New||Viral syndrome|Treatment started after enrollment|2/5/2021||2/12/2021|||||||||||||Albuterol
+277|98||214918|1|units||IM||One Time Treatment|||||Prevention|||Treatment started after enrollment|7/14/2021||7/14/2021|||||||||||||SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2
+278|98||214919|1|units||IM||One Time Treatment|||||Prevention|||Treatment started after enrollment|8/4/2021||8/4/2021|||||||||||||SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2
+279|26||215969|50|mcg||Nasal||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Seasonal allergy||||Flonase
+280|183||215976|5|mg||PO||As Needed|||||Prior to enrollment|||On treatment at time of enrollment|||||1|5 years to < 10 years||||||Allergy NOS||||Aller-Tec D|||Drug allergy
+281|90||216436|54|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|||||1||||||||1||1|Concerta
+282|197||218399|10|mL||PO||Fixed Regimen|2|Day|||New||Pneumonia|Treatment started after enrollment|5/25/2021||6/4/2021|||||||||||||Amoxicillin
+283|31||221226|20|mg||PO||Fixed Regimen|1|Day|||Prior to enrollment|||Treatment started after enrollment|10/25/2021||||1|||||||Anxiety||||Lexapro
+284|31||221227|5|mg||PO||As Needed|||||New||Allergic rhinitis|Treatment started after enrollment|||||1||1|2022||||||||Claritin
+285|86||222397|||1|PO||Fixed Regimen|||1||Prior to enrollment|||On treatment at time of enrollment|||||1|Unknown|||||||||1|Ritalin
+286|6||222911|50|mcg||Nasal||As Needed|||||Prevention|||On treatment at time of enrollment||||||Unknown|||2|2020||||||fluticasone
+287|11||222912|||1|PO||Fixed Regimen|||1||Prevention|||On treatment at time of enrollment||||||Unknown|||2|2020||||||MULTIVITAMIN & NUTRITIONAL SUPPLEMENT
