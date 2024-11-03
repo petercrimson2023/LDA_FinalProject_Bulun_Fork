@@ -1,3 +1,8 @@
+library(dplyr)
+library(ggplot2)
+
+# Part A. Data Import and merge
+
 # Load VisitData and PtRoster datasets
 VisitData <- read.table("Data Tables/MTS1ClinicTesting.txt", 
                         header = TRUE, sep = "|", fill = TRUE, stringsAsFactors = FALSE)
@@ -11,6 +16,11 @@ head(PtRoster)
 DemoMedOcuHx <- read.table("Data Tables/MTS1DemoMedOcuHx.txt", 
                            header = TRUE, sep = "|", fill = TRUE, stringsAsFactors = FALSE)
 head(DemoMedOcuHx)
+
+#TODO: Handling baseline and run-in randomization 
+# VisitData$Visit == 'Run-in FU Randomization'
+# VisitData$Visit == 'Enrollment'
+# if enrollment 
 
 # Step 1: Calculate SER for each eye
 # Left Eye (OS)
@@ -41,3 +51,62 @@ MergedData$TreatmentGroup <- MergedData$TrtGroup
 # Parental myopia status (investigating variables)
 MergedData$is_mother_has_myopia <- MergedData$MotherMyop
 MergedData$is_father_has_myopia <- MergedData$Father
+
+# Step 5: Filter for patients with more than 5 visits without NA SER
+FilteredData <- MergedData %>%
+  filter(!is.na(SER)) %>%  # Remove rows where SER is NA
+  group_by(PtID) %>%       # Group by PtID
+  filter(n() > 5) %>%      # Keep only groups (patients) with more than 5 valid visits
+  ungroup()                # Remove grouping to return to a regular data frame
+
+# Get unique PtID for filtered dataset
+UniquePtID <- unique(FilteredData$PtID)
+
+
+# Part 2. Spagetti Plot
+
+# Sample 10 unique patients from each treatment group
+SampledPatients_trt <- FilteredData %>%
+  filter(TrtGroup == "Atropine") %>%
+  distinct(PtID, .keep_all = TRUE) %>%
+  slice_sample(n = 10) %>%
+  select(PtID)
+
+SampledPatients_ctrl <- FilteredData %>%
+  filter(TrtGroup == "Placebo") %>%
+  distinct(PtID, .keep_all = TRUE) %>%
+  slice_sample(n = 10) %>%
+  select(PtID)
+
+SampledPatients <- bind_rows(SampledPatients_trt, SampledPatients_ctrl)
+
+# Filter the original data to include only records for the sampled patients
+SampledData <- FilteredData %>%
+  filter(PtID %in% SampledPatients$PtID)
+
+# Set line types based on the treatment group
+SampledData <- SampledData %>%
+  mutate(LineType = ifelse(TrtGroup == "Atropine", "solid", "dashed"))
+
+# Define the order of visits for consistent x-axis ordering
+visit_order <- c("Enrollment", "Month 6 Visit", "Month 12 Visit", 
+                 "Month 18 Visit", "Month 24 Visit", "Month 30 Visit")
+
+# Convert Visit to a factor with specified order
+SampledData <- SampledData %>%
+  filter(Visit != "Run-in FU Randomization") %>%
+  mutate(Visit = factor(Visit, levels = visit_order))
+
+# Create the spaghetti plot with distinct line types and colors for each patient
+ggplot(SampledData, aes(x = Visit, y = SER, group = PtID, color = as.factor(PtID))) +
+  geom_line(aes(linetype = LineType), size = 0.5, alpha = 0.7) +  # Line for each patient with line type by group
+  geom_point(size = 2, shape = 1) +                                        # Add points at each SER measurement
+  labs(title = "SER Progression Over Time by Treatment Group",
+       x = "Visit",
+       y = "SER",
+       color = "Patient ID",
+       linetype = 'LineType') +
+  scale_x_discrete(drop = FALSE) +                              # Ensure all visits appear on the x-axis
+  scale_linetype_manual(values = c("solid", "dashed")) +        
+  theme_minimal() +
+  theme(legend.position = "none")                               # Optionally hide the legend if there are too many patients
