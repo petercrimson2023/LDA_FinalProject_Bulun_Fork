@@ -146,4 +146,34 @@ ggplot() +
   theme_minimal() +
   theme(legend.position = "right")
 
+### Displaying five patients
+
+# only leave the last observation, which is the 5th visit
+SampledData %>%
+  select(
+    PtID,
+    SER,
+    Sex,
+    TreatmentGroup,
+    Race,
+    EyeColor,
+    AgeAsofEnrollDt,
+    is_mother_has_myopia,
+    is_father_has_myopia,
+    Visit
+  ) %>%
+  group_by(PtID) %>%
+  slice_tail(n = 1) %>%
+  ungroup() %>%
+  arrange(PtID) %>%
+  select(-Visit) %>% # then rename the column , ageasenrolldt as age and Eyecolor as iris_color
+  rename(age = AgeAsofEnrollDt, iris_color = EyeColor) %>%
+  head(5) %>%
+  knitr::kable()
+
+
+
+
+
+
 
