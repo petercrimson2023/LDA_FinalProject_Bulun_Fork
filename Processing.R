@@ -172,6 +172,29 @@ SampledData %>%
   knitr::kable()
 
 
+# key summary statistics for demographics
+
+MergedData %>% 
+  select(PtID,
+         Sex,
+         TreatmentGroup,
+         Race,
+         EyeColor,
+         AgeAsofEnrollDt,
+         is_mother_has_myopia,
+         is_father_has_myopia) %>%
+  rename(age = AgeAsofEnrollDt, iris_color = EyeColor) %>%
+  group_by(PtID) %>% 
+  slice_tail(n = 1) %>%
+  ungroup() %>%
+  select(-PtID) -> Demographics
+
+Demographics$age %>% summary()
+Demographics %>%
+  select(-age) %>%
+  apply(.,2,table) %>%
+  knitr::kable()
+
 
 
 
