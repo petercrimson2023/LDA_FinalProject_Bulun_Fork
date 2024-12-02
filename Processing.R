@@ -208,3 +208,16 @@ data$Age <- floor(data$AgeAsofEnrollDt)
 
 
 
+
+
+# save as RDS file
+
+saveRDS(data, "data.rds")
+
+
+
+
+
+
+
+
