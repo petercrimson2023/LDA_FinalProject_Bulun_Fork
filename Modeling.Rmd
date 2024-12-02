@@ -36,16 +36,11 @@ library(dplyr)
 
 
 ```{r}
-data %>% select (-FatherMyop, - MotherMyop)
-
-```
-
-```{r}
 # Fit the LMM with random intercepts for subjects
 mmrm_model <- lmer(
-  SER ~ TrtGroup * Visit + MotherMyop + FatherMyop + Sex + Race + EyeColor +
-    AgeAsofEnrollDt + genetic + (1 | SubjectID),
-  data = data,
+  SER ~ TrtGroup * Visit + Sex + Race + EyeColor +
+    AgeAsofEnrollDt + genetic + (1 | PtID),
+  data = complete_data,
   REML = TRUE
 )
 # Summarize the model results
