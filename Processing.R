@@ -196,7 +196,6 @@ Demographics %>%
   knitr::kable()
 
 
-
 #### clean dataset with selected variables
 
 data <- MergedData[,c("PtID","Visit","SER","TrtGroup","MotherMyop","FatherMyop","Sex","Race","EyeColor","AgeAsofEnrollDt")]
@@ -206,18 +205,123 @@ father_gene <- ifelse(data$FatherMyop=="Yes",1,0)
 data$genetic <- mother_gene+father_gene
 
 data$Age <- floor(data$AgeAsofEnrollDt)
-data <- data %>% select (-FatherMyop, - MotherMyop)
-
-#### complete dataset
-data <- data[data$Visit != "Run-in FU Randomization", ]
-subjects_with_NaN <- unique(data$PtID[is.nan(data$SER)])
-complete_data <- data[!data$PtID %in% subjects_with_NaN, ]
 
 
-head(complete_data)
+# save as Rdata
 
 save(data,file="data.Rdata")
 
-#### chekcc
+
+
+clean_data <- data %>%
+  mutate(Visit = case_when(
+    Visit == "Enrollment" ~ "Month0",
+    Visit == "Run-in FU Randomization" ~ "Randomization",
+    Visit == "Month 6 Visit" ~ "Month6",
+    Visit == "Month 12 Visit" ~ "Month12", 
+    Visit == "Month 18 Visit" ~ "Month18",
+    Visit == "Month 24 Visit" ~ "Month24",
+    Visit == "Month 30 Visit" ~ "Month30"
+  ))
+
+# 2. 转换为宽格式
+wide_data <- clean_data %>%
+  select(PtID, Visit, SER, TrtGroup, MotherMyop, FatherMyop, Sex, Race, EyeColor, AgeAsofEnrollDt, genetic, Age) %>%
+  pivot_wider(
+    id_cols = c(PtID, TrtGroup, MotherMyop, FatherMyop, Sex, Race, EyeColor, AgeAsofEnrollDt, genetic, Age),
+    names_from = Visit,
+    values_from = SER,
+    names_prefix = "SER_"
+  ) %>% select(-SER_Randomization)
+
+view(wide_data)
+
+# check missingness
+
+wide_data %>% select(
+  SER_Month6,
+  SER_Month12,
+  SER_Month18,
+  SER_Month24,
+  SER_Month30
+) %>% apply(.,2,function(x) sum(is.na(x)))
+
+
+# start imputing missing values
+
+library(mice)
+
+# install naniar if not installed
+if (!requireNamespace("naniar", quietly = TRUE)) {
+  install.packages("naniar")
+}
+library(naniar)
+
+# Create prediction matrix for longitudinal data
+
+# 1. Set up prediction matrix
+pred_mat <- make.predictorMatrix(wide_data)
+
+# 2. Modify prediction matrix to ensure temporal ordering
+# Set future time points to 0 to prevent them from being used in prediction
+# This ensures we only use past and present data to impute missing values
+pred_mat["SER_Month0", c("SER_Month6","SER_Month12","SER_Month18","SER_Month24","SER_Month30")] <- 0
+pred_mat["SER_Month6", c("SER_Month12","SER_Month18","SER_Month24","SER_Month30")] <- 0
+pred_mat["SER_Month12", c("SER_Month18","SER_Month24","SER_Month30")] <- 0
+pred_mat["SER_Month18", c("SER_Month24","SER_Month30")] <- 0
+pred_mat["SER_Month24", "SER_Month30"] <- 0
+
+# 3. Set imputation methods
+meth <- make.method(wide_data)
+# Set method for all SER columns to normal distribution
+# Since SER is a continuous variable, we use normal distribution for imputation
+meth[grep("SER_", names(meth))] <- "pmm"  
+
+# 4. Perform multiple imputation
+imp <- mice(wide_data, 
+            m = 10,           # Generate 10 imputed datasets
+            maxit = 50,      # Number of iterations
+            method = meth,   # Specified imputation methods
+            predictorMatrix = pred_mat,  # Custom prediction matrix
+            seed = 123)      # Set seed for reproducibility
+
+# 5. Check imputation quality
+# Examine distributions of imputed values versus observed values
+densityplot(imp)
+# Check convergence of imputation algorithm
+plot(imp)
+
+# 6. Get completed datasets
+# Get all imputed datasets in long format
+completed_data <- complete(imp, action = "long")  
+# Or get a single imputed dataset
+completed_data_1 <- complete(imp, 1)  # Get first imputed dataset
+
+
+
+# Optional: Sensitivity Analyses
+# A. Using Predictive Mean Matching instead of normal distribution
+meth_pmm <- meth
+meth_pmm[grep("SER_", names(meth))] <- "pmm"  
+imp_pmm <- mice(wide_data, 
+                m = 5,
+                method = meth_pmm,
+                predictorMatrix = pred_mat)
+
+# B. Compare different numbers of imputations
+imp_5 <- mice(wide_data, m = 5, pred = pred_mat)
+imp_10 <- mice(wide_data, m = 10, pred = pred_mat)
+
+# C. Last Observation Carried Forward (LOCF) for sensitivity analysis
+locf_data <- wide_data %>%
+  mutate(
+    across(starts_with("SER_"), 
+           ~if_else(is.na(.), lag(., order_by = as.numeric(gsub("SER_Month", "", cur_column()))), .))
+  )
+
+
+
+
+
 
 
