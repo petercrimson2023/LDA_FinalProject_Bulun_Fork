@@ -198,16 +198,13 @@ Demographics %>%
 
 #### clean dataset with selected variables
 
-data <- MergedData[,c("Visit","SER","TrtGroup","MotherMyop","FatherMyop","Sex","Race","EyeColor","AgeAsofEnrollDt")]
+data <- MergedData[,c("PtID","Visit","SER","TrtGroup","MotherMyop","FatherMyop","Sex","Race","EyeColor","AgeAsofEnrollDt")]
 
 mother_gene <- ifelse(data$MotherMyop=="Yes",1,0)
 father_gene <- ifelse(data$FatherMyop=="Yes",1,0)
 data$genetic <- mother_gene+father_gene
 
 data$Age <- floor(data$AgeAsofEnrollDt)
-
-
-
 
 
 # save as Rdata
