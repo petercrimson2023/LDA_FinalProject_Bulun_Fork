@@ -1,0 +1,50 @@
+---
+title: "MMRM Analysis using the `tern.mmrm` Package"
+author: "Your Name"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Introduction
+
+This document provides an overview of fitting a **Mixed Model for Repeated Measures (MMRM)** using the `tern.mmrm` R package. MMRM is a specific linear mixed effects model that includes fixed effects for the following variables:
+- **Treatment Arm**
+- **Categorical Visit**
+- **Treatment by Visit Interaction**
+- Other covariates for adjustment (e.g., age, gender)
+
+The model uses maximum likelihood estimation and is particularly useful for analyzing repeated measures data.
+
+---
+
+## Setup
+
+Load the necessary libraries and data.
+
+```{r}
+
+# Load additional packages
+library(dplyr)
+library(ggplot2)
+if (!require("lme4")) {
+  install.packages("lme4")
+}
+library(lme4)
+library(dplyr)
+
+```
+
+
+```{r}
+# Fit the LMM with random intercepts for subjects
+mmrm_model <- lmer(
+  SER ~ TrtGroup * Visit + Sex + Race + EyeColor +
+    AgeAsofEnrollDt + genetic + (1 | PtID),
+  data = complete_data,
+  REML = TRUE
+)
+# Summarize the model results
+summary(mmrm_model)
+```
+
+
