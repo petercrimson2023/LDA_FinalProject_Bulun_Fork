@@ -196,15 +196,22 @@ Demographics %>%
   knitr::kable()
 
 
+
 #### clean dataset with selected variables
 
-data <- MergedData[,c("Visit","SER","TrtGroup","MotherMyop","FatherMyop","Sex","Race","EyeColor","AgeAsofEnrollDt")]
+data <- MergedData[,c("PtID","Visit","SER","TrtGroup","MotherMyop","FatherMyop","Sex","Race","EyeColor","AgeAsofEnrollDt")]
 
 mother_gene <- ifelse(data$MotherMyop=="Yes",1,0)
 father_gene <- ifelse(data$FatherMyop=="Yes",1,0)
 data$genetic <- mother_gene+father_gene
 
 data$Age <- floor(data$AgeAsofEnrollDt)
+data <- data %>% select (-FatherMyop, - MotherMyop)
+
+#### complete dataset
+data <- data[data$Visit != "Run-in FU Randomization", ]
+subjects_with_NaN <- unique(data$PtID[is.nan(data$SER)])
+complete_data <- data[!data$PtID %in% subjects_with_NaN, ]
 
 
-
+head(complete_data)
