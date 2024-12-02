@@ -215,3 +215,9 @@ complete_data <- data[!data$PtID %in% subjects_with_NaN, ]
 
 
 head(complete_data)
+
+save(data,file="data.Rdata")
+
+####
+
+
