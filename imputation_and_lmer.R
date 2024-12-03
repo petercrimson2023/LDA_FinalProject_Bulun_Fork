@@ -38,6 +38,8 @@ wide_data <- clean_data %>%
     names_prefix = "SER_"
   ) %>% select(-SER_Randomization)
 
+#wide_data %>% filter(Race != "White") -> wide_data
+
 view(wide_data)
 
 # check missingness
@@ -134,17 +136,28 @@ to_long <- function(data) {
 }
 
 # 2. Create list to store models
-model_list <- vector("list", 10)  
+model_list <- vector("list", 20)  
 
 # 3. Loop through each imputation
 for(i in 1:20) {
   print(i)
   imp_data <- complete(imp, i)
+  imp_data %>% select(-SER_Month0,-SER_Month6,-SER_Month12,-SER_Month18) -> imp_data
   long_data <- to_long(imp_data)
   
-  model_list[[i]] <-  lme(fixed =SER ~ TrtGroup + Visit_numeric * genetic + Sex + Race + EyeColor+AgeAsofEnrollDt
-                          , na.action = na.omit,
-                          random = ~ Visit_numeric | PtID, data =long_data)
+  model_list[[i]] <-
+    lme(
+      fixed = SER ~ TrtGroup * (Visit_numeric 
+      + genetic 
+      +  genetic + Race 
+      + Sex + EyeColor +
+        AgeAsofEnrollDt)
+      ,
+      na.action = na.omit,
+      random = ~ Visit_numeric |
+        PtID,
+      data = long_data
+    )
  
     #lme(fixedSER ~ TrtGroup +Visit *genetic + Sex + Race + EyeColor +
                           #   AgeAsofEnrollDt + (Visit | PtID),
@@ -188,8 +201,8 @@ final_results <- data.frame(
 )
 
 # 6. Print results in nice format
-print(final_results, digits = 3)
-
+#print(final_results, digits = 3)
+view(final_results)
 
 
 
