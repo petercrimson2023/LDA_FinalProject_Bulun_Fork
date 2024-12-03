@@ -1,0 +1,221 @@
+---
+title: "MMRM Analysis using the `tern.mmrm` Package"
+author: "Your Name"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Introduction
+
+This document provides an overview of fitting a **Mixed Model for Repeated Measures (MMRM)** using the `tern.mmrm` R package. MMRM is a specific linear mixed effects model that includes fixed effects for the following variables:
+- **Treatment Arm**
+- **Categorical Visit**
+- **Treatment by Visit Interaction**
+- Other covariates for adjustment (e.g., age, gender)
+
+The model uses maximum likelihood estimation and is particularly useful for analyzing repeated measures data.
+
+---
+
+## Setup
+
+Load the necessary libraries and data.
+
+```{r}
+
+# Load additional packages
+library(dplyr)
+library(ggplot2)
+if (!require("lme4")) {
+  install.packages("lme4")
+}
+library(lme4)
+library(dplyr)
+
+```
+
+```{r}
+load("data.RData")
+
+clean_data <- data %>%
+  # First reclassify Race
+  mutate(
+    Race = case_when(
+      Race == "Black/African American" ~ "Black",
+      Race == "White" ~ "White",
+      TRUE ~ "Other"  # All other categories combined
+    ),
+    # Convert Race to factor with specific reference level
+    Race = factor(Race, levels = c("Black", "White", "Other")),
+    # Then clean Visit
+    Visit = case_when(
+      Visit == "Enrollment" ~ "Month0",
+      Visit == "Run-in FU Randomization" ~ "Randomization",
+      Visit == "Month 6 Visit" ~ "Month6",
+      Visit == "Month 12 Visit" ~ "Month12", 
+      Visit == "Month 18 Visit" ~ "Month18",
+      Visit == "Month 24 Visit" ~ "Month24",
+      Visit == "Month 30 Visit" ~ "Month30"
+    ),
+    # Divide AL into four subgroups using specific breakpoints
+    AL_group = cut(
+      AL,
+      breaks = c(-Inf, 24.5, 26, 27.5, Inf),  # Specify breakpoints
+      labels = c("Group1", "Group2", "Group3", "Group4"),  # Subgroup labels
+      include.lowest = TRUE
+    )
+  ) %>%
+  # Create binary indicator variables for each subgroup
+  mutate(
+    AL_group1 = as.integer(AL_group == "Group1"),
+    AL_group2 = as.integer(AL_group == "Group2"),
+    AL_group3 = as.integer(AL_group == "Group3"),
+    AL_group4 = as.integer(AL_group == "Group4")
+  ) %>%
+  filter(Visit != "Randomization") %>% 
+  mutate(
+      Visit_numeric = case_when(
+        Visit == "Month0" ~ 0,
+        Visit == "Month6" ~ 6,
+        Visit == "Month12" ~ 12,
+        Visit == "Month18" ~ 18,
+        Visit == "Month24" ~ 24,
+        Visit == "Month30" ~ 30
+      )
+    )
+
+# Split into four separate datasets based on subgroups
+group1_data <- clean_data %>% filter(AL_group1 == 1) %>% select(-AL_group1, -AL_group2, -AL_group3, -AL_group4)
+group2_data <- clean_data %>% filter(AL_group2 == 1) %>% select(-AL_group1, -AL_group2, -AL_group3, -AL_group4)
+group3_data <- clean_data %>% filter(AL_group3 == 1) %>% select(-AL_group1, -AL_group2, -AL_group3, -AL_group4)
+# group4_data <- clean_data %>% filter(AL_group4 == 1) %>% select(-AL_group1, -AL_group2, -AL_group3, -AL_group4)
+
+
+
+```
+
+```{r}
+# Fit the LMM with random intercepts for subjects
+library(nlme)
+lmm_model <- lmer(
+  AL ~ TrtGroup * as.factor(Visit_numeric) + Sex + Race + EyeColor +
+    AgeAsofEnrollDt + genetic + (1 | PtID),
+  data = group3_data,
+  REML = TRUE
+)
+
+
+        
+# Summarize the model results
+summary(lmm_model)
+
+library(broom.mixed)  # To tidy model summaries
+library(dplyr)
+
+# Function to summarize fixed effects and calculate p-values
+summarize_lmer_results <- function(model) {
+  # Extract fixed effects and their statistics
+  summary_df <- broom.mixed::tidy(model, effects = "fixed") %>%
+    mutate(
+      p_value = 2 * pt(-abs(statistic), df = df.residual(model)),  # Calculate p-value
+      significance = case_when(
+        p_value < 0.001 ~ "***",
+        p_value < 0.01 ~ "**",
+        p_value < 0.05 ~ "*",
+        TRUE ~ "ns"
+      )
+    )
+  
+  # Return the summarized table
+  summary_df %>%
+    select(term, estimate, std.error, statistic, p_value, significance) %>%
+    arrange(p_value)
+}
+
+# Example usage
+model_summary <- summarize_lmer_results(lmm_model)
+print(model_summary)
+
+```
+
+
+```{r}
+
+# Fit the LMM with random intercepts for subjects
+library(nlme)
+lmm_model1 <- lmer(
+  AL ~ TrtGroup*as.factor(genetic)*Visit_numeric + Sex + Race + EyeColor +
+    AgeAsofEnrollDt 
+  + ( Visit_numeric | PtID),
+  data = group1_data,
+  REML = TRUE
+)
+summarize_lmer_results(lmm_model1)
+
+
+lmm_model2 <- lmer(
+  AL ~ TrtGroup*as.factor(genetic)*Visit_numeric + Sex + Race + EyeColor +
+    AgeAsofEnrollDt 
+  + ( Visit_numeric | PtID),
+  data = group2_data,
+  REML = TRUE
+)
+summarize_lmer_results(lmm_model2)
+
+lmm_model3 <- lmer(
+  AL ~ TrtGroup*as.factor(genetic)*Visit_numeric + Sex + Race + EyeColor +
+    AgeAsofEnrollDt 
+  + ( Visit_numeric | PtID),
+  data = group3_data,
+  REML = TRUE
+)
+summarize_lmer_results(lmm_model3)
+
+```
+```{r}
+
+# Load necessary libraries
+library(lme4)
+library(broom.mixed)
+library(dplyr)
+
+# Define a function to fit and summarize LMM for a given dataset
+fit_and_summarize_lmm <- function(data, group_name) {
+  # Fit the model
+  lmm_model <- lmer(
+    AL ~ TrtGroup * as.factor(genetic) * Visit_numeric + Sex + Race + EyeColor +
+      AgeAsofEnrollDt + (Visit_numeric | PtID),
+    data = data,
+    REML = TRUE
+  )
+  
+  # Summarize the model
+  summary_df <- broom.mixed::tidy(lmm_model, effects = "fixed") %>%
+    mutate(
+      p_value = 2 * pt(-abs(statistic), df = df.residual(lmm_model)),
+      significance = case_when(
+        p_value < 0.001 ~ "***",
+        p_value < 0.01 ~ "**",
+        p_value < 0.05 ~ "*",
+        TRUE ~ "ns"
+      )
+    )
+  
+  # Add group name for clarity
+  summary_df <- summary_df %>%
+    mutate(group = group_name)
+  
+  return(summary_df)
+}
+
+# Fit and summarize models for all groups
+results_group1 <- fit_and_summarize_lmm(group1_data, "Group 1")
+results_group2 <- fit_and_summarize_lmm(group2_data, "Group 2")
+results_group3 <- fit_and_summarize_lmm(group3_data, "Group 3")
+
+# Combine results into a single table
+all_results <- bind_rows(results_group1, results_group2, results_group3)
+
+# Print the summarized results
+print(all_results)
+```

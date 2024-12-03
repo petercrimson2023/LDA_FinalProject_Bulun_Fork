@@ -1,6 +1,6 @@
 library(tidyverse)
 library(lme4)
-library(broom.mixed)
+#library(broom.mixed)
 
 load("data.RData")
 

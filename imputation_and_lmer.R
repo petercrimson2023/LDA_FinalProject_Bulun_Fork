@@ -1,6 +1,7 @@
 library(tidyverse)
 library(lme4)
-library(broom.mixed)
+library(nlme)
+#library(broom.mixed)
 
 load("data.RData")
 
@@ -90,7 +91,7 @@ meth[grep("SER_", names(meth))] <- "pmm"
 # 4. Perform multiple imputation
 imp <- mice(wide_data, 
             m = 20,           # Generate 10 imputed datasets
-            maxit = 50,      # Number of iterations
+            maxit = 20,      # Number of iterations
             method = meth,   # Specified imputation methods
             predictorMatrix = pred_mat,  # Custom prediction matrix
             seed = 123)      # Set seed for reproducibility
@@ -137,13 +138,18 @@ model_list <- vector("list", 10)
 
 # 3. Loop through each imputation
 for(i in 1:20) {
+  print(i)
   imp_data <- complete(imp, i)
   long_data <- to_long(imp_data)
   
-  model_list[[i]] <- lmer(SER ~ TrtGroup +genetic + Visit + Sex + Race + EyeColor +
-                            AgeAsofEnrollDt + (1 | PtID),
-                          data = long_data,
-                          REML = TRUE)
+  model_list[[i]] <-  lme(fixed =SER ~ TrtGroup + Visit_numeric * genetic + Sex + Race + EyeColor+AgeAsofEnrollDt
+                          , na.action = na.omit,
+                          random = ~ Visit_numeric | PtID, data =long_data)
+ 
+    #lme(fixedSER ~ TrtGroup +Visit *genetic + Sex + Race + EyeColor +
+                          #   AgeAsofEnrollDt + (Visit | PtID),
+                          # data = long_data,
+                          # REML = TRUE)
 }
 
 get_coef_se <- function(model) {
